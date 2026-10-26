@@ -1,0 +1,132 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix trsp: <https://w3id.org/trsp/> .
+@prefix edenkb: <https://w3id.org/eosc-eden/kb#> .
+@prefix drawg: <https://w3id.org/eosc-eden/kb/drawg#> .
+
+trsp:profile.6BF0A22CB5
+    a edenkb:Profile ;
+    skos:prefLabel "RDA Common Descriptive Attributes" ;
+    skos:altLabel "DRAWG" ;
+    skos:definition "Common, concise, high-level descriptors of a research data repository, from the RDA recommendation doi:10.15497/RDA00103." ;
+    dct:source <https://doi.org/10.15497/RDA00103> ;
+    edenkb:minimumCoverage 0.6 .
+
+drawg:repository-name
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Repository Name" ;
+    skos:definition "The name that the repository provides and what users commonly call the repository." ;
+    skos:exactMatch trsp:att.64DA341B5F .
+
+drawg:url
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "URL" ;
+    skos:definition "The uniform resource locator (URL) that serves as the homepage and primary entry point for accessing the repository on the World Wide Web." ;
+    skos:exactMatch trsp:att.7470DA5BBA .
+
+drawg:country
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Country" ;
+    skos:definition "The country in which the repository operates." ;
+    skos:exactMatch trsp:att.4570870110 .
+
+drawg:language
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Language" ;
+    skos:definition "The native language of the user interface of the repository." ;
+    skos:exactMatch trsp:att.57C5A7579F .
+
+drawg:organization
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Organization" ;
+    skos:definition "The organization responsible for the data repository." ;
+    skos:exactMatch trsp:att.41F4454A97 .
+
+drawg:contact
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Contact" ;
+    skos:definition "Contact information for the data repository." ;
+    skos:exactMatch trsp:att.291848CB10 .
+
+drawg:description
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Description" ;
+    skos:definition "A general description of the data repository." ;
+    skos:exactMatch trsp:att.0C1737084B .
+
+drawg:research-area
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Research Area" ;
+    skos:definition "The subject classification of datasets in a repository." ;
+    skos:exactMatch trsp:att.08F1F3FAB7 .
+
+drawg:persistent-identifiers
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Persistent Identifiers" ;
+    skos:definition "The repository provides or utilizes persistent identifiers." ;
+    skos:exactMatch trsp:att.2F993B25AD .
+
+drawg:machine-interoperability
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Machine Interoperability" ;
+    skos:definition "Application Programming Interfaces (APIs), service endpoints, and other protocol interfaces that enable machine access to a repository." ;
+    skos:exactMatch trsp:att.05CDC6D747 .
+
+drawg:metadata
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Metadata" ;
+    skos:definition "Format/s of the metadata that describes datasets in a repository." ;
+    skos:exactMatch trsp:att.365F68CB18 .
+
+drawg:curation
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Curation" ;
+    skos:definition "Curatorial services performed by repository functionality or personnel that enhance or otherwise add value to datasets and create purposeful collections of data." ;
+    skos:exactMatch trsp:att.66C6612EA5 .
+
+drawg:terms-of-deposit
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Terms of Deposit" ;
+    skos:definition "Policies that explain what datasets the repository will accept for deposit, from whom, and under what conditions, including costs." ;
+    skos:exactMatch trsp:att.206C4C60AA .
+
+drawg:terms-of-access
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Terms of Access" ;
+    skos:definition "Policies for who can view and access a dataset and under what conditions." ;
+    skos:exactMatch trsp:att.687D20F962 .
+
+drawg:dataset-use-license
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Dataset Use License" ;
+    skos:definition "The terms of reuse of datasets that are provided by a repository." ;
+    skos:exactMatch trsp:att.769A9F52BD .
+
+drawg:certification
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Certification" ;
+    skos:definition "Earning a certification, typically by means of a third party audit or community endorsement process, presents evidence that a repository meets a formal standard and adheres to a set of best, professional practices." ;
+    skos:exactMatch trsp:att.27C898E8A0 .
+
+drawg:preservation
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile trsp:profile.6BF0A22CB5 ;
+    skos:prefLabel "Preservation" ;
+    skos:definition "Policies that explain the repository's commitment and processes that ensure the long-term preservation, fitness, and availability of datasets." ;
+    skos:exactMatch trsp:att.156B52FB19 .
