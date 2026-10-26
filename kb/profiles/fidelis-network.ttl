@@ -1,0 +1,228 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix trsp: <https://w3id.org/trsp/> .
+@prefix edenkb: <https://w3id.org/eosc-eden/kb#> .
+@prefix fidelis: <https://w3id.org/eosc-eden/kb/fidelis-network#> .
+
+<https://eden-fidelis.eu/network-member>
+    a edenkb:Profile ;
+    skos:prefLabel "FIDELIS network" ;
+    skos:definition "The FIDELIS project will establish and consolidate a European network of FAIR-enabling trustworthy digital repositories that will live on after the project finishes and represent its member repositories to key stakeholders on important matters." ;
+    skos:exactMatch trsp:profile.3C2D6C1C37 ;
+    edenkb:minimumCoverage 0.6 .
+
+fidelis:purpose
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Purpose" ;
+    skos:definition "Brief Description of Purpose" ;
+    skos:closeMatch trsp:att.035ACCB10D .
+
+fidelis:governanceStructure
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Governance Structure" ;
+    skos:definition "A description of the governance structure of the repository" ;
+    skos:closeMatch trsp:att.7C68DBB456 .
+
+fidelis:keyStakeholders
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Key Stakeholders" ;
+    skos:definition "The key stakeholders and the nature of the mutual dependency" ;
+    skos:closeMatch trsp:att.01D16EFB9B .
+
+fidelis:memberships
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Memberships" ;
+    skos:definition "Any initiatives, networks, or infrastructures that the repository is a member of" ;
+    skos:closeMatch trsp:att.241E6C58DF .
+
+fidelis:coretrustsealCertificationStatus
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "CoreTrustSeal Certification Status" ;
+    skos:definition "Certfiied by CoreTrustSeal" ;
+    skos:exactMatch trsp:att.27C898E8A0 .
+
+fidelis:endorsedTrustPrinciples
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Endorsed TRUST Principles?" ;
+    skos:definition "Has the repository endorsed the TRUST principles?" ;
+    skos:exactMatch trsp:att.78CC017229 .
+
+fidelis:certifications
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Certifications" ;
+    skos:definition "Any certifications that the repository has obtained" ;
+    skos:exactMatch trsp:att.27C898E8A0 .
+
+fidelis:yearEstablished
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Year Established" ;
+    skos:definition "Year in which the repository was established" ;
+    skos:exactMatch trsp:att.48BF7E1522 ;
+    edenkb:mandatory true .
+
+fidelis:url
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "URL" ;
+    skos:definition "An endpoint URL for the repository" ;
+    skos:exactMatch trsp:att.7470DA5BBA ;
+    edenkb:mandatory true .
+
+fidelis:repositoryName
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Repository name" ;
+    skos:definition "The name or title of the repository or service" ;
+    skos:exactMatch trsp:att.64DA341B5F ;
+    edenkb:mandatory true .
+
+fidelis:fileFormats
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "File Formats" ;
+    skos:definition "List of file formats supported by the repository - can be categorised as 'Preferred', 'Dissemination', and 'Preservation' formats." ;
+    skos:exactMatch trsp:att.1BF23E39F5 .
+
+fidelis:vocabulariesUsed
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Vocabularies Used" ;
+    skos:definition "List of vocabularies and semantic artefacts supported by the repository" ;
+    skos:exactMatch trsp:att.6AF56A372D .
+
+fidelis:persistentIdentifierSystem
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Persistent Identifier System" ;
+    skos:definition "List of persistent identifiers supported by the repository" ;
+    skos:exactMatch trsp:att.2F993B25AD .
+
+fidelis:licence
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Licence" ;
+    skos:definition "List of licences supported by the repository" ;
+    skos:exactMatch trsp:att.543A727F84 .
+
+fidelis:hostingInstitutionOrganisation
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Hosting Institution/ Organisation" ;
+    skos:definition "Organisation(s) hosting the repository" ;
+    skos:exactMatch trsp:att.41F4454A97 ;
+    edenkb:mandatory true .
+
+fidelis:governanceModel
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Governance Model" ;
+    skos:definition "Type of governance and management model" ;
+    skos:exactMatch trsp:att.494B22C440 .
+
+fidelis:dataAccessPolicy
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Data Access Policy" ;
+    skos:definition "The repository has a Data Access Policy" ;
+    skos:exactMatch trsp:att.6B7CED5897 .
+
+fidelis:preservationPolicy
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Preservation Policy" ;
+    skos:definition "The repository has a Preservation Policy" ;
+    skos:exactMatch trsp:att.768DAFA0DB .
+
+fidelis:depositPolicy
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Deposit Policy" ;
+    skos:definition "The repository has a Deposit/ Accession Policy" ;
+    skos:exactMatch trsp:att.521A4A9E17 .
+
+fidelis:dataRetentionPolicy
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Data Retention Policy" ;
+    skos:definition "The repository has a Data Retention Policy" ;
+    skos:exactMatch trsp:att.1D00720769 .
+
+fidelis:countryCoverage
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Country/Region" ;
+    skos:definition "Country coverage of the repository" ;
+    skos:exactMatch trsp:att.34D1282F11 .
+
+fidelis:primaryResearchDomains
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Primary Research Domains" ;
+    skos:definition "Primary research domain(s)" ;
+    skos:exactMatch trsp:att.3B633179C5 .
+
+fidelis:eoscNodeParticipation
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "EOSC Node Participation" ;
+    skos:definition "Part of current or aspiring EOSC Node?" ;
+    skos:exactMatch trsp:att.394BC515E7 .
+
+fidelis:fundingModel
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Funding Model" ;
+    skos:definition "What is the basis of revenue generation for paid servies?" ;
+    skos:exactMatch trsp:att.076A4C2950 .
+
+fidelis:revenueType
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Revenue Type" ;
+    skos:definition "What are the sources of revenue available to the repositopry?" ;
+    skos:exactMatch trsp:att.6EF77F35F8 .
+
+fidelis:dataTypesAccepted
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Data Types Accepted" ;
+    skos:definition "A list of object types accepted by the repository" ;
+    skos:exactMatch trsp:att.54317F78CB .
+
+fidelis:apisAvailable
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "APIs Available" ;
+    skos:definition "List of API service types/ protocols available" ;
+    skos:closeMatch trsp:att.7298144E24 .
+
+fidelis:countryRegion
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Country/Region" ;
+    skos:definition "Country in which the repository is located" ;
+    skos:exactMatch trsp:att.4570870110 ;
+    edenkb:mandatory true .
+
+fidelis:typeOfRepository
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Type of Repository" ;
+    skos:definition "Type of repository" ;
+    skos:exactMatch trsp:att.6A715E3A22 ;
+    edenkb:mandatory true .
+
+fidelis:listMetadata
+    a edenkb:ProfileProperty, skos:Concept ;
+    edenkb:profile <https://eden-fidelis.eu/network-member> ;
+    skos:prefLabel "Metadata Schema Supported" ;
+    skos:definition "The metadata schema and profiles supported by the repository" ;
+    skos:exactMatch trsp:att.6C03AB58B8 ;
+    edenkb:mandatory true .
