@@ -1,0 +1,3257 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix trsp: <https://w3id.org/trsp/> .
+
+trsp:att.4CB9ED25FE
+    a skos:Concept ;
+    skos:prefLabel "Sustainability" ;
+    skos:definition "Sustainability refers to a trustworthy repository's capacity to ensure uninterrupted, long-term access to its data holdings for current and future user communities. It encompasses the repository's ability to maintain and evolve its services over time, typically documented through a formal sustainability plan or dedicated webpage outlining strategies to meet changing user requirements." .
+
+trsp:att.0849A7F1E2
+    a skos:Concept ;
+    skos:prefLabel "Social Sustainability" ;
+    skos:definition "Aspects such as open governance, community involvement and engagement, planning and continuity arrangements, forum and working group participation and creation. Frequent user surveys, publication of roadmaps." .
+
+trsp:att.539A68DF8A
+    a skos:Concept ;
+    skos:prefLabel "Governance" ;
+    skos:definition "The structures, authority, decision processes and accountability arrangements by which an organisation or service is directed and controlled." .
+
+trsp:att.7C68DBB456
+    a skos:Concept ;
+    skos:prefLabel "Governance Description" ;
+    skos:definition "A repository or research-infrastructure characteristic describing governance description in the context of governance." .
+
+trsp:att.247C3C5849
+    a skos:Concept ;
+    skos:prefLabel "Stakeholder Representation" ;
+    skos:definition "A characteristic describing how the repository identifies, represents, supports or engages relevant communities and stakeholders." .
+
+trsp:att.494B22C440
+    a skos:Concept ;
+    skos:prefLabel "Governance Model" ;
+    skos:definition "Type of governance and management model" .
+
+trsp:att.4E4FD79526
+    a skos:Concept ;
+    skos:prefLabel "Expert Guidance" ;
+    skos:definition "Use of appropriate subject, technical, legal or preservation expertise to guide repository policy, practice and review." .
+
+trsp:att.1FC6BCD089
+    a skos:Concept ;
+    skos:prefLabel "Periodic Expert/ External Review" ;
+    skos:definition "A repository or research-infrastructure characteristic describing periodic expert/ external review in the context of expert guidance." .
+
+trsp:att.6237ED1101
+    a skos:Concept ;
+    skos:prefLabel "Living Will" ;
+    skos:definition "A documented plan specifying how stewardship responsibilities, holdings and associated information will be handled if a repository can no longer operate." .
+
+trsp:att.42D7C2C3A4
+    a skos:Concept ;
+    skos:prefLabel "Public Statement of Wind-Down" ;
+    skos:definition "A repository or research-infrastructure characteristic describing public statement of wind-down in the context of living will." .
+
+trsp:att.5FBAF6DC9F
+    a skos:Concept ;
+    skos:prefLabel "Planning/ Continuity" ;
+    skos:definition "Planning for sustained operation, disruption response, succession and orderly transfer or wind-down of services and holdings." .
+
+trsp:att.7495ADA28B
+    a skos:Concept ;
+    skos:prefLabel "Public Continuity Plan" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for continuity." .
+
+trsp:att.0CF10C6CFB
+    a skos:Concept ;
+    skos:prefLabel "Community Engagement" ;
+    skos:definition "Ongoing interaction with relevant communities to understand needs, communicate plans and incorporate stakeholder input into repository decisions." .
+
+trsp:att.01D16EFB9B
+    a skos:Concept ;
+    skos:prefLabel "Managed Stakeholder Dependencies" ;
+    skos:definition "A document detailing the management and nature of stakeholder dependencies - end user groupings, depositors, funders, service users and aggregators, including statements of intent in respect of partnership and stakeholder management and its improvement." .
+
+trsp:att.04DC5770C9
+    a skos:Concept ;
+    skos:prefLabel "Documentation on Community Engagement" ;
+    skos:definition "Documented information explaining community engagement and how it is implemented or applied." .
+
+trsp:att.13368CB9AC
+    a skos:Concept ;
+    skos:prefLabel "Impact Assessment" ;
+    skos:definition "Information on impact of repsoitory services on the designated community and stakeholders." .
+
+trsp:att.139CD89A8A
+    a skos:Concept ;
+    skos:prefLabel "Community Engagement" ;
+    skos:definition "Demonstrable longer-term funding and income sources. Structural income is adequate. Revenue is justifiable, the source is clearly defined, and revenue does not come from selling the data or metadata holdings. Recovering justifiable cost, for example for disseminating or storing large data sets, is acceptable." .
+
+trsp:att.3E8808255F
+    a skos:Concept ;
+    skos:prefLabel "Business Model" ;
+    skos:definition "The organisational and financial model by which a service creates and sustains value, including its users, activities, resources, costs and sources of income." .
+
+trsp:att.7CBE776C7A
+    a skos:Concept ;
+    skos:prefLabel "Business Model Type" ;
+    skos:definition "A repository or research-infrastructure characteristic describing business model type in the context of business model." .
+
+trsp:att.1EB263B2CE
+    a skos:Concept ;
+    skos:prefLabel "Revenue" ;
+    skos:definition "Income received or expected to support the operation and development of a repository or service." .
+
+trsp:att.410BA123B3
+    a skos:Concept ;
+    skos:prefLabel "Justifiable Cost" ;
+    skos:definition "A financial measure or category representing justifiable cost associated with operating or sustaining the repository or service." .
+
+trsp:att.2758AC32B8
+    a skos:Concept ;
+    skos:prefLabel "Justification of Income" ;
+    skos:definition "A repository or research-infrastructure characteristic describing justification of income in the context of justifiable cost." .
+
+trsp:att.0E0C905D2A
+    a skos:Concept ;
+    skos:prefLabel "Data is free" ;
+    skos:definition "Identified primarily as a requirement for public infrastructure services by POSI, this criterion ensures that the data gathered by services is available without cost to the community, and serves as insurance should the service no longer be available." .
+
+trsp:att.7660700650
+    a skos:Concept ;
+    skos:prefLabel "Compensation Rule" ;
+    skos:definition "A repository or research-infrastructure characteristic describing compensation rule in the context of data is free." .
+
+trsp:att.678439CD93
+    a skos:Concept ;
+    skos:prefLabel "Source" ;
+    skos:definition "The origin, provider or funding source associated with the relevant resource, information or revenue." .
+
+trsp:att.6EF77F35F8
+    a skos:Concept ;
+    skos:prefLabel "Revenue Type" ;
+    skos:definition "A repository or research-infrastructure characteristic describing revenue type in the context of source." .
+
+trsp:att.076A4C2950
+    a skos:Concept ;
+    skos:prefLabel "Revenue Source" ;
+    skos:definition "A repository or research-infrastructure characteristic describing revenue source in the context of source." .
+
+trsp:att.5CF6AB3B6E
+    a skos:Concept ;
+    skos:prefLabel "Adequacy of Structural Income" ;
+    skos:definition "A repository or research-infrastructure characteristic describing adequacy of structural income in the context of financial sustainability." .
+
+trsp:att.6F306E2CEA
+    a skos:Concept ;
+    skos:prefLabel "Publicly Available Accounts" ;
+    skos:definition "A repository or research-infrastructure characteristic describing publicly available accounts in the context of adequacy of structural income." .
+
+trsp:att.6EDF9A999F
+    a skos:Concept ;
+    skos:prefLabel "Defined and predictable funding regime" ;
+    skos:definition "A repository or research-infrastructure characteristic describing defined and predictable funding regime in the context of adequacy of structural income." .
+
+trsp:att.52A2A122AF
+    a skos:Concept ;
+    skos:prefLabel "Base operations structurally funded" ;
+    skos:definition "A repository or research-infrastructure characteristic describing base operations structurally funded in the context of adequacy of structural income." .
+
+trsp:att.269758D5A0
+    a skos:Concept ;
+    skos:prefLabel "R&D is Possible" ;
+    skos:definition "Structural income makes provision for some R&D activity, and continuous improvement and baseline innovation is not dependent on ad-hoc income." .
+
+trsp:att.4C2B1EA7BC
+    a skos:Concept ;
+    skos:prefLabel "Funding Details" ;
+    skos:definition "A repository or research-infrastructure characteristic describing funding details in the context of adequacy of structural income." .
+
+trsp:att.58915AD64B
+    a skos:Concept ;
+    skos:prefLabel "Funder List" ;
+    skos:definition "A repository or research-infrastructure characteristic describing funder list in the context of funding details." .
+
+trsp:att.00912FBE63
+    a skos:Concept ;
+    skos:prefLabel "Funder Name" ;
+    skos:definition "Name of the funder funding the repository" .
+
+trsp:att.07370ACB06
+    a skos:Concept ;
+    skos:prefLabel "Funder IRI" ;
+    skos:definition "Funder Identifier" .
+
+trsp:att.025E0B27C7
+    a skos:Concept ;
+    skos:prefLabel "Grant Amount" ;
+    skos:definition "Value of the grant" .
+
+trsp:att.2A1E8CB3A2
+    a skos:Concept ;
+    skos:prefLabel "Grant List" ;
+    skos:definition "A repository or research-infrastructure characteristic describing grant list in the context of funding details." .
+
+trsp:att.75B98BCB19
+    a skos:Concept ;
+    skos:prefLabel "Grant Name" ;
+    skos:definition "Name of the fund" .
+
+trsp:att.41DE70E553
+    a skos:Concept ;
+    skos:prefLabel "Grant IRI" ;
+    skos:definition "Grant identifier" .
+
+trsp:att.7DA1B3367B
+    a skos:Concept ;
+    skos:prefLabel "Technical Sustainability" ;
+    skos:definition "Open availability of the technical means to reestablish the service elsewhere" .
+
+trsp:att.79D95E290A
+    a skos:Concept ;
+    skos:prefLabel "Data Continuity" ;
+    skos:definition "The ability to preserve access to and stewardship of data through disruptions, organisational change, service termination or transfer." .
+
+trsp:att.5CB2FB5B4C
+    a skos:Concept ;
+    skos:prefLabel "Content is available free" ;
+    skos:definition "A repository or research-infrastructure characteristic describing content is available free in the context of data continuity." .
+
+trsp:att.608B9C73BB
+    a skos:Concept ;
+    skos:prefLabel "Open Data" ;
+    skos:definition "Data made available for access and reuse under conditions that permit broad use, typically using an open licence and machine-accessible formats." .
+
+trsp:att.3AD2ECA374
+    a skos:Concept ;
+    skos:prefLabel "Data is Available" ;
+    skos:definition "An indicator that data is is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.4B417E2D31
+    a skos:Concept ;
+    skos:prefLabel "Open Source" ;
+    skos:definition "Software for which source code is made available under a licence permitting inspection, use, modification and redistribution." .
+
+trsp:att.7BCEAFB957
+    a skos:Concept ;
+    skos:prefLabel "No Patents on Source Code" ;
+    skos:definition "A repository or research-infrastructure characteristic describing no patents on source code in the context of open source." .
+
+trsp:att.792636C88D
+    a skos:Concept ;
+    skos:prefLabel "Source code is open or available on closure" ;
+    skos:definition "Documentation on source code repositories in use for major repository software and services." .
+
+trsp:att.04F0DB0243
+    a skos:Concept ;
+    skos:prefLabel "Planning" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for planning." .
+
+trsp:att.3609108196
+    a skos:Concept ;
+    skos:prefLabel "Succession Plan" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for succession." .
+
+trsp:att.4B6380A8F0
+    a skos:Concept ;
+    skos:prefLabel "Risk Plan" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for risk." .
+
+trsp:att.11E8C2B7D0
+    a skos:Concept ;
+    skos:prefLabel "Disaster Recovery Plan" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for disaster recovery." .
+
+trsp:att.14C87D5FC0
+    a skos:Concept ;
+    skos:prefLabel "Long-Term Preservation Plan" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for long-term preservation." .
+
+trsp:att.34A4F04633
+    a skos:Concept ;
+    skos:prefLabel "Resource Management Plan" ;
+    skos:definition "Proper management of and planning for human resources and relevant expertise, financial and technology resources, and energy. Includes information about the organisational structure, skills, and skills development/ risks." .
+
+trsp:att.36E657FC7B
+    a skos:Concept ;
+    skos:prefLabel "Repository or Collections Data Management Plan" ;
+    skos:definition "Data Management Planning-related considerations applicable to the repository, its catalogues, and/ or collections." .
+
+trsp:att.375960B05E
+    a skos:Concept ;
+    skos:prefLabel "Infrastructure Links" ;
+    skos:definition "A repository or research-infrastructure characteristic describing infrastructure links in the context of sustainability." .
+
+trsp:att.0341AA63B1
+    a skos:Concept ;
+    skos:prefLabel "Research Infrastructures Served" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using research infrastructures served mechanisms." .
+
+trsp:att.70BFED1AC3
+    a skos:Concept ;
+    skos:prefLabel "Portal Inclusion" ;
+    skos:definition "A repository or research-infrastructure characteristic describing portal inclusion in the context of infrastructure links." .
+
+trsp:att.394BC515E7
+    a skos:Concept ;
+    skos:prefLabel "EOSC Node Service" ;
+    skos:definition "A repository or infrastructure capability concerning eosc node service, provided to users, systems or partner organisations." .
+
+trsp:att.00BAFE4B4E
+    a skos:Concept ;
+    skos:prefLabel "Registered in EOSC Marketplace" ;
+    skos:definition "A repository or research-infrastructure characteristic describing registered in eosc marketplace in the context of infrastructure links." .
+
+trsp:att.241E6C58DF
+    a skos:Concept ;
+    skos:prefLabel "Network Membership" ;
+    skos:definition "A repository or research-infrastructure characteristic describing network membership in the context of infrastructure links." .
+
+trsp:att.65A95F223F
+    a skos:Concept ;
+    skos:prefLabel "Responsibility" ;
+    skos:definition "The obligation to ensure that repository holdings and services are managed reliably, lawfully and in accordance with stated commitments." .
+
+trsp:att.4A4B5A22FE
+    a skos:Concept ;
+    skos:prefLabel "Schema" ;
+    skos:definition "Establishing appropriate metadata schema, as well as assisting to identify applicable file formats and schema" .
+
+trsp:att.365F68CB18
+    a skos:Concept ;
+    skos:prefLabel "Metadata and Data" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.3D988650EC
+    a skos:Concept ;
+    skos:prefLabel "Default Metadata Schema/ Profile Indicated" ;
+    skos:definition "The metadata schema/ profile indicated applied by default when no alternative is explicitly selected." .
+
+trsp:att.141AB906EC
+    a skos:Concept ;
+    skos:prefLabel "Default Licence" ;
+    skos:definition "The licence applied by default when no alternative is explicitly selected." .
+
+trsp:att.1AD6D47183
+    a skos:Concept ;
+    skos:prefLabel "Default PID Service" ;
+    skos:definition "The pid service applied by default when no alternative is explicitly selected." .
+
+trsp:att.678241192E
+    a skos:Concept ;
+    skos:prefLabel "Selectable Metadata Profile" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.02B14C3A2C
+    a skos:Concept ;
+    skos:prefLabel "Default Language" ;
+    skos:definition "The language applied by default when no alternative is explicitly selected." .
+
+trsp:att.7AD9748A7D
+    a skos:Concept ;
+    skos:prefLabel "Applicable and appropriate" ;
+    skos:definition "A repository or research-infrastructure characteristic describing applicable and appropriate in the context of schema." .
+
+trsp:att.1DD721CC5B
+    a skos:Concept ;
+    skos:prefLabel "Schema aligned with community practices" ;
+    skos:definition "A characteristic describing how the repository identifies, represents, supports or engages relevant communities and stakeholders." .
+
+trsp:att.5EBEB8EB16
+    a skos:Concept ;
+    skos:prefLabel "Digital Representation of Physical Objects" ;
+    skos:definition "A repository or research-infrastructure characteristic describing digital representation of physical objects in the context of schema." .
+
+trsp:att.5152A52E1A
+    a skos:Concept ;
+    skos:prefLabel "Ensure Physical Objects have a Digital Representation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing ensure physical objects have a digital representation in the context of digital representation of physical objects." .
+
+trsp:att.40296310DD
+    a skos:Concept ;
+    skos:prefLabel "Stewardship" ;
+    skos:definition "The active, accountable care and management of data, metadata and related digital objects throughout their managed lifecycle." .
+
+trsp:att.00C02C55DC
+    a skos:Concept ;
+    skos:prefLabel "Quality Control - Deposit Documentation" ;
+    skos:definition "Ensuring that deposit documentation is adequate, meets well-defined quality standards or guidelines, and is technically sound (schema validation, file formats, ...)" .
+
+trsp:att.4A98F89201
+    a skos:Concept ;
+    skos:prefLabel "Deposit Documentation Checklist" ;
+    skos:definition "A checklist, with evidence, of the quality assurance measures in place in respect of deposits (submissions)" .
+
+trsp:att.700343D2B3
+    a skos:Concept ;
+    skos:prefLabel "Accurate Entity Metadata" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.4EA572A954
+    a skos:Concept ;
+    skos:prefLabel "Mandatory Metadata Verified" ;
+    skos:definition "A check that accurate entity metadata satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.6420BCA43E
+    a skos:Concept ;
+    skos:prefLabel "Metadata validated against profile" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.51C655BFB0
+    a skos:Concept ;
+    skos:prefLabel "Vocabulary and semantic artefacts linked in metadata" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.7AC495443D
+    a skos:Concept ;
+    skos:prefLabel "URI-linked semantics in metadata" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.00EDBED146
+    a skos:Concept ;
+    skos:prefLabel "Technical validation" ;
+    skos:definition "A check that quality control - deposit documentation satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.25D8680361
+    a skos:Concept ;
+    skos:prefLabel "Significant Properties Extracted" ;
+    skos:definition "A repository or research-infrastructure characteristic describing significant properties extracted in the context of technical validation." .
+
+trsp:att.650F58F3BC
+    a skos:Concept ;
+    skos:prefLabel "Tools for Technical Metadata Extraction" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.552D4D7CBF
+    a skos:Concept ;
+    skos:prefLabel "Machine-actionable format templates in use" ;
+    skos:definition "A digital-object management characteristic concerning machine-actionable format templates in use in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.2AF9C821F9
+    a skos:Concept ;
+    skos:prefLabel "Data Validation" ;
+    skos:definition "Checking data against defined rules, schemas, constraints or expected characteristics to identify errors or non-conformance." .
+
+trsp:att.66C51E0B90
+    a skos:Concept ;
+    skos:prefLabel "Validation of Data Against Schema or Rules" ;
+    skos:definition "A check that data validation satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.22831D6953
+    a skos:Concept ;
+    skos:prefLabel "Provenance" ;
+    skos:definition "Information describing the origins, custody, derivation, processing or other history of a resource that is relevant to its interpretation, authenticity or integrity." .
+
+trsp:att.0FEE58FD17
+    a skos:Concept ;
+    skos:prefLabel "Versioning - Procedure" ;
+    skos:definition "A defined and repeatable set of activities for versioning - procedure within the repository or service." .
+
+trsp:att.0EBAC52CB6
+    a skos:Concept ;
+    skos:prefLabel "Published versioning procedure available" ;
+    skos:definition "An indicator that published versioning procedure is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.73E0B308E5
+    a skos:Concept ;
+    skos:prefLabel "Versioning Strategy/ Objective" ;
+    skos:definition "A practice for identifying, recording and managing changes or versions of repository resources over time." .
+
+trsp:att.3C8326FC1D
+    a skos:Concept ;
+    skos:prefLabel "Update Functionality" ;
+    skos:definition "A repository or research-infrastructure characteristic describing update functionality in the context of provenance." .
+
+trsp:att.11DF98311A
+    a skos:Concept ;
+    skos:prefLabel "Software provides update functionality" ;
+    skos:definition "A repository or research-infrastructure characteristic describing software provides update functionality in the context of update functionality." .
+
+trsp:att.570534F4B8
+    a skos:Concept ;
+    skos:prefLabel "Long-term Preservation" ;
+    skos:definition "Format and bit-level preservation" .
+
+trsp:att.00577FC6FC
+    a skos:Concept ;
+    skos:prefLabel "Resolution Authenticity or Efficiency" ;
+    skos:definition "A repository or research-infrastructure characteristic describing resolution authenticity or efficiency in the context of long-term preservation." .
+
+trsp:att.1C44587E88
+    a skos:Concept ;
+    skos:prefLabel "Persistence Median" ;
+    skos:definition "A quantitative measure used to characterise long-term preservation performance, scale or level." .
+
+trsp:att.5842EC5239
+    a skos:Concept ;
+    skos:prefLabel "Resolution Percentage" ;
+    skos:definition "A quantitative measure used to characterise resolution authenticity or efficiency performance, scale or level." .
+
+trsp:att.54CF71ED24
+    a skos:Concept ;
+    skos:prefLabel "Resolution Integrity" ;
+    skos:definition "A repository or research-infrastructure characteristic describing resolution integrity in the context of long-term preservation." .
+
+trsp:att.76E3F555FC
+    a skos:Concept ;
+    skos:prefLabel "Bit-Level Preservation" ;
+    skos:definition "Measures that maintain the exact sequence of bits of digital objects and detect or repair unintended changes." .
+
+trsp:att.6D7D249110
+    a skos:Concept ;
+    skos:prefLabel "Active Bit-Level Preservation in Place" ;
+    skos:definition "An indicator that defined active bit-level preservation have been implemented and are operational." .
+
+trsp:att.497C7ACE99
+    a skos:Concept ;
+    skos:prefLabel "Re-appraisal" ;
+    skos:definition "A repository or research-infrastructure characteristic describing re-appraisal in the context of long-term preservation." .
+
+trsp:att.4EA4FE6911
+    a skos:Concept ;
+    skos:prefLabel "Re-appraisal Plan" ;
+    skos:definition "Planning and considerations in respect opf re-appraisal - frequency, triggers, scope, tools and procedures." .
+
+trsp:att.720D076722
+    a skos:Concept ;
+    skos:prefLabel "File format preservation actions" ;
+    skos:definition "A digital-object management characteristic concerning file format preservation actions in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.3FD2C99B44
+    a skos:Concept ;
+    skos:prefLabel "(Re-)Appraisal of Licence Applicability" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.36E9CFFB4B
+    a skos:Concept ;
+    skos:prefLabel "Record of Re-Appraisal" ;
+    skos:definition "A repository or research-infrastructure characteristic describing record of re-appraisal in the context of re-appraisal." .
+
+trsp:att.3319EEDC99
+    a skos:Concept ;
+    skos:prefLabel "Transfer" ;
+    skos:definition "Allow transfer of stewardship" .
+
+trsp:att.7436BDEA62
+    a skos:Concept ;
+    skos:prefLabel "Repository Transfer is Possible" ;
+    skos:definition "A repository or research-infrastructure characteristic describing repository transfer is possible in the context of transfer." .
+
+trsp:att.1257C370DF
+    a skos:Concept ;
+    skos:prefLabel "PID Ownership Transfer is Possible" ;
+    skos:definition "A characteristic or capability concerning persistent identifiers used to identify, resolve, link or manage repository resources." .
+
+trsp:att.3532A00A80
+    a skos:Concept ;
+    skos:prefLabel "Confidentiality and Ethics" ;
+    skos:definition "Determine if ethical norms have been adhered to, if consent has been granted by subjects, confidentiality respected, and similar concerns" .
+
+trsp:att.4DE2DD546E
+    a skos:Concept ;
+    skos:prefLabel "Confidentiality" ;
+    skos:definition "Protection of information from disclosure to unauthorised persons, systems or processes." .
+
+trsp:att.22D6F28F7C
+    a skos:Concept ;
+    skos:prefLabel "Sensitive Data Protection Measures in Place" ;
+    skos:definition "An indicator that defined sensitive data protection measures have been implemented and are operational." .
+
+trsp:att.16855D3CB9
+    a skos:Concept ;
+    skos:prefLabel "Ethics" ;
+    skos:definition "Principles and review practices used to ensure that data stewardship and use respect applicable ethical obligations and minimise harm." .
+
+trsp:att.2B19863F6A
+    a skos:Concept ;
+    skos:prefLabel "Ethics Guidance" ;
+    skos:definition "Provide ethics-related guidance to depositors and end users." .
+
+trsp:att.56F24C24C3
+    a skos:Concept ;
+    skos:prefLabel "Ethics Checklist" ;
+    skos:definition "A repository or research-infrastructure characteristic describing ethics checklist in the context of curation & preservation workflows." .
+
+trsp:att.61C5AB7572
+    a skos:Concept ;
+    skos:prefLabel "Institutional Ethics Clearance" ;
+    skos:definition "A repository or research-infrastructure characteristic describing institutional ethics clearance in the context of ethics." .
+
+trsp:att.1617820477
+    a skos:Concept ;
+    skos:prefLabel "Future Use Clarified with Subjects" ;
+    skos:definition "A repository or research-infrastructure characteristic describing future use clarified with subjects in the context of ethics." .
+
+trsp:att.51E4556DFE
+    a skos:Concept ;
+    skos:prefLabel "Consent Obtained" ;
+    skos:definition "A repository or research-infrastructure characteristic describing consent obtained in the context of ethics." .
+
+trsp:att.72F38A16D8
+    a skos:Concept ;
+    skos:prefLabel "Integrity and Authenticity" ;
+    skos:definition "Validation of provenance and authenticity, protection and recording of provenance, verification of depositors/ content editors" .
+
+trsp:att.2080C1D4EE
+    a skos:Concept ;
+    skos:prefLabel "Integrity" ;
+    skos:definition "The property that data or digital objects are complete and have not been altered in an unauthorised or unintended manner." .
+
+trsp:att.09B9B96513
+    a skos:Concept ;
+    skos:prefLabel "File Repair" ;
+    skos:definition "A digital-object management characteristic concerning file repair in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.6CCE23A07E
+    a skos:Concept ;
+    skos:prefLabel "Statistical Integrity" ;
+    skos:definition "A repository or research-infrastructure characteristic describing statistical integrity in the context of integrity." .
+
+trsp:att.6AF0D4DC26
+    a skos:Concept ;
+    skos:prefLabel "Plagiarism Verification" ;
+    skos:definition "A check that integrity satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.4B8DBC2795
+    a skos:Concept ;
+    skos:prefLabel "Checksum Computation/ Verification" ;
+    skos:definition "Object checksums are computed prior to and after migration, and recorded for future preservation management" .
+
+trsp:att.2923D6DE38
+    a skos:Concept ;
+    skos:prefLabel "Virus and Malware Checking" ;
+    skos:definition "Objects are checked for viruses and malware on ingest" .
+
+trsp:att.608015D600
+    a skos:Concept ;
+    skos:prefLabel "Authenticity - determine and protect" ;
+    skos:definition "Processes for establishing, documenting and protecting confidence that a digital object is what it purports to be." .
+
+trsp:att.72DE0527E3
+    a skos:Concept ;
+    skos:prefLabel "Documented Pre-submission Provenance" ;
+    skos:definition "A repository or research-infrastructure characteristic describing documented pre-submission provenance in the context of authenticity - determine and protect." .
+
+trsp:att.5AF211B2C5
+    a skos:Concept ;
+    skos:prefLabel "Checked for Duplicate Publication" ;
+    skos:definition "A repository or research-infrastructure characteristic describing checked for duplicate publication in the context of authenticity - determine and protect." .
+
+trsp:att.1C495E8A94
+    a skos:Concept ;
+    skos:prefLabel "Checked for Malicious Content" ;
+    skos:definition "A repository or research-infrastructure characteristic describing checked for malicious content in the context of authenticity - determine and protect." .
+
+trsp:att.5E73BD05DF
+    a skos:Concept ;
+    skos:prefLabel "Checked for Irrelevant Content" ;
+    skos:definition "A repository or research-infrastructure characteristic describing checked for irrelevant content in the context of authenticity - determine and protect." .
+
+trsp:att.44841F89C3
+    a skos:Concept ;
+    skos:prefLabel "Checked for Illegal Content" ;
+    skos:definition "A repository or research-infrastructure characteristic describing checked for illegal content in the context of authenticity - determine and protect." .
+
+trsp:att.4808A1524B
+    a skos:Concept ;
+    skos:prefLabel "Checked for AI-generated Content" ;
+    skos:definition "A repository or research-infrastructure characteristic describing checked for ai-generated content in the context of authenticity - determine and protect." .
+
+trsp:att.76B25EFA00
+    a skos:Concept ;
+    skos:prefLabel "Identify Depositors" ;
+    skos:definition "A repository or research-infrastructure characteristic describing identify depositors in the context of integrity and authenticity." .
+
+trsp:att.301A364D55
+    a skos:Concept ;
+    skos:prefLabel "Depositors are identified and verified" ;
+    skos:definition "A check that identify depositors satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.27F5C3BD10
+    a skos:Concept ;
+    skos:prefLabel "Version Maintenance" ;
+    skos:definition "A practice for identifying, recording and managing changes or versions of repository resources over time." .
+
+trsp:att.242EE15759
+    a skos:Concept ;
+    skos:prefLabel "Submission and Archival Package Maintenance" ;
+    skos:definition "A repository or research-infrastructure characteristic describing submission and archival package maintenance in the context of version maintenance." .
+
+trsp:att.06F21028D1
+    a skos:Concept ;
+    skos:prefLabel "Rights Management" ;
+    skos:definition "Aspects such as protection of the rights of the subjects of research, the owners of works, the end users, the depositors, and the curators of the holdings. Provisions to transfer rights of depositors/ subjects to curators in event of unavailability of the latter." .
+
+trsp:att.3D6A6043D4
+    a skos:Concept ;
+    skos:prefLabel "Documentation" ;
+    skos:definition "Documented information explaining rights management and how it is implemented or applied." .
+
+trsp:att.550348356C
+    a skos:Concept ;
+    skos:prefLabel "Human-readable rights documentation" ;
+    skos:definition "Documented information explaining documentation and how it is implemented or applied." .
+
+trsp:att.297AD6F574
+    a skos:Concept ;
+    skos:prefLabel "Considerations" ;
+    skos:definition "A repository or research-infrastructure characteristic describing considerations in the context of rights management." .
+
+trsp:att.5D17940B6B
+    a skos:Concept ;
+    skos:prefLabel "Privacy and GDPR Addressed" ;
+    skos:definition "A repository or research-infrastructure characteristic describing privacy and gdpr addressed in the context of considerations." .
+
+trsp:att.1B812FFC4E
+    a skos:Concept ;
+    skos:prefLabel "No Harm, Maximise Benefit" ;
+    skos:definition "A repository or research-infrastructure characteristic describing no harm, maximise benefit in the context of considerations." .
+
+trsp:att.2A0E93C1AC
+    a skos:Concept ;
+    skos:prefLabel "IP Management" ;
+    skos:definition "A repository or research-infrastructure characteristic describing ip management in the context of considerations." .
+
+trsp:att.7C56B5ED00
+    a skos:Concept ;
+    skos:prefLabel "Encoding" ;
+    skos:definition "A repository or research-infrastructure characteristic describing encoding in the context of rights management." .
+
+trsp:att.7D05A04E46
+    a skos:Concept ;
+    skos:prefLabel "Basis of Rights Encoding" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.553A464EC8
+    a skos:Concept ;
+    skos:prefLabel "Depositor Rights" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.206C4C60AA
+    a skos:Concept ;
+    skos:prefLabel "Terms of Deposit" ;
+    skos:definition "A repository or research-infrastructure characteristic describing terms of deposit in the context of depositor rights." .
+
+trsp:att.521A4A9E17
+    a skos:Concept ;
+    skos:prefLabel "Appraisal/ Accession Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning appraisal/ accession." .
+
+trsp:att.5A6C15E767
+    a skos:Concept ;
+    skos:prefLabel "Other Actor Rights" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.49C7B241EA
+    a skos:Concept ;
+    skos:prefLabel "Owners/ Rightsholder Rights" ;
+    skos:definition "Includes the right to consent to publication, and the right to select a licence/ access conditions based on guidance. Verifies the legal basis for holding and preserving content." .
+
+trsp:att.48C6F0C32D
+    a skos:Concept ;
+    skos:prefLabel "Curator Rights" ;
+    skos:definition "Includes the rights to data and metadata improvements, publication, and in some cases, adjudicating access requests." .
+
+trsp:att.76E631CB8D
+    a skos:Concept ;
+    skos:prefLabel "End User Rights" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.24650A32BA
+    a skos:Concept ;
+    skos:prefLabel "Subject Rights" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.1B3A0A1CF6
+    a skos:Concept ;
+    skos:prefLabel "Consent Forms Verified, Linked" ;
+    skos:definition "A check that subject rights satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.2D03EB4E9B
+    a skos:Concept ;
+    skos:prefLabel "Consent Form Example Available" ;
+    skos:definition "An indicator that consent form example is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.5DCB41BB3F
+    a skos:Concept ;
+    skos:prefLabel "Registry of Access Requests" ;
+    skos:definition "A repository or research-infrastructure characteristic describing registry of access requests in the context of subject rights." .
+
+trsp:att.264E948225
+    a skos:Concept ;
+    skos:prefLabel "Subjects Have a Right to the Data" ;
+    skos:definition "A repository characteristic or capability concerning subjects have a right to the data within the management, preservation, access or reuse of research data." .
+
+trsp:att.5ADB3FC0BB
+    a skos:Concept ;
+    skos:prefLabel "Grounded - Aligned with Subject Context" ;
+    skos:definition "A repository or research-infrastructure characteristic describing grounded - aligned with subject context in the context of subject rights." .
+
+trsp:att.5F45FF82F5
+    a skos:Concept ;
+    skos:prefLabel "Artefacts/ Legal: documented information" ;
+    skos:definition "The policies and legal agreements that shape the service, dealing with aspects of use, roles and responsibilities, handling sensitive data, licensing, and regulatory aspects. Linked to rights management." .
+
+trsp:att.12C140C8CD
+    a skos:Concept ;
+    skos:prefLabel "Contracts, agreements, roles, responsibilities" ;
+    skos:definition "A repository or research-infrastructure characteristic describing contracts, agreements, roles, responsibilities in the context of artefacts/ legal: documented information." .
+
+trsp:att.1C94638914
+    a skos:Concept ;
+    skos:prefLabel "Ecosystem Model Available" ;
+    skos:definition "A model to describe roles and responsibilities of actors for contracting and procedure purposes." .
+
+trsp:att.2218E83FC4
+    a skos:Concept ;
+    skos:prefLabel "Roles and Responsibilities Defined" ;
+    skos:definition "A repository or research-infrastructure characteristic describing roles and responsibilities defined in the context of contracts, agreements, roles, responsibilities." .
+
+trsp:att.7AD9B8BBCB
+    a skos:Concept ;
+    skos:prefLabel "Deposit Agreement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing deposit agreement in the context of contracts, agreements, roles, responsibilities." .
+
+trsp:att.58022A9DBD
+    a skos:Concept ;
+    skos:prefLabel "Contracting Granularity" ;
+    skos:definition "A repository or research-infrastructure characteristic describing contracting granularity in the context of contracts, agreements, roles, responsibilities." .
+
+trsp:att.687D20F962
+    a skos:Concept ;
+    skos:prefLabel "Terms and Conditions of Use" ;
+    skos:definition "A repository or research-infrastructure characteristic describing terms and conditions of use in the context of contracts, agreements, roles, responsibilities." .
+
+trsp:att.20EFD54EFD
+    a skos:Concept ;
+    skos:prefLabel "Privacy Statement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing privacy statement in the context of contracts, agreements, roles, responsibilities." .
+
+trsp:att.6D6A09147B
+    a skos:Concept ;
+    skos:prefLabel "Terms of Deposit/ Accession Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning terms of deposit/ accession." .
+
+trsp:att.54339656E9
+    a skos:Concept ;
+    skos:prefLabel "Summary of Depositor Contract(s) Available" ;
+    skos:definition "An indicator that summary of depositor contract(s) is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.1D00720769
+    a skos:Concept ;
+    skos:prefLabel "Records Retention Policy/ Procedure" ;
+    skos:definition "Evidence that the organisation has developed a recpords retention policy, and that it is implemented via a standard procedure" .
+
+trsp:att.7D628D907A
+    a skos:Concept ;
+    skos:prefLabel "Managed Publication Process" ;
+    skos:definition "The publication and versioning process for legal, contractual, and responsibility documentation is managed and monitored." .
+
+trsp:att.1A4E593402
+    a skos:Concept ;
+    skos:prefLabel "Service Level Agreement" ;
+    skos:definition "A documented agreement defining service commitments, responsibilities and measurable service levels between a provider and customer or stakeholder." .
+
+trsp:att.34C7F266CD
+    a skos:Concept ;
+    skos:prefLabel "Service Level Agreement Available" ;
+    skos:definition "An indicator that service level agreement is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.3B023F9CF0
+    a skos:Concept ;
+    skos:prefLabel "Machine-Readable SLA" ;
+    skos:definition "A repository or research-infrastructure characteristic describing machine-readable sla in the context of service level agreement." .
+
+trsp:att.5568B6EC80
+    a skos:Concept ;
+    skos:prefLabel "SLA based on community expectations" ;
+    skos:definition "A characteristic describing how the repository identifies, represents, supports or engages relevant communities and stakeholders." .
+
+trsp:att.4B703E5E93
+    a skos:Concept ;
+    skos:prefLabel "SLA Vocabulary Used" ;
+    skos:definition "A repository or research-infrastructure characteristic describing sla vocabulary used in the context of service level agreement." .
+
+trsp:att.5CE6A2BBCE
+    a skos:Concept ;
+    skos:prefLabel "Risk Management" ;
+    skos:definition "The systematic identification, assessment, treatment, monitoring and review of risks that could affect repository objectives, holdings or services." .
+
+trsp:att.08C2A995C0
+    a skos:Concept ;
+    skos:prefLabel "Disclosure Risk Assessment Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning disclosure risk assessment." .
+
+trsp:att.0FF7E5B673
+    a skos:Concept ;
+    skos:prefLabel "Bibliographic Metadata Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning bibliographic metadata." .
+
+trsp:att.419EE6D029
+    a skos:Concept ;
+    skos:prefLabel "Licences" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.7DFD48623C
+    a skos:Concept ;
+    skos:prefLabel "Published Custom Licences Available" ;
+    skos:definition "An indicator that published custom licences is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.297ED3685C
+    a skos:Concept ;
+    skos:prefLabel "Process" ;
+    skos:definition "Verification is in place for confirmation of ownership and IP rights, the right to publish, and the right to select a licence" .
+
+trsp:att.4D039CA977
+    a skos:Concept ;
+    skos:prefLabel "Monitoring" ;
+    skos:definition "Systematic observation and review of process to detect changes, failures, risks or non-conformance." .
+
+trsp:att.3E5B47B5C9
+    a skos:Concept ;
+    skos:prefLabel "Inventory - SOPs and Workflows" ;
+    skos:definition "A checklist, with evidence links, of all standard oeprating procedures and checklist applicable to the management of the repository." .
+
+trsp:att.24C260AA9C
+    a skos:Concept ;
+    skos:prefLabel "Monitor Process Compliance" ;
+    skos:definition "A defined and repeatable set of activities for monitor process compliance within the repository or service." .
+
+trsp:att.4AA1880060
+    a skos:Concept ;
+    skos:prefLabel "Curation & Preservation Workflows" ;
+    skos:definition "A defined and repeatable set of activities for curation & preservation workflows within the repository or service." .
+
+trsp:att.12CA661DF7
+    a skos:Concept ;
+    skos:prefLabel "Submission Workflow" ;
+    skos:definition "A defined and repeatable set of activities for submission workflow within the repository or service." .
+
+trsp:att.5F37A613BB
+    a skos:Concept ;
+    skos:prefLabel "Preservation Workflow" ;
+    skos:definition "Workflows and standard procedures aimed at preservation and periodic re-appraisal." .
+
+trsp:att.18E904AAE2
+    a skos:Concept ;
+    skos:prefLabel "Disposal and Retraction Workflows" ;
+    skos:definition "Proper policies and mechanisms exist for conditions under which content can be disposed or retracted, while maintaining tombstone metadata." .
+
+trsp:att.0FE5D01C72
+    a skos:Concept ;
+    skos:prefLabel "FAIR Assessment" ;
+    skos:definition "An evaluation of data, metadata or other digital objects against criteria derived from the FAIR principles." .
+
+trsp:att.50ADCE9E0D
+    a skos:Concept ;
+    skos:prefLabel "FAIR Assessment Tool(s)" ;
+    skos:definition "A repository or research-infrastructure characteristic describing fair assessment tool(s) in the context of curation & preservation workflows." .
+
+trsp:att.2EC221BD80
+    a skos:Concept ;
+    skos:prefLabel "Privacy/ Sensitive Data Checklist" ;
+    skos:definition "A repository characteristic or capability concerning privacy/ sensitive data checklist within the management, preservation, access or reuse of research data." .
+
+trsp:att.64A44F5193
+    a skos:Concept ;
+    skos:prefLabel "Legal Compliance Checklist" ;
+    skos:definition "A repository or research-infrastructure characteristic describing legal compliance checklist in the context of curation & preservation workflows." .
+
+trsp:att.6A5BF0698F
+    a skos:Concept ;
+    skos:prefLabel "Rights Obtained from Depositor" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.697C57FE46
+    a skos:Concept ;
+    skos:prefLabel "Licence-Related Processes" ;
+    skos:definition "A defined and repeatable set of activities for licence-related processes within the repository or service." .
+
+trsp:att.769A9F52BD
+    a skos:Concept ;
+    skos:prefLabel "Explanation of Licence Provisions" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for explanation of licence provisions." .
+
+trsp:att.0CBE414A78
+    a skos:Concept ;
+    skos:prefLabel "Verification of Licence Assent" ;
+    skos:definition "A check that licence-related processes satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.49EE16D366
+    a skos:Concept ;
+    skos:prefLabel "Licence Combination Supported/ Verified" ;
+    skos:definition "A check that licence-related processes satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.4A43A19133
+    a skos:Concept ;
+    skos:prefLabel "Typical Value-added Services" ;
+    skos:definition "User-directed services: APIs and API documentation, data dumps, guidelines for implementation and use, user guides, ..." .
+
+trsp:att.532324DE1D
+    a skos:Concept ;
+    skos:prefLabel "Inventory of Available Services" ;
+    skos:definition "This is an important aspect related to services and softwar e platforms - providing both human- and machine readable inventories of available services/ service elements and accompanying it with proper documentation. It os a prerequisite for incproating the services and/ or software platforms into autoomated workflows." .
+
+trsp:att.1146FD1520
+    a skos:Concept ;
+    skos:prefLabel "Documentation Available" ;
+    skos:definition "Documentation on services, location of deployed instances (test, development, demonstratiors, production), and links to relevant source code." .
+
+trsp:att.4CB4F7ED15
+    a skos:Concept ;
+    skos:prefLabel "Machine-Readable Inventory" ;
+    skos:definition "A machine-readable inventor of available services is available." .
+
+trsp:att.05CDC6D747
+    a skos:Concept ;
+    skos:prefLabel "Standard APIs" ;
+    skos:definition "Application programming interfaces that conform to recognised interface specifications or widely adopted protocol standards." .
+
+trsp:att.4A2CF0AF0A
+    a skos:Concept ;
+    skos:prefLabel "Considerations" ;
+    skos:definition "A repository or research-infrastructure characteristic describing considerations in the context of standard apis." .
+
+trsp:att.1C5F7AAA09
+    a skos:Concept ;
+    skos:prefLabel "Makes use of standard API specifications" ;
+    skos:definition "A programmatic interface characteristic concerning makes use of standard api specifications, enabling machine-to-machine access to repository data or service functions." .
+
+trsp:att.515B8F83FB
+    a skos:Concept ;
+    skos:prefLabel "Offers API Documentation" ;
+    skos:definition "Documented information explaining considerations and how it is implemented or applied." .
+
+trsp:att.0D3C935A8A
+    a skos:Concept ;
+    skos:prefLabel "Automated Curation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing automated curation in the context of standard apis." .
+
+trsp:att.1828900F1B
+    a skos:Concept ;
+    skos:prefLabel "Submission API is available" ;
+    skos:definition "An indicator that submission api is is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.6E3855425F
+    a skos:Concept ;
+    skos:prefLabel "File Type Registry API" ;
+    skos:definition "A programmatic interface characteristic concerning file type registry api, enabling machine-to-machine access to repository data or service functions." .
+
+trsp:att.63101DF501
+    a skos:Concept ;
+    skos:prefLabel "File Type Verification API" ;
+    skos:definition "A check that automated curation satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.29A8E8970A
+    a skos:Concept ;
+    skos:prefLabel "File Verification Error Data" ;
+    skos:definition "A check that automated curation satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.23727D6070
+    a skos:Concept ;
+    skos:prefLabel "Package Verification Service" ;
+    skos:definition "A check that automated curation satisfies defined rules, expectations or evidence requirements." .
+
+trsp:att.2B5E85FAE5
+    a skos:Concept ;
+    skos:prefLabel "Package Validation Service" ;
+    skos:definition "A repository can use the OAIS Information model for AIPs to assess the quality and completeness of its holdings, for example to help identify missing or incomplete information." .
+
+trsp:att.03110A5773
+    a skos:Concept ;
+    skos:prefLabel "Machine-Readable Policies" ;
+    skos:definition "For services, the focus is on automation, and as a result, aspects such as policies and what they entail should be machine-readable. Somne policy provisions find expression in licences or conditions of use, and as such will be more useful as machine-readable, standardised resources." .
+
+trsp:att.02BDA33B58
+    a skos:Concept ;
+    skos:prefLabel "Machine-readable Terms and Conditions" ;
+    skos:definition "A repository or research-infrastructure characteristic describing machine-readable terms and conditions in the context of machine-readable policies." .
+
+trsp:att.58166D724B
+    a skos:Concept ;
+    skos:prefLabel "Machine-readable Policies" ;
+    skos:definition "A repository or research-infrastructure characteristic describing machine-readable policies in the context of machine-readable policies." .
+
+trsp:att.435A79A35F
+    a skos:Concept ;
+    skos:prefLabel "Policy Vocabulary URI" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning policy vocabulary uri." .
+
+trsp:att.28A2220E45
+    a skos:Concept ;
+    skos:prefLabel "Machine-Readable Licences" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.2F39DE4E78
+    a skos:Concept ;
+    skos:prefLabel "Access Conditions" ;
+    skos:definition "A repository or research-infrastructure characteristic describing access conditions in the context of machine-readable licences." .
+
+trsp:att.6628E95EAC
+    a skos:Concept ;
+    skos:prefLabel "Machine-readable Licence Provisions (REL)" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.3E5176E2B8
+    a skos:Concept ;
+    skos:prefLabel "Standardised Licence URIs" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.2922ED695E
+    a skos:Concept ;
+    skos:prefLabel "Access to Metadata and Data" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.7298144E24
+    a skos:Concept ;
+    skos:prefLabel "Metadata (Harvesting) API" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.714EC2AA27
+    a skos:Concept ;
+    skos:prefLabel "Data API" ;
+    skos:definition "An API that provides programmatic access to data, subsets of data, or data-processing operations." .
+
+trsp:att.50AF53C9B2
+    a skos:Concept ;
+    skos:prefLabel "Community Support" ;
+    skos:definition "A characteristic describing how the repository identifies, represents, supports or engages relevant communities and stakeholders." .
+
+trsp:att.5DC262FE75
+    a skos:Concept ;
+    skos:prefLabel "Guidelines and Support" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with and support." .
+
+trsp:att.62E1C089DB
+    a skos:Concept ;
+    skos:prefLabel "User Guidance and Documentation" ;
+    skos:definition "Documented information explaining guidelines and support and how it is implemented or applied." .
+
+trsp:att.3E85A87190
+    a skos:Concept ;
+    skos:prefLabel "User-focused Access" ;
+    skos:definition "A repository or research-infrastructure characteristic describing user-focused access in the context of guidelines and support." .
+
+trsp:att.1F4AE0B0F8
+    a skos:Concept ;
+    skos:prefLabel "Metrics" ;
+    skos:definition "Implementing relevant metrics and making these available to users." .
+
+trsp:att.0C3FB3218D
+    a skos:Concept ;
+    skos:prefLabel "Usage Metrics" ;
+    skos:definition "A repository or research-infrastructure characteristic describing usage metrics in the context of metrics." .
+
+trsp:att.693D7B796F
+    a skos:Concept ;
+    skos:prefLabel "Transparency" ;
+    skos:definition "The practice of making repository scope, policies, services, responsibilities and evidence sufficiently visible for stakeholders to understand and verify them." .
+
+trsp:att.371D70B854
+    a skos:Concept ;
+    skos:prefLabel "Certification and Assessment" ;
+    skos:definition "'Certification schemes and/or community badges that assess certain aspects of the repository (e.g., its fitness, trustworthiness, adoption)'" .
+
+trsp:att.27C898E8A0
+    a skos:Concept ;
+    skos:prefLabel "List of Certifications" ;
+    skos:definition "A maintained enumeration of certifications relevant to the repository, service or resource." .
+
+trsp:att.1224E087E0
+    a skos:Concept ;
+    skos:prefLabel "List of Third-Party Assessments" ;
+    skos:definition "A maintained enumeration of third-party assessments relevant to the repository, service or resource." .
+
+trsp:att.6E27DEF3A1
+    a skos:Concept ;
+    skos:prefLabel "List of Self-Assessments" ;
+    skos:definition "A maintained enumeration of self-assessments relevant to the repository, service or resource." .
+
+trsp:att.26CD4B30B3
+    a skos:Concept ;
+    skos:prefLabel "Benefits and Constraints" ;
+    skos:definition "A repository or research-infrastructure characteristic describing benefits and constraints in the context of transparency." .
+
+trsp:att.7AF3A65ADD
+    a skos:Concept ;
+    skos:prefLabel "Mission and Mandate" ;
+    skos:definition "The organisation is mandated to perform the services it offers, and this is clearly stated in publicly available documentation. The organisation is focused on the mission and does not divert resources to other focus areas. The mission is mandated and approved at an appropriate level (e.g. board level)." .
+
+trsp:att.035ACCB10D
+    a skos:Concept ;
+    skos:prefLabel "Mission" ;
+    skos:definition "The stated purpose, scope and intended role of an organisation or repository." .
+
+trsp:att.516450BF5E
+    a skos:Concept ;
+    skos:prefLabel "Active Preservation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing active preservation in the context of mission." .
+
+trsp:att.1DAD162D7A
+    a skos:Concept ;
+    skos:prefLabel "Continued Access" ;
+    skos:definition "A repository or research-infrastructure characteristic describing continued access in the context of mission." .
+
+trsp:att.2F80B22A4D
+    a skos:Concept ;
+    skos:prefLabel "Level of Approval is Public" ;
+    skos:definition "A repository or research-infrastructure characteristic describing level of approval is public in the context of mission." .
+
+trsp:att.04B70A444F
+    a skos:Concept ;
+    skos:prefLabel "Approved public mission statement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing approved public mission statement in the context of mission." .
+
+trsp:att.65A383C886
+    a skos:Concept ;
+    skos:prefLabel "Policy statement signed off by a governing board" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning policy statement signed off by a governing board." .
+
+trsp:att.43ABB27EBE
+    a skos:Concept ;
+    skos:prefLabel "Single Focus" ;
+    skos:definition "A repository or research-infrastructure characteristic describing single focus in the context of mission and mandate." .
+
+trsp:att.0B807CC544
+    a skos:Concept ;
+    skos:prefLabel "Well-defined focus" ;
+    skos:definition "A repository or research-infrastructure characteristic describing well-defined focus in the context of single focus." .
+
+trsp:att.18D74ED687
+    a skos:Concept ;
+    skos:prefLabel "Legal and Regulatory" ;
+    skos:definition "Disclaimers, Privacy, Terms and Conditions" .
+
+trsp:att.0F78D12691
+    a skos:Concept ;
+    skos:prefLabel "Inventory of Considerations" ;
+    skos:definition "A repository or research-infrastructure characteristic describing inventory of considerations in the context of legal and regulatory." .
+
+trsp:att.13132A45E7
+    a skos:Concept ;
+    skos:prefLabel "Policy" ;
+    skos:definition "Policy/ high level information is available" .
+
+trsp:att.2744CED24F
+    a skos:Concept ;
+    skos:prefLabel "Policy Management" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning policy management." .
+
+trsp:att.145BD6BECD
+    a skos:Concept ;
+    skos:prefLabel "Policies linked or are easily found" ;
+    skos:definition "Polcies are described in a summary page, and linked from metadata and/or landing pages" .
+
+trsp:att.11B8A1B690
+    a skos:Concept ;
+    skos:prefLabel "Policies are versioned" ;
+    skos:definition "A practice for identifying, recording and managing changes or versions of repository resources over time." .
+
+trsp:att.6437B9E8E1
+    a skos:Concept ;
+    skos:prefLabel "Policy Development Process" ;
+    skos:definition "Process by which policies are developed, maintained, and revised, and how standards are evaluated and incorporayted into policies." .
+
+trsp:att.6105038322
+    a skos:Concept ;
+    skos:prefLabel "Appraisal/ Accession Policy" ;
+    skos:definition "Policies related to appropriateness of accession, rights, authenticity, provenance, and dissemination risk" .
+
+trsp:att.2B81C65FFB
+    a skos:Concept ;
+    skos:prefLabel "Sensitive Data Appraisal Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning sensitive data appraisal." .
+
+trsp:att.7F6F3E3DDE
+    a skos:Concept ;
+    skos:prefLabel "Ethics Clearance Verification Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning ethics clearance verification." .
+
+trsp:att.2E979C3B25
+    a skos:Concept ;
+    skos:prefLabel "Data Policy" ;
+    skos:definition "A documented set of rules and commitments governing the management, access, stewardship or use of data." .
+
+trsp:att.2901B9E359
+    a skos:Concept ;
+    skos:prefLabel "PID Policy" ;
+    skos:definition "Ensures that the repository policy is aligned with global, regional, national, and network PID initiatives (e.g. National PID Strategies, or EOSC PID Policy)." .
+
+trsp:att.1395FD0F03
+    a skos:Concept ;
+    skos:prefLabel "Versioning Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning versioning." .
+
+trsp:att.7EC681717D
+    a skos:Concept ;
+    skos:prefLabel "Licence Policy" ;
+    skos:definition "A documented policy governing the selection, application, interpretation and management of licences for repository resources." .
+
+trsp:att.549827C8B4
+    a skos:Concept ;
+    skos:prefLabel "Preferred Formats Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning preferred formats." .
+
+trsp:att.768DAFA0DB
+    a skos:Concept ;
+    skos:prefLabel "Data Preservation Policy" ;
+    skos:definition "A documented statement of objectives, responsibilities and practices for preserving digital content over its required lifetime." .
+
+trsp:att.0E2DB53E0E
+    a skos:Concept ;
+    skos:prefLabel "Disclosure Risk" ;
+    skos:definition "A repository or research-infrastructure characteristic describing disclosure risk in the context of policy." .
+
+trsp:att.6B7CED5897
+    a skos:Concept ;
+    skos:prefLabel "Assessment and Access Policy" ;
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning assessment and access." .
+
+trsp:att.4F40729393
+    a skos:Concept ;
+    skos:prefLabel "Appropriate Licences" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.45F7A22412
+    a skos:Concept ;
+    skos:prefLabel "Bibliographic Metadata - CC0" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.2847F75853
+    a skos:Concept ;
+    skos:prefLabel "Privacy Policy" ;
+    skos:definition "A documented statement explaining how personal data are collected, processed, protected, retained and disclosed." .
+
+trsp:att.39D810EEC9
+    a skos:Concept ;
+    skos:prefLabel "Personal Data Removal Request Procedure exists" ;
+    skos:definition "A defined and repeatable set of activities for personal data removal request procedure exists within the repository or service." .
+
+trsp:att.434F29EDB9
+    a skos:Concept ;
+    skos:prefLabel "Right to be forgotten implemented" ;
+    skos:definition "An indicator that right to be forgotten has been implemented in the relevant repository, service or workflow." .
+
+trsp:att.1042D04416
+    a skos:Concept ;
+    skos:prefLabel "Complies with relevant legislation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing complies with relevant legislation in the context of privacy policy." .
+
+trsp:att.3619EF1B84
+    a skos:Concept ;
+    skos:prefLabel "Rights Management" ;
+    skos:definition "The processes and information used to identify, document, apply and monitor rights, licences, permissions, restrictions and obligations relating to resources." .
+
+trsp:att.6C9FCD9125
+    a skos:Concept ;
+    skos:prefLabel "Rights Policy" ;
+    skos:definition "A rights policy, indicating priinciples and provisions for the protection of a. relevant stakeholder rights." .
+
+trsp:att.390FEB7218
+    a skos:Concept ;
+    skos:prefLabel "Inventory of Managed Rights" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.1B94296BAD
+    a skos:Concept ;
+    skos:prefLabel "Supported Formats" ;
+    skos:definition "Ensuring that guidance and/or enforcement is in place to ensure optimal file formats for dissemination and preservation" .
+
+trsp:att.1BF23E39F5
+    a skos:Concept ;
+    skos:prefLabel "Submission/ Preferred Formats" ;
+    skos:definition "A digital-object management characteristic concerning submission/ preferred formats in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.3E1CA96845
+    a skos:Concept ;
+    skos:prefLabel "Dissemination" ;
+    skos:definition "Processes and services through which repository information or digital objects are delivered or made available to users." .
+
+trsp:att.50E0581B3D
+    a skos:Concept ;
+    skos:prefLabel "Archiving-Preservation" ;
+    skos:definition "Evidence provided how sustainable different file formats are for preservation, together with guidance on most appropriate formats for long-term preservation." .
+
+trsp:att.060E8AF1A4
+    a skos:Concept ;
+    skos:prefLabel "Context" ;
+    skos:definition "It is important to define context clearly and publicly - scope of services offered, the target end user community, and information that can be used by end users to select the most appropriate service or repository." .
+
+trsp:att.0B3D7477E7
+    a skos:Concept ;
+    skos:prefLabel "Source of Repository Attributes" ;
+    skos:definition "A repository or research-infrastructure characteristic describing source of repository attributes in the context of context." .
+
+trsp:att.236C15FEA4
+    a skos:Concept ;
+    skos:prefLabel "FAIRiCAT URL" ;
+    skos:definition "A repository or research-infrastructure characteristic describing fairicat url in the context of source of repository attributes." .
+
+trsp:att.3F76446066
+    a skos:Concept ;
+    skos:prefLabel "Registry URL" ;
+    skos:definition "A repository or research-infrastructure characteristic describing registry url in the context of source of repository attributes." .
+
+trsp:att.4BFD6FB9B3
+    a skos:Concept ;
+    skos:prefLabel "Target User Community" ;
+    skos:definition "The community or communities whose needs, practices and expectations a repository or service is intended to serve." .
+
+trsp:att.3282BD1281
+    a skos:Concept ;
+    skos:prefLabel "Designated Community Definition" ;
+    skos:definition "A documented identification and description of the user community whose knowledge base and needs the repository commits to support." .
+
+trsp:att.4AEE114A6B
+    a skos:Concept ;
+    skos:prefLabel "Equitable Engagement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing equitable engagement in the context of target user community." .
+
+trsp:att.64FDE59BAD
+    a skos:Concept ;
+    skos:prefLabel "Coverage" ;
+    skos:definition "The scope or extent of coverage represented, served or supported by the repository or service." .
+
+trsp:att.34D1282F11
+    a skos:Concept ;
+    skos:prefLabel "Spatial Coverage" ;
+    skos:definition "The scope or extent of spatial coverage represented, served or supported by the repository or service." .
+
+trsp:att.5D0E8069FC
+    a skos:Concept ;
+    skos:prefLabel "Temporal Coverage" ;
+    skos:definition "The scope or extent of temporal coverage represented, served or supported by the repository or service." .
+
+trsp:att.115BEEC616
+    a skos:Concept ;
+    skos:prefLabel "Community Coverage" ;
+    skos:definition "The scope or extent of community coverage represented, served or supported by the repository or service." .
+
+trsp:att.3B633179C5
+    a skos:Concept ;
+    skos:prefLabel "Disciplinary Coverage" ;
+    skos:definition "The scope or extent of disciplinary coverage represented, served or supported by the repository or service." .
+
+trsp:att.1EBE22F750
+    a skos:Concept ;
+    skos:prefLabel "Discipline" ;
+    skos:definition "The subject(s)/ discipline(s) of the RDR." .
+
+trsp:att.60FD6669A5
+    a skos:Concept ;
+    skos:prefLabel "Discipline Scheme" ;
+    skos:definition "The scheme according to which the subject/ discipline of the repository is described." .
+
+trsp:att.59CAA27CE9
+    a skos:Concept ;
+    skos:prefLabel "Discipline Identifier" ;
+    skos:definition "The ID/notation of the subject/ discipline classification." .
+
+trsp:att.54317F78CB
+    a skos:Concept ;
+    skos:prefLabel "Object Coverage" ;
+    skos:definition "The scope or extent of object coverage represented, served or supported by the repository or service." .
+
+trsp:att.0613B795FE
+    a skos:Concept ;
+    skos:prefLabel "Object Type Scheme" ;
+    skos:definition "The name and/or URL of the object/ content scheme or classification code." .
+
+trsp:att.14605C9B1C
+    a skos:Concept ;
+    skos:prefLabel "Object Type ID" ;
+    skos:definition "The URI of the object/ content type." .
+
+trsp:att.756D3790E0
+    a skos:Concept ;
+    skos:prefLabel "Object Type Name" ;
+    skos:definition "The name of the object/ content type." .
+
+trsp:att.761C0FB70D
+    a skos:Concept ;
+    skos:prefLabel "Repository Characterisation" ;
+    skos:definition "Structured information describing a repository's identity, scope, type, status, communities, holdings and principal operating characteristics." .
+
+trsp:att.6A715E3A22
+    a skos:Concept ;
+    skos:prefLabel "Repository Type" ;
+    skos:definition "A classification indicating the primary organisational, disciplinary, institutional or functional type of a repository." .
+
+trsp:att.11E21FF2FC
+    a skos:Concept ;
+    skos:prefLabel "Repository Status" ;
+    skos:definition "The current operational or lifecycle state of a repository." .
+
+trsp:att.64DA341B5F
+    a skos:Concept ;
+    skos:prefLabel "Repository Name" ;
+    skos:definition "A repository or research-infrastructure characteristic describing repository name in the context of repository characterisation." .
+
+trsp:att.4570870110
+    a skos:Concept ;
+    skos:prefLabel "Country" ;
+    skos:definition "A repository or research-infrastructure characteristic describing country in the context of repository characterisation." .
+
+trsp:att.19C2EB7DAB
+    a skos:Concept ;
+    skos:prefLabel "Identifier" ;
+    skos:definition "One or more unique identifiers or PIDs for the repository" .
+
+trsp:att.225686595E
+    a skos:Concept ;
+    skos:prefLabel "Identifier Type" ;
+    skos:definition "The provider of the identifier." .
+
+trsp:att.5F7C942B1E
+    a skos:Concept ;
+    skos:prefLabel "Identifier Value" ;
+    skos:definition "A globally unique identifier that refers to the RDR or a record describing the RDR." .
+
+trsp:att.0C1737084B
+    a skos:Concept ;
+    skos:prefLabel "Description" ;
+    skos:definition "Documented information explaining repository characterisation and how it is implemented or applied." .
+
+trsp:att.41F4454A97
+    a skos:Concept ;
+    skos:prefLabel "Organisation" ;
+    skos:definition "1 or more names, identifiers, and language indicators for the institutions and organisations hosting/ managing the repository." .
+
+trsp:att.030C7CAA30
+    a skos:Concept ;
+    skos:prefLabel "Organisation Name" ;
+    skos:definition "The name of the institution" .
+
+trsp:att.22E9D90455
+    a skos:Concept ;
+    skos:prefLabel "Organisation Additional Name" ;
+    skos:definition "The alternative name or acronym for the responsible institution." .
+
+trsp:att.44434AB8BA
+    a skos:Concept ;
+    skos:prefLabel "Organisation Country" ;
+    skos:definition "The location of the responsible institution." .
+
+trsp:att.10B6918167
+    a skos:Concept ;
+    skos:prefLabel "responsibilityType" ;
+    skos:definition "The type of responsibility for each responsible institution." .
+
+trsp:att.027652CB34
+    a skos:Concept ;
+    skos:prefLabel "Organisation Type" ;
+    skos:definition "The type of responsible institution." .
+
+trsp:att.393B1CEA88
+    a skos:Concept ;
+    skos:prefLabel "Organisation URL" ;
+    skos:definition "The URL of the responsible institution." .
+
+trsp:att.4EF949B147
+    a skos:Concept ;
+    skos:prefLabel "Organisation Responsibility Start Date" ;
+    skos:definition "The start date of the period of responsibility." .
+
+trsp:att.078274837C
+    a skos:Concept ;
+    skos:prefLabel "Organisation Responsibility End Date" ;
+    skos:definition "The end date of the period of responsibility." .
+
+trsp:att.6DB955E068
+    a skos:Concept ;
+    skos:prefLabel "Organisation Identifier" ;
+    skos:definition "The identifier for the responsible institution (wrapper element)." .
+
+trsp:att.48BF7E1522
+    a skos:Concept ;
+    skos:prefLabel "Year of Commencement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing year of commencement in the context of repository characterisation." .
+
+trsp:att.2ED61F28AC
+    a skos:Concept ;
+    skos:prefLabel "Organisation Identifier Type" ;
+    skos:definition "The provider name of the identifier for the responsible institution." .
+
+trsp:att.07BAFD06A8
+    a skos:Concept ;
+    skos:prefLabel "Organisation Identifier URL" ;
+    skos:definition "A globally unique identifier that refers to the responsible institution." .
+
+trsp:att.08F1F3FAB7
+    a skos:Concept ;
+    skos:prefLabel "Research Area" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using research area mechanisms." .
+
+trsp:att.291848CB10
+    a skos:Concept ;
+    skos:prefLabel "Contact" ;
+    skos:definition "Information or arrangements enabling users, depositors or stakeholders to contact an accountable repository or service representative." .
+
+trsp:att.1F522CDA86
+    a skos:Concept ;
+    skos:prefLabel "Contact Information" ;
+    skos:definition "Email address of the contact or an URL of an online contact form of the RDR." .
+
+trsp:att.1A387A8E23
+    a skos:Concept ;
+    skos:prefLabel "Contact Type" ;
+    skos:definition "Type of contact information." .
+
+trsp:att.57C5A7579F
+    a skos:Concept ;
+    skos:prefLabel "Language" ;
+    skos:definition "The language or language-support characteristic applicable to repository metadata, content, interfaces or documentation." .
+
+trsp:att.3A6BADBDB9
+    a skos:Concept ;
+    skos:prefLabel "Landing Page" ;
+    skos:definition "The landing page of the repository or service" .
+
+trsp:att.7470DA5BBA
+    a skos:Concept ;
+    skos:prefLabel "URL" ;
+    skos:definition "A repository url in the context of repository characterisation." .
+
+trsp:att.698943C6A7
+    a skos:Concept ;
+    skos:prefLabel "Linked Resources" ;
+    skos:definition "A repository or research-infrastructure characteristic describing linked resources in the context of repository characterisation." .
+
+trsp:att.7A3A7003B4
+    a skos:Concept ;
+    skos:prefLabel "Resource Identifier" ;
+    skos:definition "The identifier for the related resource." .
+
+trsp:att.2E2FA03DB5
+    a skos:Concept ;
+    skos:prefLabel "Resource Type" ;
+    skos:definition "The type of relationship between this repository and the related resource. Includes named relationships employed by re3data." .
+
+trsp:att.0AB11676B0
+    a skos:Concept ;
+    skos:prefLabel "List of Catalogue(s)" ;
+    skos:definition "An API or other web resource that lists the available catalogues and their identifiers, if applicable." .
+
+trsp:att.78CC017229
+    a skos:Concept ;
+    skos:prefLabel "List of Endorsements" ;
+    skos:definition "A list of endorsements, with links to the applicable definition - ioncludes endorsement of sets of principles and frameworks." .
+
+trsp:att.4763130464
+    a skos:Concept ;
+    skos:prefLabel "List of Documents" ;
+    skos:definition "A list of documentation available for the repository or sevrice, matching one or more terms in a vocabulary of documentation types." .
+
+trsp:att.280FB56A40
+    a skos:Concept ;
+    skos:prefLabel "Repository Size" ;
+    skos:definition "The number of items contained in the respository" .
+
+trsp:att.3E5F32A9E8
+    a skos:Concept ;
+    skos:prefLabel "Capabilities" ;
+    skos:definition "A repository or research-infrastructure characteristic describing capabilities in the context of context." .
+
+trsp:att.48E7481CDD
+    a skos:Concept ;
+    skos:prefLabel "Administrative Capacity" ;
+    skos:definition "A repository or research-infrastructure characteristic describing administrative capacity in the context of capabilities." .
+
+trsp:att.2C32459481
+    a skos:Concept ;
+    skos:prefLabel "Supported AAI Services" ;
+    skos:definition "The aai services that the repository or service can accept, use, expose or interoperate with." .
+
+trsp:att.4234565A8D
+    a skos:Concept ;
+    skos:prefLabel "Supported Dataset Formats" ;
+    skos:definition "The dataset formats that the repository or service can accept, use, expose or interoperate with." .
+
+trsp:att.6C03AB58B8
+    a skos:Concept ;
+    skos:prefLabel "Supported Metadata Schema" ;
+    skos:definition "The metadata standards the repoistory complies with (wrapper element)." .
+
+trsp:att.72082342EE
+    a skos:Concept ;
+    skos:prefLabel "Metadata Schema Name" ;
+    skos:definition "The name of the metadata standard." .
+
+trsp:att.0B54E5C8F5
+    a skos:Concept ;
+    skos:prefLabel "Metadata Schema IRI" ;
+    skos:definition "The IRI of the metadata standard." .
+
+trsp:att.01924AD3A3
+    a skos:Concept ;
+    skos:prefLabel "Supported Data/ Metadata Packages" ;
+    skos:definition "The information should cover\n- List of packaging standards supported\n- List of accepted/ preferred packaging standards \n- List of packaging standards the service or tools can export\n- The packaging standard(s) used internally\n- List of community-specific packaging standards supported" .
+
+trsp:att.167C47D292
+    a skos:Concept ;
+    skos:prefLabel "Supported Standards/ Specifications" ;
+    skos:definition "A list, with supported evidence, of standards and specificaitons that the repositrory aligns with, conforms to, and implements." .
+
+trsp:att.69C41A039A
+    a skos:Concept ;
+    skos:prefLabel "Supported Policies" ;
+    skos:definition "A list, with supported evidence, of policies that the repository implements." .
+
+trsp:att.34F02B2DA3
+    a skos:Concept ;
+    skos:prefLabel "PolicyName" ;
+    skos:definition "The name of the policy." .
+
+trsp:att.760BF58AAB
+    a skos:Concept ;
+    skos:prefLabel "PolicyIRI" ;
+    skos:definition "The IRI of the policy." .
+
+trsp:att.642C080D89
+    a skos:Concept ;
+    skos:prefLabel "Supported Access Types" ;
+    skos:definition "The access regulation to the research data sets provided by the RDR (wrapper element)." .
+
+trsp:att.56C6946E5A
+    a skos:Concept ;
+    skos:prefLabel "Metadata Access Types" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.4CD4FDE817
+    a skos:Concept ;
+    skos:prefLabel "Data Upload Types" ;
+    skos:definition "The regulation for submitting research data to the repository (wrapper element)." .
+
+trsp:att.543A727F84
+    a skos:Concept ;
+    skos:prefLabel "Supported Licences" ;
+    skos:definition "The licences supported by the repository" .
+
+trsp:att.5D06C32E4C
+    a skos:Concept ;
+    skos:prefLabel "LicenseName" ;
+    skos:definition "The name of the license." .
+
+trsp:att.6B9370A3BB
+    a skos:Concept ;
+    skos:prefLabel "LicenseIRI" ;
+    skos:definition "The licence IRI." .
+
+trsp:att.2F993B25AD
+    a skos:Concept ;
+    skos:prefLabel "Supported Persistent Identifiers" ;
+    skos:definition "The persistent identifiers that the repository or service can accept, use, expose or interoperate with." .
+
+trsp:att.6AF56A372D
+    a skos:Concept ;
+    skos:prefLabel "Supported Vocabularies" ;
+    skos:definition "The vocabularies that the repository or service can accept, use, expose or interoperate with." .
+
+trsp:att.6EED29CAE5
+    a skos:Concept ;
+    skos:prefLabel "PID Resolution Support" ;
+    skos:definition "A characteristic or capability concerning persistent identifiers used to identify, resolve, link or manage repository resources." .
+
+trsp:att.6F05B292BD
+    a skos:Concept ;
+    skos:prefLabel "Supports Signposting" ;
+    skos:definition "An indicator that the repository or service provides functional support for signposting." .
+
+trsp:att.6AA7258DA9
+    a skos:Concept ;
+    skos:prefLabel "Supports Embargoes" ;
+    skos:definition "An indicator that the repository or service provides functional support for embargoes." .
+
+trsp:att.67E6C4912C
+    a skos:Concept ;
+    skos:prefLabel "Supports Redaction/ Obfuscation" ;
+    skos:definition "An indicator that the repository or service provides functional support for redaction/ obfuscation." .
+
+trsp:att.50239FC483
+    a skos:Concept ;
+    skos:prefLabel "Supports Data Expiration" ;
+    skos:definition "An indicator that the repository or service provides functional support for data expiration." .
+
+trsp:att.45EC53C288
+    a skos:Concept ;
+    skos:prefLabel "Metadata Schema Export Options" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.32846CB4DF
+    a skos:Concept ;
+    skos:prefLabel "Data Transformation Service(s) Available" ;
+    skos:definition "An indicator that data transformation service(s) is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.1A4192F248
+    a skos:Concept ;
+    skos:prefLabel "Linked Open Data Support" ;
+    skos:definition "A repository characteristic or capability concerning linked open data support within the management, preservation, access or reuse of research data." .
+
+trsp:att.5960A93A27
+    a skos:Concept ;
+    skos:prefLabel "Level of Licence Applicability" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.4F90C51D4C
+    a skos:Concept ;
+    skos:prefLabel "Level of Curation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing level of curation in the context of capabilities." .
+
+trsp:att.613F28AF34
+    a skos:Concept ;
+    skos:prefLabel "Scope of Services" ;
+    skos:definition "Services that are offered range throughout the value chain, and can include automation or centralisation of common services. Services should be documented and appropriate. Pre-deposit services include QA and FAIR improvement, linking to DMPs, format conversions, etc. Value-added services include linking to tools, citation indices, and SKGs." .
+
+trsp:att.3788BFB26A
+    a skos:Concept ;
+    skos:prefLabel "API Services" ;
+    skos:definition "Services whose functions or resources are made available programmatically through an application programming interface." .
+
+trsp:att.4DEDF80AD3
+    a skos:Concept ;
+    skos:prefLabel "List of API Services" ;
+    skos:definition "The APIs supported by the repository (wrapper element)." .
+
+trsp:att.37C06F15E8
+    a skos:Concept ;
+    skos:prefLabel "API Name" ;
+    skos:definition "The name of the API." .
+
+trsp:att.3B4D9D3642
+    a skos:Concept ;
+    skos:prefLabel "API Type" ;
+    skos:definition "The type of the API." .
+
+trsp:att.06E31A70A5
+    a skos:Concept ;
+    skos:prefLabel "API IRI" ;
+    skos:definition "The URL of the API for machine processing of data or metadata." .
+
+trsp:att.0925FF0C65
+    a skos:Concept ;
+    skos:prefLabel "API Endpoint" ;
+    skos:definition "The service endpoint (URL) used to access the API." .
+
+trsp:att.62BD42CF21
+    a skos:Concept ;
+    skos:prefLabel "API Conforms To" ;
+    skos:definition "The URL of the standard or specification the API conforms Tto" .
+
+trsp:att.7E16B0A695
+    a skos:Concept ;
+    skos:prefLabel "API Format Support" ;
+    skos:definition "One or more formats supported by the API" .
+
+trsp:att.64D59A05CF
+    a skos:Concept ;
+    skos:prefLabel "API Documentation" ;
+    skos:definition "A link referring to the API documentation, a website that states its availability and other information for using the API." .
+
+trsp:att.38DA273FCF
+    a skos:Concept ;
+    skos:prefLabel "Pre-deposit" ;
+    skos:definition "A repository or research-infrastructure characteristic describing pre-deposit in the context of scope of services." .
+
+trsp:att.6C673D59D2
+    a skos:Concept ;
+    skos:prefLabel "Link to or Ingest External Metadata" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.5214DF9D16
+    a skos:Concept ;
+    skos:prefLabel "Pre-publication Peer Review" ;
+    skos:definition "A repository or research-infrastructure characteristic describing pre-publication peer review in the context of pre-deposit." .
+
+trsp:att.3754546590
+    a skos:Concept ;
+    skos:prefLabel "Deposit/ Appraisal/ Ingest" ;
+    skos:definition "Processes for receiving submitted content, deciding whether it should be accepted, validating it and bringing it under repository control." .
+
+trsp:att.4DCDBAD9B4
+    a skos:Concept ;
+    skos:prefLabel "Semantic Enhancement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing semantic enhancement in the context of deposit/ appraisal/ ingest." .
+
+trsp:att.67D4ECB749
+    a skos:Concept ;
+    skos:prefLabel "Named Entity Recognition Service" ;
+    skos:definition "A repository or infrastructure capability concerning named entity recognition service, provided to users, systems or partner organisations." .
+
+trsp:att.66C6612EA5
+    a skos:Concept ;
+    skos:prefLabel "Curation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing curation in the context of scope of services." .
+
+trsp:att.0563752C9F
+    a skos:Concept ;
+    skos:prefLabel "List of Curation Support Services" ;
+    skos:definition "A maintained enumeration of curation support services relevant to the repository, service or resource." .
+
+trsp:att.53947860B6
+    a skos:Concept ;
+    skos:prefLabel "Provenance Approach Documented" ;
+    skos:definition "An indicator that the approach or process for provenance approach is explicitly documented." .
+
+trsp:att.7FEEA35BFF
+    a skos:Concept ;
+    skos:prefLabel "Versioning Process Documented" ;
+    skos:definition "An indicator that the approach or process for versioning process is explicitly documented." .
+
+trsp:att.156B52FB19
+    a skos:Concept ;
+    skos:prefLabel "Preservation" ;
+    skos:definition "Planned actions that maintain the accessibility, integrity, authenticity and usability of digital objects for as long as required." .
+
+trsp:att.6EB55F36B2
+    a skos:Concept ;
+    skos:prefLabel "List of Preservation Support Services" ;
+    skos:definition "A maintained enumeration of preservation support services relevant to the repository, service or resource." .
+
+trsp:att.3DA6C87583
+    a skos:Concept ;
+    skos:prefLabel "Timeframe is Defined" ;
+    skos:definition "A repository or research-infrastructure characteristic describing timeframe is defined in the context of preservation." .
+
+trsp:att.08AB24D0F7
+    a skos:Concept ;
+    skos:prefLabel "Commitment is Defined" ;
+    skos:definition "A repository or research-infrastructure characteristic describing commitment is defined in the context of preservation." .
+
+trsp:att.34E5521DD7
+    a skos:Concept ;
+    skos:prefLabel "Discovery" ;
+    skos:definition "Functions that enable users or machines to locate relevant resources through search, browse, indexing or related mechanisms." .
+
+trsp:att.354E278D69
+    a skos:Concept ;
+    skos:prefLabel "Proper Citation" ;
+    skos:definition "A repository or research-infrastructure characteristic describing proper citation in the context of discovery." .
+
+trsp:att.0485C82A49
+    a skos:Concept ;
+    skos:prefLabel "Citation Export and Formatting Support" ;
+    skos:definition "A digital-object management characteristic concerning citation export and formatting support in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.540F680A1E
+    a skos:Concept ;
+    skos:prefLabel "Service APIs" ;
+    skos:definition "APIs that expose service functions, data or operations for machine-to-machine use." .
+
+trsp:att.18CE7D92FA
+    a skos:Concept ;
+    skos:prefLabel "Standard Discovery API Supported" ;
+    skos:definition "Discovery is supported by an API with proper documentation" .
+
+trsp:att.1669AF8869
+    a skos:Concept ;
+    skos:prefLabel "Supported Metadata Export Schema" ;
+    skos:definition "The metadata export schema that the repository or service can accept, use, expose or interoperate with." .
+
+trsp:att.374F095E69
+    a skos:Concept ;
+    skos:prefLabel "Level of Indexing Granularity" ;
+    skos:definition "A repository or research-infrastructure characteristic describing level of indexing granularity in the context of service apis." .
+
+trsp:att.0CEF99A2D6
+    a skos:Concept ;
+    skos:prefLabel "Frequency of Indexing" ;
+    skos:definition "A repository or research-infrastructure characteristic describing frequency of indexing in the context of service apis." .
+
+trsp:att.283D0EB595
+    a skos:Concept ;
+    skos:prefLabel "Indexing Specification or Standard" ;
+    skos:definition "A repository or research-infrastructure characteristic describing indexing specification or standard in the context of service apis." .
+
+trsp:att.754BCAC5A8
+    a skos:Concept ;
+    skos:prefLabel "Object-Level Metadata API" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.31600CB8D6
+    a skos:Concept ;
+    skos:prefLabel "File-Level Metadata API" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.601EAF4625
+    a skos:Concept ;
+    skos:prefLabel "Depositor Contact Information Available" ;
+    skos:definition "An indicator that depositor contact information is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.536467081E
+    a skos:Concept ;
+    skos:prefLabel "Value-Added" ;
+    skos:definition "A repository or research-infrastructure characteristic describing value-added in the context of scope of services." .
+
+trsp:att.50DA0AA84E
+    a skos:Concept ;
+    skos:prefLabel "Crosswalks and Conversions" ;
+    skos:definition "A practice for identifying, recording and managing changes or versions of repository resources over time." .
+
+trsp:att.3B49F36F75
+    a skos:Concept ;
+    skos:prefLabel "Metadata Crosswalks Supported" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.0FAB8D7E65
+    a skos:Concept ;
+    skos:prefLabel "Crosswalk Documentation Provided" ;
+    skos:definition "Documentation exist for the service used to translate, transform and/or mediate between different metadata and data formats. (Package structures, file formats, metadata standards)" .
+
+trsp:att.2141FF7751
+    a skos:Concept ;
+    skos:prefLabel "Flexible Serialisation of AIPs" ;
+    skos:definition "API serialisation methods are supported, and the technical standards and specifications followed for all aspects of serialising and packaging an AIP are described." .
+
+trsp:att.6A439A6743
+    a skos:Concept ;
+    skos:prefLabel "File Type Conversion Services" ;
+    skos:definition "A repository or infrastructure capability concerning file type conversion services, provided to users, systems or partner organisations." .
+
+trsp:att.6CA1A54238
+    a skos:Concept ;
+    skos:prefLabel "Package Crosswalks Supported" ;
+    skos:definition "Supports access to and exchange of its AIPs using a defined protocol and set of APIs, which are listed in human-and machine-readable formats." .
+
+trsp:att.699F35CDBC
+    a skos:Concept ;
+    skos:prefLabel "Quality-Assured Crosswalks" ;
+    skos:definition "A repository or research-infrastructure characteristic describing quality-assured crosswalks in the context of crosswalks and conversions." .
+
+trsp:att.110C424081
+    a skos:Concept ;
+    skos:prefLabel "Annotation" ;
+    skos:definition "A resource that associates information, commentary or other content with a target resource or a specific part of it." .
+
+trsp:att.0ECEE93CF8
+    a skos:Concept ;
+    skos:prefLabel "Supports Semantic Annotation" ;
+    skos:definition "An indicator that the repository or service provides functional support for semantic annotation." .
+
+trsp:att.7ABEF7ECA8
+    a skos:Concept ;
+    skos:prefLabel "Semantic Annotation Tools/ Services Supported" ;
+    skos:definition "A repository or infrastructure capability concerning semantic annotation tools/ services supported, provided to users, systems or partner organisations." .
+
+trsp:att.0674156B7E
+    a skos:Concept ;
+    skos:prefLabel "Consulting Services" ;
+    skos:definition "A repository or infrastructure capability concerning consulting services, provided to users, systems or partner organisations." .
+
+trsp:att.2E92627E37
+    a skos:Concept ;
+    skos:prefLabel "Advisory or Consulting Services Offered" ;
+    skos:definition "A repository or infrastructure capability concerning advisory or consulting services offered, provided to users, systems or partner organisations." .
+
+trsp:att.08DACE15B1
+    a skos:Concept ;
+    skos:prefLabel "Interoperability" ;
+    skos:definition "The ability of systems, services, data and organisations to exchange information and work together while preserving usable meaning and function." .
+
+trsp:att.696B580E35
+    a skos:Concept ;
+    skos:prefLabel "Interoperability Management" ;
+    skos:definition "A repository or research-infrastructure characteristic describing interoperability management in the context of interoperability." .
+
+trsp:att.360E4F3F7F
+    a skos:Concept ;
+    skos:prefLabel "Interoperability Policy and Planning" ;
+    skos:definition "A policy that defines cosiderations, drivers, and standards that informs an interoperability policy, the policy itself, and implementation planning." .
+
+trsp:att.0C3DB9BFAA
+    a skos:Concept ;
+    skos:prefLabel "Interoperability Procedures" ;
+    skos:definition "Documented procedures to ensure that the interoperability policy and planning is implemented." .
+
+trsp:att.15DBB60AC2
+    a skos:Concept ;
+    skos:prefLabel "Legal Interoperability" ;
+    skos:definition "The ability of parties operating under different legal, policy or licensing frameworks to exchange and reuse resources without incompatible legal conditions." .
+
+trsp:att.630826A6C1
+    a skos:Concept ;
+    skos:prefLabel "Documentation on legal interoperability considerations and provisions" ;
+    skos:definition "Documented information explaining legal interoperability and how it is implemented or applied." .
+
+trsp:att.09C8CBE4DE
+    a skos:Concept ;
+    skos:prefLabel "Semantic Interoperability" ;
+    skos:definition "The ability to exchange data and metadata while preserving their intended meaning through shared models, vocabularies and semantic artefacts." .
+
+trsp:att.2D56594874
+    a skos:Concept ;
+    skos:prefLabel "Documentation on semantic interoperability provisions" ;
+    skos:definition "Documented information explaining semantic interoperability and how it is implemented or applied." .
+
+trsp:att.71A5D27D84
+    a skos:Concept ;
+    skos:prefLabel "Technical Interoperability" ;
+    skos:definition "Interoperability at the level of interfaces, protocols, infrastructure, data exchange and secure machine-to-machine communication." .
+
+trsp:att.59B6E7FB7C
+    a skos:Concept ;
+    skos:prefLabel "Documentation on technical interoperability provisions" ;
+    skos:definition "Documented information explaining technical interoperability and how it is implemented or applied." .
+
+trsp:att.39ED69C36B
+    a skos:Concept ;
+    skos:prefLabel "Package Exchange" ;
+    skos:definition "A repository or research-infrastructure characteristic describing package exchange in the context of interoperability." .
+
+trsp:att.33FA4A6BF2
+    a skos:Concept ;
+    skos:prefLabel "Support for Bagit Specifications" ;
+    skos:definition "A repository or research-infrastructure characteristic describing support for bagit specifications in the context of package exchange." .
+
+trsp:att.741DA00695
+    a skos:Concept ;
+    skos:prefLabel "Support for RO-Crate Specifications" ;
+    skos:definition "A repository or research-infrastructure characteristic describing support for ro-crate specifications in the context of package exchange." .
+
+trsp:att.7362D6D981
+    a skos:Concept ;
+    skos:prefLabel "Reuse" ;
+    skos:definition "A repository or research-infrastructure characteristic describing reuse in the context of scope of services." .
+
+trsp:att.7D09257304
+    a skos:Concept ;
+    skos:prefLabel "Reuse Provisions" ;
+    skos:definition "A checklist, with evidence, of measures designed to assist end users with reuse of the data." .
+
+trsp:att.67DE43D8DF
+    a skos:Concept ;
+    skos:prefLabel "Rich Metadata" ;
+    skos:definition "Metadata sufficiently detailed and relevant to support discovery, interpretation, assessment and reuse of the described resource." .
+
+trsp:att.7F80554D90
+    a skos:Concept ;
+    skos:prefLabel "Clear Licence Provisions" ;
+    skos:definition "A characteristic or practice concerning the legal permissions, restrictions, obligations or licensing conditions applicable to repository resources." .
+
+trsp:att.1A78609F7E
+    a skos:Concept ;
+    skos:prefLabel "Provenance is recorded at object level" ;
+    skos:definition "A repository or research-infrastructure characteristic describing provenance is recorded at object level in the context of provenance." .
+
+trsp:att.56C67A542A
+    a skos:Concept ;
+    skos:prefLabel "Technology" ;
+    skos:definition "'A repository depends on the interaction of people, processes, and technologies to support secure, persistent, and reliable services. Its activities and functions are supported by software, hardware, and technical services.'" .
+
+trsp:att.6A837D5A94
+    a skos:Concept ;
+    skos:prefLabel "Reliable" ;
+    skos:definition "The characteristic that a service or system performs its required functions consistently and predictably under stated conditions." .
+
+trsp:att.2FCC26EFC0
+    a skos:Concept ;
+    skos:prefLabel "Description of Reliability Measures" ;
+    skos:definition "A repository or research-infrastructure characteristic describing description of reliability measures in the context of reliable." .
+
+trsp:att.209066030X
+    a skos:Concept ;
+    skos:prefLabel "Uptime" ;
+    skos:definition "A quantitative measure used to characterise reliable performance, scale or level." .
+
+trsp:att.752453ED45
+    a skos:Concept ;
+    skos:prefLabel "Accessible" ;
+    skos:definition "The characteristic that a resource can be retrieved or used through defined access mechanisms, subject to any necessary authentication or authorisation." .
+
+trsp:att.0ED3D624B3
+    a skos:Concept ;
+    skos:prefLabel "Accessibility Measures" ;
+    skos:definition "A repository or research-infrastructure characteristic describing accessibility measures in the context of accessible." .
+
+trsp:att.455FB4A066
+    a skos:Concept ;
+    skos:prefLabel "Accessibility Rating" ;
+    skos:definition "A quantitative measure used to characterise accessibility measures performance, scale or level." .
+
+trsp:att.70DECA9F26
+    a skos:Concept ;
+    skos:prefLabel "Multi-Language Support" ;
+    skos:definition "The language or language-support characteristic applicable to repository metadata, content, interfaces or documentation." .
+
+trsp:att.42A3D7A518
+    a skos:Concept ;
+    skos:prefLabel "Metadata" ;
+    skos:definition "Structured information that describes, identifies, contextualises, administers or supports the management and use of a resource." .
+
+trsp:att.60F7491B6A
+    a skos:Concept ;
+    skos:prefLabel "Websites and Services" ;
+    skos:definition "A repository or infrastructure capability concerning websites and services, provided to users, systems or partner organisations." .
+
+trsp:att.211F98FA33
+    a skos:Concept ;
+    skos:prefLabel "Vocabularies and Thesauri" ;
+    skos:definition "Controlled terminology resources used to represent concepts consistently and support semantic discovery, integration and interpretation." .
+
+trsp:att.78A504B99F
+    a skos:Concept ;
+    skos:prefLabel "Language Support Scope and Documentation" ;
+    skos:definition "Documented information explaining multi-language support and how it is implemented or applied." .
+
+trsp:att.6D262193A1
+    a skos:Concept ;
+    skos:prefLabel "Secure" ;
+    skos:definition "The characteristic that systems, services and information are protected through appropriate controls against relevant threats and unauthorised actions." .
+
+trsp:att.1AE2618C36
+    a skos:Concept ;
+    skos:prefLabel "e-Infrastructure security and Integrity" ;
+    skos:definition "Measures that protect research e-infrastructure, systems and data against unauthorised access, disruption, corruption or loss." .
+
+trsp:att.181F35E46A
+    a skos:Concept ;
+    skos:prefLabel "Published Security and Integrity Measures" ;
+    skos:definition "A security characteristic or control intended to protect repository systems, services or information against relevant threats." .
+
+trsp:att.337C35222E
+    a skos:Concept ;
+    skos:prefLabel "Standardised AAI" ;
+    skos:definition "A repository or research-infrastructure characteristic describing standardised aai in the context of e-infrastructure security and integrity." .
+
+trsp:att.178C46C3F1
+    a skos:Concept ;
+    skos:prefLabel "Active Threat Monitoring in Place" ;
+    skos:definition "An indicator that defined active threat monitoring have been implemented and are operational." .
+
+trsp:att.6F82B396BD
+    a skos:Concept ;
+    skos:prefLabel "Sovereignty Considerations" ;
+    skos:definition "A repository or research-infrastructure characteristic describing sovereignty considerations in the context of secure." .
+
+trsp:att.1DB0A6F7DB
+    a skos:Concept ;
+    skos:prefLabel "Locality of Data Storage and Archiving" ;
+    skos:definition "A storage characteristic describing the technologies, location, capacity or operational support used to retain digital content." .
+
+trsp:att.5EFDB0D148
+    a skos:Concept ;
+    skos:prefLabel "Object Storage" ;
+    skos:definition "A storage characteristic describing the technologies, location, capacity or operational support used to retain digital content." .
+
+trsp:att.075738C8DF
+    a skos:Concept ;
+    skos:prefLabel "Documented Measures for Backup, Replication, and Restoration" ;
+    skos:definition "Measures to maintain physical object integrity and availability, including verified replication and backup/ restore provisions." .
+
+trsp:att.35579BE2FC
+    a skos:Concept ;
+    skos:prefLabel "Services" ;
+    skos:definition "A repository or infrastructure capability concerning services, provided to users, systems or partner organisations." .
+
+trsp:att.46058DE67B
+    a skos:Concept ;
+    skos:prefLabel "External/ Micro-Services" ;
+    skos:definition "A repository or infrastructure capability concerning external/ micro-services, provided to users, systems or partner organisations." .
+
+trsp:att.1DB4B1E4F0
+    a skos:Concept ;
+    skos:prefLabel "Ownership" ;
+    skos:definition "A repository or research-infrastructure characteristic describing ownership in the context of external/ micro-services." .
+
+trsp:att.19AF20660A
+    a skos:Concept ;
+    skos:prefLabel "Documented and Published" ;
+    skos:definition "A repository or research-infrastructure characteristic describing documented and published in the context of ownership." .
+
+trsp:att.08417EDDFC
+    a skos:Concept ;
+    skos:prefLabel "Contact Point is Maintained" ;
+    skos:definition "Information or arrangements enabling users, depositors or stakeholders to contact an accountable repository or service representative." .
+
+trsp:att.4813ACF624
+    a skos:Concept ;
+    skos:prefLabel "Changes are Tracked" ;
+    skos:definition "A practice for identifying, recording and managing changes or versions of repository resources over time." .
+
+trsp:att.2DA1C98050
+    a skos:Concept ;
+    skos:prefLabel "Service Metdata Available" ;
+    skos:definition "An indicator that service metdata is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.3720038519
+    a skos:Concept ;
+    skos:prefLabel "Dependencies" ;
+    skos:definition "A repository or research-infrastructure characteristic describing dependencies in the context of external/ micro-services." .
+
+trsp:att.32048A7179
+    a skos:Concept ;
+    skos:prefLabel "Verified and Documented" ;
+    skos:definition "An indicator that the approach or process for verified and is explicitly documented." .
+
+trsp:att.693F62F485
+    a skos:Concept ;
+    skos:prefLabel "Availability Monitoring" ;
+    skos:definition "Systematic observation and review of dependencies to detect changes, failures, risks or non-conformance." .
+
+trsp:att.0AFAC21629
+    a skos:Concept ;
+    skos:prefLabel "Performance" ;
+    skos:definition "A repository or research-infrastructure characteristic describing performance in the context of external/ micro-services." .
+
+trsp:att.0EF898B591
+    a skos:Concept ;
+    skos:prefLabel "Large File Transport Support" ;
+    skos:definition "A digital-object management characteristic concerning large file transport support in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.79C13FD633
+    a skos:Concept ;
+    skos:prefLabel "Tape Storage Support" ;
+    skos:definition "A storage characteristic describing the technologies, location, capacity or operational support used to retain digital content." .
+
+trsp:att.2F5B9B4823
+    a skos:Concept ;
+    skos:prefLabel "Automated Retrieval from Tape" ;
+    skos:definition "A storage characteristic describing the technologies, location, capacity or operational support used to retain digital content." .
+
+trsp:att.216FEC031C
+    a skos:Concept ;
+    skos:prefLabel "Service Maturity/ Readiness" ;
+    skos:definition "The degree to which a service has the processes, technology, governance and evidence needed for dependable operational use." .
+
+trsp:att.3219437E8F
+    a skos:Concept ;
+    skos:prefLabel "Software and Service Quality" ;
+    skos:definition "The combined quality characteristics and assurance practices applying to software components and the services they support." .
+
+trsp:att.4C6A46FB4C
+    a skos:Concept ;
+    skos:prefLabel "Service Maturity Assessment" ;
+    skos:definition "A repository or infrastructure capability concerning service maturity assessment, provided to users, systems or partner organisations." .
+
+trsp:att.09BFA24214
+    a skos:Concept ;
+    skos:prefLabel "Formal Testing in Place" ;
+    skos:definition "An indicator that defined formal testing have been implemented and are operational." .
+
+trsp:att.1ADEEC1D3A
+    a skos:Concept ;
+    skos:prefLabel "Frequency of Formal Testing" ;
+    skos:definition "A repository or research-infrastructure characteristic describing frequency of formal testing in the context of software and service quality." .
+
+trsp:att.64E3E49E89
+    a skos:Concept ;
+    skos:prefLabel "Conformance Testing Tool(s)" ;
+    skos:definition "A repository or research-infrastructure characteristic describing conformance testing tool(s) in the context of software and service quality." .
+
+trsp:att.3A2655ABB6
+    a skos:Concept ;
+    skos:prefLabel "Test Results Published" ;
+    skos:definition "A repository or research-infrastructure characteristic describing test results published in the context of software and service quality." .
+
+trsp:att.7592D43F0B
+    a skos:Concept ;
+    skos:prefLabel "Open Source" ;
+    skos:definition "Software for which source code is made available under a licence permitting inspection, use, modification and redistribution." .
+
+trsp:att.5247A27418
+    a skos:Concept ;
+    skos:prefLabel "Confirmation of Open Source Stack" ;
+    skos:definition "A repository or research-infrastructure characteristic describing confirmation of open source stack in the context of open source." .
+
+trsp:att.17F915C6D9
+    a skos:Concept ;
+    skos:prefLabel "Primary Software Platform" ;
+    skos:definition "A repository or research-infrastructure characteristic describing primary software platform in the context of open source." .
+
+trsp:att.2363F099D9
+    a skos:Concept ;
+    skos:prefLabel "Community Contributions" ;
+    skos:definition "A characteristic describing how the repository identifies, represents, supports or engages relevant communities and stakeholders." .
+
+trsp:att.6D8778C1BE
+    a skos:Concept ;
+    skos:prefLabel "Re-establishment of service elsewhere" ;
+    skos:definition "A repository or infrastructure capability concerning re-establishment of service elsewhere, provided to users, systems or partner organisations." .
+
+trsp:att.21F3C82F8B
+    a skos:Concept ;
+    skos:prefLabel "Legal" ;
+    skos:definition "A repository or research-infrastructure characteristic describing legal in the context of technology." .
+
+trsp:att.17B2A92EC9
+    a skos:Concept ;
+    skos:prefLabel "List of Third Party Services" ;
+    skos:definition "A maintained enumeration of third party services relevant to the repository, service or resource." .
+
+trsp:att.13FE6DDD8E
+    a skos:Concept ;
+    skos:prefLabel "Third Party Service Level Agreements" ;
+    skos:definition "A repository or infrastructure capability concerning third party service level agreements, provided to users, systems or partner organisations." .
+
+trsp:att.4DD56E646D
+    a skos:Concept ;
+    skos:prefLabel "Trust" ;
+    skos:definition "Confidence that a repository or service will perform its stated functions reliably, responsibly and consistently over time." .
+
+trsp:att.43246175EA
+    a skos:Concept ;
+    skos:prefLabel "Certification" ;
+    skos:definition "Formal confirmation by an authorised or recognised body that specified requirements or standards have been satisfied." .
+
+trsp:att.22F180559A
+    a skos:Concept ;
+    skos:prefLabel "Research Data Management" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using research data management mechanisms." .
+
+trsp:att.2C0457E919
+    a skos:Concept ;
+    skos:prefLabel "List of Certifications: RDM" ;
+    skos:definition "A maintained enumeration of certifications: rdm relevant to the repository, service or resource." .
+
+trsp:att.28E7E7EC52
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality Status" ;
+    skos:definition "Status of certification" .
+
+trsp:att.6E5A6E0738
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality Name" ;
+    skos:definition "Certification label" .
+
+trsp:att.1124B54E11
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality Authority" ;
+    skos:definition "The institution or authority performing the certification" .
+
+trsp:att.69DC01B864
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality Type" ;
+    skos:definition "The type of certification" .
+
+trsp:att.649F4463C0
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality IRL" ;
+    skos:definition "Evidence of certification" .
+
+trsp:att.29404998B4
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality Start Date" ;
+    skos:definition "Certification validity start date" .
+
+trsp:att.5BAE0F9804
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality End Date" ;
+    skos:definition "Certification validity end date" .
+
+trsp:att.0BEC643CC8
+    a skos:Concept ;
+    skos:prefLabel "RDM Quality Widget" ;
+    skos:definition "A badge or widget that defines certification level or status" .
+
+trsp:att.1593E1AE08
+    a skos:Concept ;
+    skos:prefLabel "Software Development Quality" ;
+    skos:definition "Practices and controls used to ensure software is developed, tested, maintained and released to an appropriate quality standard." .
+
+trsp:att.133FBDB8C2
+    a skos:Concept ;
+    skos:prefLabel "List of Certifications: Software Quality" ;
+    skos:definition "A maintained enumeration of certifications: software quality relevant to the repository, service or resource." .
+
+trsp:att.067B4C3677
+    a skos:Concept ;
+    skos:prefLabel "Software Development Guidelines and Procedures" ;
+    skos:definition "Measures to ensure a minimum competeness, documentation, and techmology readiness for software development." .
+
+trsp:att.386291B08E
+    a skos:Concept ;
+    skos:prefLabel "Software Quality Status" ;
+    skos:definition "Status of certification" .
+
+trsp:att.50AEF9F2EF
+    a skos:Concept ;
+    skos:prefLabel "Software Quality Name" ;
+    skos:definition "Certification label" .
+
+trsp:att.4803007B83
+    a skos:Concept ;
+    skos:prefLabel "Software Quality Authority" ;
+    skos:definition "The institution or authority performing the certification" .
+
+trsp:att.00A7D8F385
+    a skos:Concept ;
+    skos:prefLabel "Software Quality Type" ;
+    skos:definition "The type of certification" .
+
+trsp:att.54E5432755
+    a skos:Concept ;
+    skos:prefLabel "Software Quality IRL" ;
+    skos:definition "Evidence of certification" .
+
+trsp:att.6A89B5B165
+    a skos:Concept ;
+    skos:prefLabel "Software Quality Start Date" ;
+    skos:definition "Certification validity start date" .
+
+trsp:att.5EABFD41BE
+    a skos:Concept ;
+    skos:prefLabel "Software Quality End Date" ;
+    skos:definition "Certification validity end date" .
+
+trsp:att.3CC032134C
+    a skos:Concept ;
+    skos:prefLabel "Software Quality Widget" ;
+    skos:definition "A badge or widget that defines certification level or status" .
+
+trsp:att.7F2AF694BC
+    a skos:Concept ;
+    skos:prefLabel "Process Quality" ;
+    skos:definition "A defined and repeatable set of activities for process quality within the repository or service." .
+
+trsp:att.1BFD0D011D
+    a skos:Concept ;
+    skos:prefLabel "List of Certifications: Process" ;
+    skos:definition "A maintained enumeration of certifications: process relevant to the repository, service or resource." .
+
+trsp:att.10752B1763
+    a skos:Concept ;
+    skos:prefLabel "Process Quality Status" ;
+    skos:definition "Status of certification" .
+
+trsp:att.46212575F3
+    a skos:Concept ;
+    skos:prefLabel "Process Quality Name" ;
+    skos:definition "Certification label" .
+
+trsp:att.3D7A9D19FE
+    a skos:Concept ;
+    skos:prefLabel "Process Quality Authority" ;
+    skos:definition "The institution or authority performing the certification" .
+
+trsp:att.220BEE2499
+    a skos:Concept ;
+    skos:prefLabel "Process Quality Type" ;
+    skos:definition "The type of certification" .
+
+trsp:att.05F56D04D1
+    a skos:Concept ;
+    skos:prefLabel "Process Quality IRL" ;
+    skos:definition "Evidence of certification" .
+
+trsp:att.325FF88305
+    a skos:Concept ;
+    skos:prefLabel "Process Quality Start Date" ;
+    skos:definition "Certification validity start date" .
+
+trsp:att.7EE18B8B55
+    a skos:Concept ;
+    skos:prefLabel "Process Quality End Date" ;
+    skos:definition "Certification validity end date" .
+
+trsp:att.0C197135E6
+    a skos:Concept ;
+    skos:prefLabel "Process Quality Widget" ;
+    skos:definition "A badge or widget that defines certification level or status" .
+
+trsp:att.6FB4481988
+    a skos:Concept ;
+    skos:prefLabel "Service Quality and Security" ;
+    skos:definition "The characteristics and controls that make a service reliable, fit for purpose and appropriately protected against security threats." .
+
+trsp:att.16021E265C
+    a skos:Concept ;
+    skos:prefLabel "List of Certifications: Quality and Security" ;
+    skos:definition "A maintained enumeration of certifications: quality and security relevant to the repository, service or resource." .
+
+trsp:att.4BFB984148
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure Status" ;
+    skos:definition "Status of certification" .
+
+trsp:att.4CD909420D
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure Name" ;
+    skos:definition "Certification label" .
+
+trsp:att.67515A4B19
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure Authority" ;
+    skos:definition "The institution or authority performing the certification" .
+
+trsp:att.68AAF179EC
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure Type" ;
+    skos:definition "The type of certification" .
+
+trsp:att.4AAC3D95DE
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure IRL" ;
+    skos:definition "Evidence of certification" .
+
+trsp:att.2D8B0C3C1B
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure Start Date" ;
+    skos:definition "Certification validity start date" .
+
+trsp:att.183E7A43FD
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure End Date" ;
+    skos:definition "Certification validity end date" .
+
+trsp:att.166EA20AEF
+    a skos:Concept ;
+    skos:prefLabel "Quality Measure Widget" ;
+    skos:definition "A badge or widget that defines certification level or status" .
+
+trsp:att.15C860844A
+    a skos:Concept ;
+    skos:prefLabel "Profiles" ;
+    skos:definition "Defined selections, constraints or specialisations of a schema, standard or vocabulary for a particular community or application context." .
+
+trsp:att.549EA02994
+    a skos:Concept ;
+    skos:prefLabel "List of Profiles" ;
+    skos:definition "A list of profiles (associations, networks, membership organisations)" .
+
+trsp:att.377162A4CD
+    a skos:Concept ;
+    skos:prefLabel "Profile Name" ;
+    skos:definition "Name of the profile" .
+
+trsp:att.7DC345FF14
+    a skos:Concept ;
+    skos:prefLabel "Profile IRL" ;
+    skos:definition "A IRL for the profile" .
+
+trsp:att.5199835252
+    a skos:Concept ;
+    skos:prefLabel "Assessment" ;
+    skos:definition "A systematic evaluation of a resource, service, process or organisation against defined criteria or objectives." .
+
+trsp:att.5395FA9F9B
+    a skos:Concept ;
+    skos:prefLabel "List of Assessments" ;
+    skos:definition "List of non-certified assessments" .
+
+trsp:att.7F2C735152
+    a skos:Concept ;
+    skos:prefLabel "Adoption" ;
+    skos:definition "A repository or research-infrastructure characteristic describing adoption in the context of trust." .
+
+trsp:att.269D1CAE40
+    a skos:Concept ;
+    skos:prefLabel "List of Adoption" ;
+    skos:definition "List of adopted policies and principles" .
+
+trsp:att.5AA2824E72
+    a skos:Concept ;
+    skos:prefLabel "Endorsement" ;
+    skos:definition "A repository or research-infrastructure characteristic describing endorsement in the context of trust." .
+
+trsp:att.6A07FE361E
+    a skos:Concept ;
+    skos:prefLabel "List of Endorsements" ;
+    skos:definition "List of endorsed best practices" .
+
+trsp:att.168A40ED99
+    a skos:Concept ;
+    skos:prefLabel "Technology Measures" ;
+    skos:definition "Technical controls or technologies implemented to achieve operational, security, privacy, preservation or compliance objectives." .
+
+trsp:att.6D43E7EB5B
+    a skos:Concept ;
+    skos:prefLabel "List of Technology Measures" ;
+    skos:definition "List of formalised technology measures to improve trust (IDSC)" .
+
+trsp:att.4F3E671B60
+    a skos:Concept ;
+    skos:prefLabel "Organisational Measures" ;
+    skos:definition "Policies, procedures, governance arrangements and other organisational controls implemented to achieve operational, security, privacy or compliance objectives." .
+
+trsp:att.72E1E83DC2
+    a skos:Concept ;
+    skos:prefLabel "List of Organisational Measures" ;
+    skos:definition "List of formalised organisational measures (IDSC)" .
+
+trsp:att.5ABD0E52C7
+    a skos:Concept ;
+    skos:prefLabel "Performance" ;
+    skos:definition "A repository or research-infrastructure characteristic describing performance in the context of research data management and infrastructure." .
+
+trsp:att.1BF97AE324
+    a skos:Concept ;
+    skos:prefLabel "Submission Processing" ;
+    skos:definition "The considerations that end users value highly include the timeous publication of research outputs and the PID for the output." .
+
+trsp:att.545686D0F9
+    a skos:Concept ;
+    skos:prefLabel "Median Time To Publication" ;
+    skos:definition "The median elapsed time for to publication across the measured set of repository transactions or objects." .
+
+trsp:att.136965B228
+    a skos:Concept ;
+    skos:prefLabel "Median Time to PID" ;
+    skos:definition "The median elapsed time for to pid across the measured set of repository transactions or objects." .
+
+trsp:att.79CA40DE94
+    a skos:Concept ;
+    skos:prefLabel "Deposit Properties" ;
+    skos:definition "The mechanics of deposit limitations may also be important considerations for end users." .
+
+trsp:att.7F7C2776AC
+    a skos:Concept ;
+    skos:prefLabel "File and Dataset Properties" ;
+    skos:definition "Software platforms should provide easy API access to file and dataset properties in addition to dataset metadata - for example file sizes and checksums, file types, storage types, download links, and similar." .
+
+trsp:att.668C5369A6
+    a skos:Concept ;
+    skos:prefLabel "File Size" ;
+    skos:definition "A digital-object management characteristic concerning file size in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.4448343779
+    a skos:Concept ;
+    skos:prefLabel "Number of Files" ;
+    skos:definition "A digital-object management characteristic concerning number of files in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.1998CD6B88
+    a skos:Concept ;
+    skos:prefLabel "Dataset Size" ;
+    skos:definition "A repository characteristic or capability concerning dataset size within the management, preservation, access or reuse of research data." .
+
+trsp:att.0C85A9C228
+    a skos:Concept ;
+    skos:prefLabel "Storage Type" ;
+    skos:definition "A storage characteristic describing the technologies, location, capacity or operational support used to retain digital content." .
+
+trsp:att.3B8FD2CB5F
+    a skos:Concept ;
+    skos:prefLabel "File Format Guidance" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with file format." .
+
+trsp:att.1095E8CF4A
+    a skos:Concept ;
+    skos:prefLabel "Performance Assessment" ;
+    skos:definition "The extent to which formal assessments/ audits of performance have been obtained. These aspects relate to performance assessments that are associated with digital services in general, also soutside teh research output management landscape. It covers aspects of process quality (such as ISO 9000), information security (ISO 27001), and service management (FitSM)." .
+
+trsp:att.49CD2C1E51
+    a skos:Concept ;
+    skos:prefLabel "Quality" ;
+    skos:definition "The degree to which a resource, process or service satisfies stated or implied requirements for its intended use." .
+
+trsp:att.5BAF2CF9AA
+    a skos:Concept ;
+    skos:prefLabel "Information Management" ;
+    skos:definition "A digital-object management characteristic concerning information management in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.5086BAFCE4
+    a skos:Concept ;
+    skos:prefLabel "KPI-based monitoring" ;
+    skos:definition "Business informatics: extent to which strategic objectives and service KPIs are being achieved." .
+
+trsp:att.57326A13EB
+    a skos:Concept ;
+    skos:prefLabel "Scalability/ Big Data Readiness" ;
+    skos:definition "The extent to which the service or software can cope with increases in volume or intensity." .
+
+trsp:att.72B1425184
+    a skos:Concept ;
+    skos:prefLabel "Volume" ;
+    skos:definition "A quantitative measure used to characterise scalability/ big data readiness performance, scale or level." .
+
+trsp:att.4C9B7D2697
+    a skos:Concept ;
+    skos:prefLabel "Velocity/ Throughput" ;
+    skos:definition "A quantitative measure used to characterise scalability/ big data readiness performance, scale or level." .
+
+trsp:att.72CBE64ACC
+    a skos:Concept ;
+    skos:prefLabel "Availability" ;
+    skos:definition "For services and systems integrators, aspects such as uptime and rate limits may be important." .
+
+trsp:att.2090660301
+    a skos:Concept ;
+    skos:prefLabel "Uptime" ;
+    skos:definition "A quantitative measure used to characterise availability performance, scale or level." .
+
+trsp:att.2307B62BCB
+    a skos:Concept ;
+    skos:prefLabel "Rate Limits" ;
+    skos:definition "A repository or research-infrastructure characteristic describing rate limits in the context of availability." .
+
+trsp:att.305548D83D
+    a skos:Concept ;
+    skos:prefLabel "Income and Expenditure" ;
+    skos:definition "Moved non-accounting values to 'Financial Sustainability' and 'Attributes'" .
+
+trsp:att.0DA8E81794
+    a skos:Concept ;
+    skos:prefLabel "Financial Planning" ;
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for financialning." .
+
+trsp:att.1B5925483C
+    a skos:Concept ;
+    skos:prefLabel "Budget and Projections" ;
+    skos:definition "Financial planning, budgets, and projections" .
+
+trsp:att.3CF9D1EDA3
+    a skos:Concept ;
+    skos:prefLabel "Capital Costs" ;
+    skos:definition "A financial measure or category representing capital costs associated with operating or sustaining the repository or service." .
+
+trsp:att.2E1E7576AA
+    a skos:Concept ;
+    skos:prefLabel "Hardware and Networking" ;
+    skos:definition "A repository or research-infrastructure characteristic describing hardware and networking in the context of capital costs." .
+
+trsp:att.0476CED680
+    a skos:Concept ;
+    skos:prefLabel "Annual Capital Costs" ;
+    skos:definition "The total recurring yearly cost attributable to capital costs." .
+
+trsp:att.5FFCEEB1F9
+    a skos:Concept ;
+    skos:prefLabel "Systems Development" ;
+    skos:definition "A repository or research-infrastructure characteristic describing systems development in the context of capital costs." .
+
+trsp:att.3D29A751BD
+    a skos:Concept ;
+    skos:prefLabel "Personnel" ;
+    skos:definition "A repository or research-infrastructure characteristic describing personnel in the context of systems development." .
+
+trsp:att.6AB2C75C20
+    a skos:Concept ;
+    skos:prefLabel "Overhead" ;
+    skos:definition "A financial measure or category representing overhead associated with operating or sustaining the repository or service." .
+
+trsp:att.6D12041533
+    a skos:Concept ;
+    skos:prefLabel "Research and Development" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using research and development mechanisms." .
+
+trsp:att.52FDC90AA3
+    a skos:Concept ;
+    skos:prefLabel "Surplus/ Grants" ;
+    skos:definition "Inventory of projects/ grants and their contribution to R&D" .
+
+trsp:att.357D9538D7
+    a skos:Concept ;
+    skos:prefLabel "Other" ;
+    skos:definition "A residual category for relevant capital costs not represented by the other defined categories." .
+
+trsp:att.0B461E5444
+    a skos:Concept ;
+    skos:prefLabel "Other Capital Expenses" ;
+    skos:definition "A financial measure or category representing other capital expenses associated with operating or sustaining the repository or service." .
+
+trsp:att.355CB4D570
+    a skos:Concept ;
+    skos:prefLabel "Other" ;
+    skos:definition "A residual category for relevant operating costs not represented by the other defined categories." .
+
+trsp:att.4840647866
+    a skos:Concept ;
+    skos:prefLabel "Hardware and Networking" ;
+    skos:definition "A repository or research-infrastructure characteristic describing hardware and networking in the context of operating costs." .
+
+trsp:att.75E7733432
+    a skos:Concept ;
+    skos:prefLabel "Annual Storage Costs" ;
+    skos:definition "The total recurring yearly cost attributable to storage costs." .
+
+trsp:att.3AC5F76F9D
+    a skos:Concept ;
+    skos:prefLabel "Annual Compute Costs" ;
+    skos:definition "The total recurring yearly cost attributable to compute costs." .
+
+trsp:att.0178B70A6A
+    a skos:Concept ;
+    skos:prefLabel "Annual Application Server Costs" ;
+    skos:definition "The total recurring yearly cost attributable to application server costs." .
+
+trsp:att.6FB6A7610E
+    a skos:Concept ;
+    skos:prefLabel "Annual Networking Costs" ;
+    skos:definition "The total recurring yearly cost attributable to networking costs." .
+
+trsp:att.66003293B3
+    a skos:Concept ;
+    skos:prefLabel "Personnel" ;
+    skos:definition "A repository or research-infrastructure characteristic describing personnel in the context of operating costs." .
+
+trsp:att.7637BA7A1D
+    a skos:Concept ;
+    skos:prefLabel "Permanent Employee Costs" ;
+    skos:definition "A financial measure or category representing permanent employee costs associated with operating or sustaining the repository or service." .
+
+trsp:att.7E7029C120
+    a skos:Concept ;
+    skos:prefLabel "Contract Employee Costs" ;
+    skos:definition "A financial measure or category representing contract employee costs associated with operating or sustaining the repository or service." .
+
+trsp:att.4A04909C47
+    a skos:Concept ;
+    skos:prefLabel "Facilities and Offices" ;
+    skos:definition "A repository or research-infrastructure characteristic describing facilities and offices in the context of operating costs." .
+
+trsp:att.1385883981
+    a skos:Concept ;
+    skos:prefLabel "Annual Physical Infrastucture Costs" ;
+    skos:definition "The total recurring yearly cost attributable to physical infrastucture costs." .
+
+trsp:att.3ECDBAA77F
+    a skos:Concept ;
+    skos:prefLabel "Other" ;
+    skos:definition "A residual category for relevant operating costs not represented by the other defined categories." .
+
+trsp:att.47FFCA6BD2
+    a skos:Concept ;
+    skos:prefLabel "Licence Fees" ;
+    skos:definition "A financial measure or category representing licence fees associated with operating or sustaining the repository or service." .
+
+trsp:att.0CA397887F
+    a skos:Concept ;
+    skos:prefLabel "Memberships and Subscriptions" ;
+    skos:definition "A repository or research-infrastructure characteristic describing memberships and subscriptions in the context of other." .
+
+trsp:att.4C80663041
+    a skos:Concept ;
+    skos:prefLabel "Contingency Provision/ Reserves" ;
+    skos:definition "A repository or research-infrastructure characteristic describing contingency provision/ reserves in the context of other." .
+
+trsp:att.650BA75F4F
+    a skos:Concept ;
+    skos:prefLabel "Other" ;
+    skos:definition "A residual category for relevant revenue not represented by the other defined categories." .
+
+trsp:att.055D3C1243
+    a skos:Concept ;
+    skos:prefLabel "Income Statement by Source" ;
+    skos:definition "A repository or research-infrastructure characteristic describing income statement by source in the context of other." .
+
+trsp:att.27E790A86B
+    a skos:Concept ;
+    skos:prefLabel "User Focus" ;
+    skos:definition "The practice of designing and operating repository services around the needs, norms and expectations of designated or target user communities." .
+
+trsp:att.6FB10117A8
+    a skos:Concept ;
+    skos:prefLabel "Community Engagement" ;
+    skos:definition "Aspects include the involvement of the commumity in the governance, technology, standards development and specification, and usability of the service. It overlaps with social sustainability aspects/ governance." .
+
+trsp:att.0062B8B2C5
+    a skos:Concept ;
+    skos:prefLabel "User surveys" ;
+    skos:definition "A repository or research-infrastructure characteristic describing user surveys in the context of community engagement." .
+
+trsp:att.319BC310D5
+    a skos:Concept ;
+    skos:prefLabel "Roadmaps" ;
+    skos:definition "Technology statement, planning, and roadmaps for implementation" .
+
+trsp:att.368F99A5F7
+    a skos:Concept ;
+    skos:prefLabel "Stakeholder Involvement" ;
+    skos:definition "A characteristic describing how the repository identifies, represents, supports or engages relevant communities and stakeholders." .
+
+trsp:att.675434DF2B
+    a skos:Concept ;
+    skos:prefLabel "Training Offered" ;
+    skos:definition "Training offered to depositors, end users, stewards, internal staff, and other stakeholder groups in respect of own serviecs and improved research data management." .
+
+trsp:att.56B57BDCC5
+    a skos:Concept ;
+    skos:prefLabel "Guidance" ;
+    skos:definition "These elements list commonly supported use cases, and can be useful in describing the details of services offered. Indirectly, it may influence the decision of a depositor to select a repository, and affects end user ratings." .
+
+trsp:att.06D09133AE
+    a skos:Concept ;
+    skos:prefLabel "General Depositor Guidance" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with general depositor." .
+
+trsp:att.27198D2C3B
+    a skos:Concept ;
+    skos:prefLabel "Guidance on Repository Selection" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with on repository selection." .
+
+trsp:att.7C41966AB5
+    a skos:Concept ;
+    skos:prefLabel "Guidance on Data and Metadata Preparation" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with on data and metadata preparation." .
+
+trsp:att.74FDFB3E00
+    a skos:Concept ;
+    skos:prefLabel "Metadata Schema" ;
+    skos:definition "A formal specification defining metadata elements, their meanings, structure, relationships and constraints." .
+
+trsp:att.7F192DC5FF
+    a skos:Concept ;
+    skos:prefLabel "Community Metadata Schema Recommendations" ;
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+
+trsp:att.353453C585
+    a skos:Concept ;
+    skos:prefLabel "Documentation on Profiles" ;
+    skos:definition "Documented information explaining metadata schema and how it is implemented or applied." .
+
+trsp:att.5BDCFB83B0
+    a skos:Concept ;
+    skos:prefLabel "Metadata Profiles are Registered" ;
+    skos:definition "Metadata profiles implemented by the repository are formally registered in a metadata registry." .
+
+trsp:att.568D8C8984
+    a skos:Concept ;
+    skos:prefLabel "Profiles are Extensible" ;
+    skos:definition "A digital-object management characteristic concerning profiles are extensible in repository ingest, preservation, validation or access workflows." .
+
+trsp:att.14EEC67EC3
+    a skos:Concept ;
+    skos:prefLabel "Supported FAIR Implementation Profiles" ;
+    skos:definition "The fair implementation profiles that the repository or service can accept, use, expose or interoperate with." .
+
+trsp:att.48B32FB000
+    a skos:Concept ;
+    skos:prefLabel "Integrations (DMP, RO-Crate, ...)" ;
+    skos:definition "A repository or research-infrastructure characteristic describing integrations (dmp, ro-crate, ...) in the context of guidance on data and metadata preparation." .
+
+trsp:att.5E50766D16
+    a skos:Concept ;
+    skos:prefLabel "Link to DMP" ;
+    skos:definition "A repository or research-infrastructure characteristic describing link to dmp in the context of integrations (dmp, ro-crate, ...)." .
+
+trsp:att.1AAA70FB51
+    a skos:Concept ;
+    skos:prefLabel "Link to RO-Crate" ;
+    skos:definition "A repository or research-infrastructure characteristic describing link to ro-crate in the context of integrations (dmp, ro-crate, ...)." .
+
+trsp:att.176CC246A8
+    a skos:Concept ;
+    skos:prefLabel "FAIR Assessment" ;
+    skos:definition "An evaluation of data, metadata or other digital objects against criteria derived from the FAIR principles." .
+
+trsp:att.3C89A4DF3F
+    a skos:Concept ;
+    skos:prefLabel "Per Object" ;
+    skos:definition "A repository or research-infrastructure characteristic describing per object in the context of fair assessment." .
+
+trsp:att.2687A2F0B8
+    a skos:Concept ;
+    skos:prefLabel "FAIR Aggregation" ;
+    skos:definition "Aggregation of resources in a manner that preserves or enhances their findability, accessibility, interoperability and reusability." .
+
+trsp:att.4673784806
+    a skos:Concept ;
+    skos:prefLabel "Per Collection" ;
+    skos:definition "A repository or research-infrastructure characteristic describing per collection in the context of fair aggregation." .
+
+trsp:att.74778C177C
+    a skos:Concept ;
+    skos:prefLabel "Per Repository/ Catalogue" ;
+    skos:definition "A repository or research-infrastructure characteristic describing per repository/ catalogue in the context of fair aggregation." .
+
+trsp:att.16AB115ADD
+    a skos:Concept ;
+    skos:prefLabel "Per Institution" ;
+    skos:definition "A repository or research-infrastructure characteristic describing per institution in the context of fair aggregation." .
+
+trsp:att.3F6736BF1C
+    a skos:Concept ;
+    skos:prefLabel "Format guidance and conversion" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with format  and conversion." .
+
+trsp:att.57D4BD2121
+    a skos:Concept ;
+    skos:prefLabel "Format guidance documentation" ;
+    skos:definition "Documented information explaining format guidance and conversion and how it is implemented or applied." .
+
+trsp:att.435F7D1B94
+    a skos:Concept ;
+    skos:prefLabel "Format Guidance API" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with format  api." .
+
+trsp:att.45E4291E97
+    a skos:Concept ;
+    skos:prefLabel "Format Guidance Granularity" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with format  granularity." .
+
+trsp:att.7C3A4C601F
+    a skos:Concept ;
+    skos:prefLabel "Licence guidance and selection" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with licence  and selection." .
+
+trsp:att.5B6F52B2CF
+    a skos:Concept ;
+    skos:prefLabel "Licence Selection Guidance" ;
+    skos:definition "Documented recommendations or instructions that assist users or staff with licence selection." .
+
+trsp:att.394D659C0C
+    a skos:Concept ;
+    skos:prefLabel "API Documentation" ;
+    skos:definition "Human- or machine-readable information describing how an API is structured, accessed and used." .
+
+trsp:att.207398D3A8
+    a skos:Concept ;
+    skos:prefLabel "Human-readable API documentation available" ;
+    skos:definition "An indicator that human-readable api documentation is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.1F40BC420B
+    a skos:Concept ;
+    skos:prefLabel "Machine-readable API documentation available" ;
+    skos:definition "An indicator that machine-readable api documentation is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.234960B12D
+    a skos:Concept ;
+    skos:prefLabel "Discovery" ;
+    skos:definition "Similary, these elements list commonly supported use cases, and can be useful in describing the details of services offered.  Indirectly, it may influence the decision of a depositor to select a repository, and affects end user ratings." .
+
+trsp:att.6B61F7AF54
+    a skos:Concept ;
+    skos:prefLabel "Find" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using find mechanisms." .
+
+trsp:att.7170942244
+    a skos:Concept ;
+    skos:prefLabel "Simple discovery" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using simple discovery mechanisms." .
+
+trsp:att.562C603E9F
+    a skos:Concept ;
+    skos:prefLabel "Advanced discovery" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using advanced discovery mechanisms." .
+
+trsp:att.16C85273EE
+    a skos:Concept ;
+    skos:prefLabel "Semantic, NL, or AI Search" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using semantic, nl, or ai search mechanisms." .
+
+trsp:att.50F2DBF5C1
+    a skos:Concept ;
+    skos:prefLabel "Named and Persisted Search Criteria" ;
+    skos:definition "A discovery capability enabling users or machines to locate resources using named and persisted search criteria mechanisms." .
+
+trsp:att.4BFE0576A2
+    a skos:Concept ;
+    skos:prefLabel "Federated Search Available" ;
+    skos:definition "An indicator that federated search is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.6A47F71F59
+    a skos:Concept ;
+    skos:prefLabel "Explore" ;
+    skos:definition "A repository or research-infrastructure characteristic describing explore in the context of discovery." .
+
+trsp:att.3458FE4AF7
+    a skos:Concept ;
+    skos:prefLabel "Linked Visualisation and Analysis Tools" ;
+    skos:definition "A repository or research-infrastructure characteristic describing linked visualisation and analysis tools in the context of explore." .
+
+trsp:att.38699AB445
+    a skos:Concept ;
+    skos:prefLabel "Understand" ;
+    skos:definition "A repository or research-infrastructure characteristic describing understand in the context of discovery." .
+
+trsp:att.398417702D
+    a skos:Concept ;
+    skos:prefLabel "Rich Metadata is Available" ;
+    skos:definition "An indicator that rich metadata is is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.5E44673C02
+    a skos:Concept ;
+    skos:prefLabel "Provenance" ;
+    skos:definition "Information describing the origins, custody, derivation, processing or other history of a resource that is relevant to its interpretation, authenticity or integrity." .
+
+trsp:att.4800B935CD
+    a skos:Concept ;
+    skos:prefLabel "Provenance is recorded using an applicable machine-readable standard" ;
+    skos:definition "A repository or research-infrastructure characteristic describing provenance is recorded using an applicable machine-readable standard in the context of provenance." .
+
+trsp:att.5F06EEC902
+    a skos:Concept ;
+    skos:prefLabel "Harvestable" ;
+    skos:definition "A repository or research-infrastructure characteristic describing harvestable in the context of discovery." .
+
+trsp:att.0F645C5E04
+    a skos:Concept ;
+    skos:prefLabel "Standard Protocol Implemented" ;
+    skos:definition "An indicator that standard protocol has been implemented in the relevant repository, service or workflow." .
+
+trsp:att.6A8A5E1219
+    a skos:Concept ;
+    skos:prefLabel "Application and Reuse" ;
+    skos:definition "Similary, these elements list commonly supported use cases, and can be useful in describing the details of services offered.  Indirectly, it may influence the decision of a depositor to select a repository, and affects end user ratings." .
+
+trsp:att.04C904A984
+    a skos:Concept ;
+    skos:prefLabel "Download or stream" ;
+    skos:definition "A repository or research-infrastructure characteristic describing download or stream in the context of application and reuse." .
+
+trsp:att.6BA2330E96
+    a skos:Concept ;
+    skos:prefLabel "Bind to Application/ Semantic Mapping" ;
+    skos:definition "A repository or research-infrastructure characteristic describing bind to application/ semantic mapping in the context of application and reuse." .
+
+trsp:att.0F56D6B0C4
+    a skos:Concept ;
+    skos:prefLabel "Include into VRE or workflow" ;
+    skos:definition "A defined and repeatable set of activities for include into vre or workflow within the repository or service." .
+
+trsp:att.2F6F8568A8
+    a skos:Concept ;
+    skos:prefLabel "Subset" ;
+    skos:definition "Ability to filter large datasets and only download the resulting subset" .
+
+trsp:att.4FE3AA3A42
+    a skos:Concept ;
+    skos:prefLabel "Analyse and Pre-Process" ;
+    skos:definition "A defined and repeatable set of activities for analyse and pre-process within the repository or service." .
+
+trsp:att.6E790E641F
+    a skos:Concept ;
+    skos:prefLabel "Context" ;
+    skos:definition "Linking LOD references (DOIs, ORCIDS, ...) to additional external context in SKGs, registries, and vocabularies" .
+
+trsp:att.0893119B50
+    a skos:Concept ;
+    skos:prefLabel "Supports LOD References" ;
+    skos:definition "An indicator that the repository or service provides functional support for lod references." .
+
+trsp:att.4B81FE7163
+    a skos:Concept ;
+    skos:prefLabel "Indexed in Scientific Knowledge Graphs" ;
+    skos:definition "A repository or research-infrastructure characteristic describing indexed in scientific knowledge graphs in the context of context." .
+
+trsp:att.70C4C7B218
+    a skos:Concept ;
+    skos:prefLabel "Annotation, Metrics, Feedback and Use" ;
+    skos:definition "Allow end users to annotate and rate metadata and data, and provide them with links to external resources (other versions, citation metrics, ...)" .
+
+trsp:att.5103AC4BB0
+    a skos:Concept ;
+    skos:prefLabel "(Forward) Provenance" ;
+    skos:definition "Find applications of the dataset as input for new dataset creation" .
+
+trsp:att.21C38D1D00
+    a skos:Concept ;
+    skos:prefLabel "Survey and Quality Feedback" ;
+    skos:definition "A repository or research-infrastructure characteristic describing survey and quality feedback in the context of annotation, metrics, feedback and use." .
+
+trsp:att.51FA72053A
+    a skos:Concept ;
+    skos:prefLabel "Citation and Mentions Metrics" ;
+    skos:definition "A repository or research-infrastructure characteristic describing citation and mentions metrics in the context of annotation, metrics, feedback and use." .
+
+trsp:att.3E9295C9A1
+    a skos:Concept ;
+    skos:prefLabel "User Support Mechanisms" ;
+    skos:definition "A repository or research-infrastructure characteristic describing user support mechanisms in the context of user focus." .
+
+trsp:att.434B4A0632
+    a skos:Concept ;
+    skos:prefLabel "Helpdesk Available" ;
+    skos:definition "An indicator that helpdesk is publicly or otherwise appropriately available to intended users or assessors." .
+
+trsp:att.24C6E69FBF
+    a skos:Concept ;
+    skos:prefLabel "SLA is Available" ;
+    skos:definition "Includes aspect such as ticket processing and resolution commitments, uptime and availability expectations, and differentitation of these for free and paid services, as applicable. The SLA should take community best practice into account." .
+
+trsp:att.4721CBC19A
+    a skos:Concept ;
+    skos:prefLabel "Object Maintenance" ;
+    skos:definition "A repository or research-infrastructure characteristic describing object maintenance in the context of user focus." .
+
+trsp:att.69BC0467D4
+    a skos:Concept ;
+    skos:prefLabel "Update Functionality" ;
+    skos:definition "A repository or research-infrastructure characteristic describing update functionality in the context of object maintenance." .
