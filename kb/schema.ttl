@@ -1,0 +1,44 @@
+@prefix edenkb: <https://w3id.org/eosc-eden/kb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+edenkb:Profile
+    a rdfs:Class ;
+    rdfs:label "Profile" ;
+    rdfs:comment "A named group of profile properties, such as the requirements of a repository network. A repository conforms to a profile when every mandatory property is present and the share of present properties reaches the minimum coverage." .
+
+edenkb:ProfileProperty
+    a rdfs:Class ;
+    rdfs:subClassOf skos:Concept ;
+    rdfs:label "Profile property" ;
+    rdfs:comment "One attribute as a profile words it, with the profile's own label and definition. It names its profile with edenkb:profile and points to its parent attribute with skos:exactMatch or skos:closeMatch." .
+
+edenkb:profile
+    a rdf:Property ;
+    rdfs:label "profile" ;
+    rdfs:comment "The profile a profile property belongs to." ;
+    rdfs:domain edenkb:ProfileProperty ;
+    rdfs:range edenkb:Profile .
+
+edenkb:minimumCoverage
+    a rdf:Property ;
+    rdfs:label "minimum coverage" ;
+    rdfs:comment "The share of a profile's properties, from 0 to 1, that a repository needs to conform to the profile." ;
+    rdfs:domain edenkb:Profile ;
+    rdfs:range xsd:decimal .
+
+edenkb:mandatory
+    a rdf:Property ;
+    rdfs:label "mandatory" ;
+    rdfs:comment "True when a repository must have this property to conform to the profile, whatever the coverage." ;
+    rdfs:domain edenkb:ProfileProperty ;
+    rdfs:range xsd:boolean .
+
+edenkb:sourcePattern
+    a rdf:Property ;
+    rdfs:label "source pattern" ;
+    rdfs:comment "A SPARQL group graph pattern that finds the attribute's value in harvested data. It uses ?repository for the repository and binds ?value; the attribute is present for a repository when the pattern has a solution." ;
+    rdfs:domain skos:Concept ;
+    rdfs:range xsd:string .
