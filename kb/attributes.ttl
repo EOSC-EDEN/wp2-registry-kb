@@ -320,7 +320,8 @@ trsp:att.4A4B5A22FE
 trsp:att.365F68CB18
     a skos:Concept ;
     skos:prefLabel "Metadata and Data" ;
-    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." ;
+    edenkb:sourcePattern "?repository r3d:metadataStandard/r3d:metadataStandardName ?value" .  # re3data
 
 trsp:att.3D988650EC
     a skos:Concept ;
@@ -731,13 +732,15 @@ trsp:att.206C4C60AA
     a skos:Concept ;
     skos:prefLabel "Terms of Deposit" ;
     skos:definition "A repository or research-infrastructure characteristic describing terms of deposit in the context of depositor rights." ;
-    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a dct:accrualPolicy" .  # harmonised record
+    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a dct:accrualPolicy" ,  # harmonised record
+        "?repository r3d:dataUpload/r3d:dataUploadType ?value" .  # re3data
 
 trsp:att.521A4A9E17
     a skos:Concept ;
     skos:prefLabel "Appraisal/ Accession Policy" ;
     skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning appraisal/ accession." ;
-    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a dct:accrualPolicy" .  # harmonised record
+    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a dct:accrualPolicy" ,  # harmonised record
+        "?repository r3d:dataUpload/r3d:dataUploadType ?value" .  # re3data
 
 trsp:att.5A6C15E767
     a skos:Concept ;
@@ -823,7 +826,9 @@ trsp:att.687D20F962
     a skos:Concept ;
     skos:prefLabel "Terms and Conditions of Use" ;
     skos:definition "A repository or research-infrastructure characteristic describing terms and conditions of use in the context of contracts, agreements, roles, responsibilities." ;
-    edenkb:sourcePattern "?repository dct:accessRights ?value" .  # harmonised record
+    edenkb:sourcePattern "?repository dct:accessRights ?value" ,  # harmonised record
+        "?repository schema:conditionsOfAccess ?value" ,  # page metadata
+        "?repository r3d:dataAccess/r3d:dataAccessType ?value" .  # re3data
 
 trsp:att.20EFD54EFD
     a skos:Concept ;
@@ -1313,7 +1318,8 @@ trsp:att.0E2DB53E0E
 trsp:att.6B7CED5897
     a skos:Concept ;
     skos:prefLabel "Assessment and Access Policy" ;
-    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning assessment and access." .
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning assessment and access." ;
+    edenkb:sourcePattern "?repository r3d:dataAccess/r3d:dataAccessType ?value" .  # re3data
 
 trsp:att.4F40729393
     a skos:Concept ;
@@ -1438,7 +1444,8 @@ trsp:att.115BEEC616
 trsp:att.3B633179C5
     a skos:Concept ;
     skos:prefLabel "Disciplinary Coverage" ;
-    skos:definition "The scope or extent of disciplinary coverage represented, served or supported by the repository or service." .
+    skos:definition "The scope or extent of disciplinary coverage represented, served or supported by the repository or service." ;
+    edenkb:sourcePattern "?repository r3d:subject/r3d:subjectName ?value" .  # re3data
 
 trsp:att.1EBE22F750
     a skos:Concept ;
@@ -1483,7 +1490,8 @@ trsp:att.761C0FB70D
 trsp:att.6A715E3A22
     a skos:Concept ;
     skos:prefLabel "Repository Type" ;
-    skos:definition "A classification indicating the primary organisational, disciplinary, institutional or functional type of a repository." .
+    skos:definition "A classification indicating the primary organisational, disciplinary, institutional or functional type of a repository." ;
+    edenkb:sourcePattern "?repository r3d:type ?value" .  # re3data
 
 trsp:att.11E21FF2FC
     a skos:Concept ;
@@ -1577,7 +1585,8 @@ trsp:att.6DB955E068
 trsp:att.48BF7E1522
     a skos:Concept ;
     skos:prefLabel "Year of Commencement" ;
-    skos:definition "A repository or research-infrastructure characteristic describing year of commencement in the context of repository characterisation." .
+    skos:definition "A repository or research-infrastructure characteristic describing year of commencement in the context of repository characterisation." ;
+    edenkb:sourcePattern "?repository r3d:startDate ?value" .  # re3data
 
 trsp:att.2ED61F28AC
     a skos:Concept ;
@@ -1615,7 +1624,8 @@ trsp:att.57C5A7579F
     a skos:Concept ;
     skos:prefLabel "Language" ;
     skos:definition "The language or language-support characteristic applicable to repository metadata, content, interfaces or documentation." ;
-    edenkb:sourcePattern "?repository dct:language ?value" .  # harmonised record
+    edenkb:sourcePattern "?repository dct:language ?value" ,  # harmonised record
+        "?repository r3d:repositoryLanguage ?value" .  # re3data
 
 trsp:att.3A6BADBDB9
     a skos:Concept ;
@@ -1686,7 +1696,8 @@ trsp:att.4234565A8D
 trsp:att.6C03AB58B8
     a skos:Concept ;
     skos:prefLabel "Supported Metadata Schema" ;
-    skos:definition "The metadata standards the repoistory complies with (wrapper element)." .
+    skos:definition "The metadata standards the repoistory complies with (wrapper element)." ;
+    edenkb:sourcePattern "?repository r3d:metadataStandard/r3d:metadataStandardName ?value" .  # re3data
 
 trsp:att.72082342EE
     a skos:Concept ;
@@ -1757,7 +1768,8 @@ trsp:att.6B9370A3BB
 trsp:att.2F993B25AD
     a skos:Concept ;
     skos:prefLabel "Supported Persistent Identifiers" ;
-    skos:definition "The persistent identifiers that the repository or service can accept, use, expose or interoperate with." .
+    skos:definition "The persistent identifiers that the repository or service can accept, use, expose or interoperate with." ;
+    edenkb:sourcePattern "?repository r3d:pidSystem ?value" .  # re3data
 
 trsp:att.6AF56A372D
     a skos:Concept ;
@@ -1897,7 +1909,8 @@ trsp:att.67D4ECB749
 trsp:att.66C6612EA5
     a skos:Concept ;
     skos:prefLabel "Curation" ;
-    skos:definition "A repository or research-infrastructure characteristic describing curation in the context of scope of services." .
+    skos:definition "A repository or research-infrastructure characteristic describing curation in the context of scope of services." ;
+    edenkb:sourcePattern "?repository r3d:qualityManagement/r3d:qualityManagementStatus ?value" .  # re3data
 
 trsp:att.0563752C9F
     a skos:Concept ;
