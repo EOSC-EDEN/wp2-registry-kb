@@ -1,5 +1,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix trsp: <https://w3id.org/trsp/> .
+@prefix edenkb: <https://w3id.org/eosc-eden/kb#> .
 
 trsp:att.4CB9ED25FE
     a skos:Concept ;
@@ -729,12 +730,14 @@ trsp:att.553A464EC8
 trsp:att.206C4C60AA
     a skos:Concept ;
     skos:prefLabel "Terms of Deposit" ;
-    skos:definition "A repository or research-infrastructure characteristic describing terms of deposit in the context of depositor rights." .
+    skos:definition "A repository or research-infrastructure characteristic describing terms of deposit in the context of depositor rights." ;
+    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a dct:accrualPolicy" .  # harmonised record
 
 trsp:att.521A4A9E17
     a skos:Concept ;
     skos:prefLabel "Appraisal/ Accession Policy" ;
-    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning appraisal/ accession." .
+    skos:definition "A documented policy defining the repository's rules, commitments or decision criteria concerning appraisal/ accession." ;
+    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a dct:accrualPolicy" .  # harmonised record
 
 trsp:att.5A6C15E767
     a skos:Concept ;
@@ -819,7 +822,8 @@ trsp:att.58022A9DBD
 trsp:att.687D20F962
     a skos:Concept ;
     skos:prefLabel "Terms and Conditions of Use" ;
-    skos:definition "A repository or research-infrastructure characteristic describing terms and conditions of use in the context of contracts, agreements, roles, responsibilities." .
+    skos:definition "A repository or research-infrastructure characteristic describing terms and conditions of use in the context of contracts, agreements, roles, responsibilities." ;
+    edenkb:sourcePattern "?repository dct:accessRights ?value" .  # harmonised record
 
 trsp:att.20EFD54EFD
     a skos:Concept ;
@@ -969,7 +973,8 @@ trsp:att.697C57FE46
 trsp:att.769A9F52BD
     a skos:Concept ;
     skos:prefLabel "Explanation of Licence Provisions" ;
-    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for explanation of licence provisions." .
+    skos:definition "A documented plan defining objectives, responsibilities, actions and arrangements for explanation of licence provisions." ;
+    edenkb:sourcePattern "?repository dct:license ?value" .  # harmonised record
 
 trsp:att.0CBE414A78
     a skos:Concept ;
@@ -1004,7 +1009,8 @@ trsp:att.4CB4F7ED15
 trsp:att.05CDC6D747
     a skos:Concept ;
     skos:prefLabel "Standard APIs" ;
-    skos:definition "Application programming interfaces that conform to recognised interface specifications or widely adopted protocol standards." .
+    skos:definition "Application programming interfaces that conform to recognised interface specifications or widely adopted protocol standards." ;
+    edenkb:sourcePattern "?repository dcat:service ?value" .  # harmonised record
 
 trsp:att.4A2CF0AF0A
     a skos:Concept ;
@@ -1104,7 +1110,8 @@ trsp:att.2922ED695E
 trsp:att.7298144E24
     a skos:Concept ;
     skos:prefLabel "Metadata (Harvesting) API" ;
-    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." .
+    skos:definition "A characteristic or capability concerning metadata used to describe, manage, exchange, validate or discover repository resources." ;
+    edenkb:sourcePattern "?repository dcat:service ?value" .  # harmonised record
 
 trsp:att.714EC2AA27
     a skos:Concept ;
@@ -1154,7 +1161,8 @@ trsp:att.371D70B854
 trsp:att.27C898E8A0
     a skos:Concept ;
     skos:prefLabel "List of Certifications" ;
-    skos:definition "A maintained enumeration of certifications relevant to the repository, service or resource." .
+    skos:definition "A maintained enumeration of certifications relevant to the repository, service or resource." ;
+    edenkb:sourcePattern "?repository dqv:hasQualityAnnotation/dct:title ?value" .  # harmonised record
 
 trsp:att.1224E087E0
     a skos:Concept ;
@@ -1294,7 +1302,8 @@ trsp:att.549827C8B4
 trsp:att.768DAFA0DB
     a skos:Concept ;
     skos:prefLabel "Data Preservation Policy" ;
-    skos:definition "A documented statement of objectives, responsibilities and practices for preserving digital content over its required lifetime." .
+    skos:definition "A documented statement of objectives, responsibilities and practices for preserving digital content over its required lifetime." ;
+    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a premis:PreservationPolicy" .  # harmonised record
 
 trsp:att.0E2DB53E0E
     a skos:Concept ;
@@ -1484,12 +1493,14 @@ trsp:att.11E21FF2FC
 trsp:att.64DA341B5F
     a skos:Concept ;
     skos:prefLabel "Repository Name" ;
-    skos:definition "A repository or research-infrastructure characteristic describing repository name in the context of repository characterisation." .
+    skos:definition "A repository or research-infrastructure characteristic describing repository name in the context of repository characterisation." ;
+    edenkb:sourcePattern "?repository dct:title ?value" .  # harmonised record
 
 trsp:att.4570870110
     a skos:Concept ;
     skos:prefLabel "Country" ;
-    skos:definition "A repository or research-infrastructure characteristic describing country in the context of repository characterisation." .
+    skos:definition "A repository or research-infrastructure characteristic describing country in the context of repository characterisation." ;
+    edenkb:sourcePattern "?repository dct:publisher/vcard:country ?value" .  # harmonised record
 
 trsp:att.19C2EB7DAB
     a skos:Concept ;
@@ -1509,12 +1520,14 @@ trsp:att.5F7C942B1E
 trsp:att.0C1737084B
     a skos:Concept ;
     skos:prefLabel "Description" ;
-    skos:definition "Documented information explaining repository characterisation and how it is implemented or applied." .
+    skos:definition "Documented information explaining repository characterisation and how it is implemented or applied." ;
+    edenkb:sourcePattern "?repository dct:description ?value" .  # harmonised record
 
 trsp:att.41F4454A97
     a skos:Concept ;
     skos:prefLabel "Organisation" ;
-    skos:definition "1 or more names, identifiers, and language indicators for the institutions and organisations hosting/ managing the repository." .
+    skos:definition "1 or more names, identifiers, and language indicators for the institutions and organisations hosting/ managing the repository." ;
+    edenkb:sourcePattern "?repository dct:publisher/foaf:name ?value" .  # harmonised record
 
 trsp:att.030C7CAA30
     a skos:Concept ;
@@ -1579,12 +1592,14 @@ trsp:att.07BAFD06A8
 trsp:att.08F1F3FAB7
     a skos:Concept ;
     skos:prefLabel "Research Area" ;
-    skos:definition "A discovery capability enabling users or machines to locate resources using research area mechanisms." .
+    skos:definition "A discovery capability enabling users or machines to locate resources using research area mechanisms." ;
+    edenkb:sourcePattern "?repository dcat:keyword ?value" .  # harmonised record
 
 trsp:att.291848CB10
     a skos:Concept ;
     skos:prefLabel "Contact" ;
-    skos:definition "Information or arrangements enabling users, depositors or stakeholders to contact an accountable repository or service representative." .
+    skos:definition "Information or arrangements enabling users, depositors or stakeholders to contact an accountable repository or service representative." ;
+    edenkb:sourcePattern "?repository dcat:contactPoint/(vcard:hasEmail|vcard:url|vcard:hasTelephone) ?value" .  # harmonised record
 
 trsp:att.1F522CDA86
     a skos:Concept ;
@@ -1599,7 +1614,8 @@ trsp:att.1A387A8E23
 trsp:att.57C5A7579F
     a skos:Concept ;
     skos:prefLabel "Language" ;
-    skos:definition "The language or language-support characteristic applicable to repository metadata, content, interfaces or documentation." .
+    skos:definition "The language or language-support characteristic applicable to repository metadata, content, interfaces or documentation." ;
+    edenkb:sourcePattern "?repository dct:language ?value" .  # harmonised record
 
 trsp:att.3A6BADBDB9
     a skos:Concept ;
@@ -1609,7 +1625,8 @@ trsp:att.3A6BADBDB9
 trsp:att.7470DA5BBA
     a skos:Concept ;
     skos:prefLabel "URL" ;
-    skos:definition "A repository url in the context of repository characterisation." .
+    skos:definition "A repository url in the context of repository characterisation." ;
+    edenkb:sourcePattern "?repository dct:identifier ?value" .  # harmonised record
 
 trsp:att.698943C6A7
     a skos:Concept ;
@@ -1724,7 +1741,8 @@ trsp:att.4CD4FDE817
 trsp:att.543A727F84
     a skos:Concept ;
     skos:prefLabel "Supported Licences" ;
-    skos:definition "The licences supported by the repository" .
+    skos:definition "The licences supported by the repository" ;
+    edenkb:sourcePattern "?repository dct:license ?value" .  # harmonised record
 
 trsp:att.5D06C32E4C
     a skos:Concept ;
@@ -1899,7 +1917,8 @@ trsp:att.7FEEA35BFF
 trsp:att.156B52FB19
     a skos:Concept ;
     skos:prefLabel "Preservation" ;
-    skos:definition "Planned actions that maintain the accessibility, integrity, authenticity and usability of digital objects for as long as required." .
+    skos:definition "Planned actions that maintain the accessibility, integrity, authenticity and usability of digital objects for as long as required." ;
+    edenkb:sourcePattern "?repository dct:conformsTo ?value . ?value a premis:PreservationPolicy" .  # harmonised record
 
 trsp:att.6EB55F36B2
     a skos:Concept ;
