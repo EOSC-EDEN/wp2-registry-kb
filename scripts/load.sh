@@ -17,6 +17,6 @@ put() {
 }
 
 cat kb/*.ttl kb/profiles/*.ttl | put eden://kb/definitions
-for file in memberships/*.ttl vocabs/*.ttl; do
+for file in memberships/*.ttl snapshots/*.ttl vocabs/*.ttl; do
   put "eden://kb/${file%.ttl}" < "$file"
 done

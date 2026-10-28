@@ -1,0 +1,2148 @@
+# Snapshot of the FIDELIS secretariat sheet, imported on 11 June 2026.
+# FIDELIS members do not publish this information themselves. Each statement
+# gives a TRSP attribute value of a member repository. The harmoniser uses a
+# value only where the harvest found none for that attribute. A newer export of
+# the sheet replaces this whole file.
+
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix trsp: <https://w3id.org/trsp/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<eden://kb/snapshots/fidelis-sheet> dct:issued "2026-06-11"^^xsd:date ;
+    dct:title "Snapshot of the FIDELIS secretariat sheet" .
+
+<http://www.pist.tn/> trsp:att.01D16EFB9B "CNUDST; Tunisian Ministry of Higher Education and Scientific Research; Tunisian universities and research institutions; Tunisian researchers" ;
+    trsp:att.035ACCB10D "Tunisian Scientific and Technical Information Portal (Portail de l'Information Scientifique et Technique). National digital library aggregating Tunisian academic and scientific output including theses, articles, conference proceedings and Tunisian scientific journals. Managed by CNUDST under international bibliographic standards." ;
+    trsp:att.1BF23E39F5 "PDF, plain text, MARC 21 metadata format" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "Arab Digital Library Network",
+        "DRIVER",
+        "Francophonie open access networks",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Tunisia" ;
+    trsp:att.48BF7E1522 "2004" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Tunisian academic and research community; focuses on Tunisian scientific output; open to all users" ;
+    trsp:att.54317F78CB "Theses and dissertations; scientific articles; conference proceedings; official gazette (JORT); Tunisian scientific journals; foreign publications on Tunisian research; union catalogue of journals (9,000+ titles)" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "Dublin Core",
+        "MARC 21",
+        "standard bibliographic vocabulary" ;
+    trsp:att.6B7CED5897 "Open access for most content; some content restricted to registered institutional users" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term archiving by CNUDST as national mandate" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by CNUDST (under Tunisian Ministry of Higher Education and Scientific Research)" .
+
+<https://about.coscine.de/> trsp:att.01D16EFB9B "RWTH Aachen University; Forschungszentrum Jülich; NRW partner universities; NRW Ministry of Culture and Science; NFDI consortia" ;
+    trsp:att.035ACCB10D "Research data management platform and repository for institutions in NRW and beyond. Supports the full RDM lifecycle including structured data storage, metadata annotation with domain-specific schemas, project collaboration, data sharing and archiving. Integrates with NFDI consortia." ;
+    trsp:att.1BF23E39F5 "All common formats; format-specific metadata schemas supported" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DFG Open Science recommendations",
+        "EOSC",
+        "NFDI (Nationale Forschungsdateninfrastruktur)",
+        "NRW Science Ministry" ;
+    trsp:att.27C898E8A0 "None formally",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Germany" ;
+    trsp:att.48BF7E1522 "2019" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers at NRW institutions; expanding to institutions in other German states; free for member institutions" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all types; structured and unstructured data" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "domain-specific metadata profiles (>40 schemas)",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Access controlled per project and dataset settings by depositor; private, shared and public options" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving; data transfer to external repositories (e.g. ZENODO, 4TU.ResearchData) supported" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Consortium – RWTH Aachen-led; consortium of NRW partner institutions; governance by board of member institutions" .
+
+<https://agroportal.lirmm.fr/> trsp:att.01D16EFB9B "LIRMM/CNRS; University of Montpellier; INRAE; CIRAD; agricultural and food science research community; FAO" ;
+    trsp:att.035ACCB10D "Ontology repository and portal for agronomy, food, plant science, biodiversity and related life sciences. Provides access to controlled vocabularies, terminologies and ontologies for semantic interoperability in agricultural and food research. Inspired by BioPortal." ;
+    trsp:att.1BF23E39F5 "OWL, RDF/XML, OBO Format, SKOS, UMLS (.sql)" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "Agrisemantics initiative",
+        "EOSC",
+        "FAO",
+        "GODAN (Global Open Data for Agriculture and Nutrition)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None formally",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "France" ;
+    trsp:att.48BF7E1522 "2015" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Agronomists, plant scientists, food researchers, data managers, semantic web researchers requiring controlled vocabularies" ;
+    trsp:att.54317F78CB "Ontologies, controlled vocabularies, thesauri, terminologies in agronomy, food, plant science and biodiversity" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "BioPortal-compatible API alignment",
+        "OBO Format",
+        "OWL",
+        "RDF",
+        "SKOS" ;
+    trsp:att.6B7CED5897 "Open access; all ontologies freely browsable and downloadable" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term hosting as part of French agricultural research infrastructure" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven; collaborative French research infrastructure led by LIRMM/CNRS; supported by INRAE and CIRAD" .
+
+<https://anc.plus.ac.at/index.html> trsp:att.01D16EFB9B "Medical University of Graz; Austrian neuroscience community; EBRAINS partners; European neuroscience researchers" ;
+    trsp:att.035ACCB10D "Research data repository and cloud platform for neuroscience data. Provides secure archiving, sharing and management of neuroimaging, brain connectivity and related neuroscience datasets. Integrates with EBRAINS European neuroscience infrastructure." ;
+    trsp:att.1BF23E39F5 "NIfTI, DICOM, BIDS-formatted datasets, HDF5; standard neuroscience data formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "Austrian research infrastructure ecosystem",
+        "EBRAINS (European brain research infrastructure)",
+        "EOSC" ;
+    trsp:att.27C898E8A0 "None formally",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Austria" ;
+    trsp:att.48BF7E1522 "2020" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Neuroscientists in Austria and internationally; academic research use" ;
+    trsp:att.54317F78CB "Neuroimaging data; brain connectivity datasets; electrophysiology data; neuroscience experimental datasets" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "BIDS (Brain Imaging Data Structure)",
+        "DataCite metadata",
+        "NeuroLex ontology",
+        "SNOMED CT" ;
+    trsp:att.6B7CED5897 "Access controlled; registration required; open for non-sensitive data; restricted access for sensitive patient-level data" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving within Medical University of Graz infrastructure" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Medical University of Graz; funded via Austrian research infrastructure grants" .
+
+<https://arche.acdh.oeaw.ac.at/browser/> trsp:att.01D16EFB9B "Austrian Academy of Sciences (ÖAW); Austrian humanities research community; CLARIN ERIC; DARIAH-EU; Austrian Federal Ministry of Education, Science and Research" ;
+    trsp:att.035ACCB10D "Austrian national repository for digital humanities research data and cultural heritage resources. Provides long-term archiving and open access to linguistic corpora, historical data, cultural heritage datasets and humanities research outputs. Austrian node of CLARIN ERIC and DARIAH-EU." ;
+    trsp:att.1BF23E39F5 "XML, TEI, JSON-LD, CSV, RDF, plain text, TIFF, MP3, WAV, MP4, PDF/A" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "ACDH-CH",
+        "CLARIN ERIC (Austrian B-Centre)",
+        "DARIAH-EU",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Austria" ;
+    trsp:att.48BF7E1522 "2018" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Austrian humanities researchers; CLARIN/DARIAH community; open internationally for academic use" ;
+    trsp:att.54317F78CB "Digital humanities data: text corpora, language resources, historical source materials, archaeological data, cultural heritage datasets, audiovisual materials" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CIDOC-CRM (cultural heritage)",
+        "CLARIN CMDI metadata",
+        "DataCite Metadata Schema",
+        "Dublin Core",
+        "SKOS",
+        "TEI (Text Encoding Initiative)" ;
+    trsp:att.6B7CED5897 "Open access; restricted access for sensitive data or copyright-restricted materials" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; ÖAW institutional guarantee; OAIS-aligned; CoreTrustSeal certified" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – ACDH-CH / Austrian Academy of Sciences (ÖAW); governed by ÖAW board and ACDH-CH management" .
+
+<https://asap.epfl.ch/> trsp:att.01D16EFB9B "EPFL; SIB; Swiss National Science Foundation (SNSF); single-cell omics research community internationally" ;
+    trsp:att.035ACCB10D "Automated Single-cell Analysis Portal (ASAP) – a collaborative web platform for analysing, visualising and publishing single-cell RNA-seq and multi-omics data. Allows researchers to import public datasets (GEO, ArrayExpress, SRA, BioProject) and private data, run analyses and share results. Incorporates scFAIR validation schema for single-cell data metadata." ;
+    trsp:att.1BF23E39F5 "H5AD (AnnData), Loom (.loom), Seurat (.rds), 10x Genomics format (MEX), CSV/TSV count matrices" ;
+    trsp:att.1D00720769 "Long-term (EPFL infrastructure)" ;
+    trsp:att.241E6C58DF "ArrayExpress",
+        "BioProject",
+        "ELIXIR Switzerland (via SIB)",
+        "Ensembl",
+        "GEO",
+        "NCBI databases",
+        "SIB Swiss Institute of Bioinformatics",
+        "scFAIR community" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "ASAP accessible via ELIXIR/EOSC ecosystem",
+        "Yes – SIB is an ELIXIR member and EOSC participant" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Switzerland" ;
+    trsp:att.48BF7E1522 "2016" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Single-cell omics researchers worldwide; open to all academics; free to use" ;
+    trsp:att.54317F78CB "Single-cell RNA-seq data; scATAC-seq; multi-omics single-cell data; count matrices; processed gene expression data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "Cell Ontology (CL)",
+        "EFO",
+        "Ensembl gene identifiers",
+        "Gene Ontology (GO)",
+        "HCAO",
+        "NCBI taxonomy",
+        "scFAIR metadata schema (v7.1)" ;
+    trsp:att.6B7CED5897 "Open access; projects can be private (during analysis) or public (upon publication); shared access via project URL" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term hosting at EPFL; institutional infrastructure; versioned project storage" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – developed and operated by EPFL and SIB; academic research tool with ongoing development by the Computational Biology group at EPFL" .
+
+<https://borealisdata.ca/> trsp:att.01D16EFB9B "CRKN member universities; University of Toronto (Scholars Portal); Tri-Agency research funders (SSHRC, NSERC, CIHR); Canadian research community" ;
+    trsp:att.035ACCB10D "National bilingual (English/French) Canadian research data repository. Provides multidisciplinary data archiving and sharing for researchers at CRKN member institutions. Successor to Scholars Portal Dataverse. Supports Tri-Agency open data mandates." ;
+    trsp:att.1BF23E39F5 "All common formats; sustainability guidance provided" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "EOSC (observer)",
+        "Global Dataverse Community Consortium (GDCC)",
+        "OpenAIRE",
+        "Tri-Agency (SSHRC; NSERC; CIHR)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Canada" ;
+    trsp:att.48BF7E1522 "2021" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers at CRKN member institutions; open internationally for data reuse; free for institutional members" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines from Canadian institutions" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "FRDR metadata crosswalk",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open and restricted access per dataset settings; embargoed access available" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified; University of Toronto Scholars Portal infrastructure" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Consortium – CRKN member institutions; hosted by University of Toronto Scholars Portal; governed by CRKN board" .
+
+<https://cds.unistra.fr/> trsp:att.01D16EFB9B "University of Strasbourg; CNRS; international astronomical community; ESA; NASA; journal publishers (A&A, AJ, ApJ, MNRAS, etc.)" ;
+    trsp:att.035ACCB10D "International astronomical data centre hosting VizieR (>22,000 catalogues) and SIMBAD (astronomical object database). Provides long-term archiving, publishing and dissemination of astronomical data and associated bibliographic information. One of the world's oldest and most comprehensive astronomical data centres." ;
+    trsp:att.1BF23E39F5 "FITS, ASCII tables, VOTable, CDS-native format" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "AAS",
+        "CDS is WDS regular member",
+        "DataCite",
+        "EOSC",
+        "EurVO",
+        "IAU",
+        "IVOA (International Virtual Observatory Alliance)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification",
+        "WDS accreditation" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "France" ;
+    trsp:att.48BF7E1522 "1972" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "International astronomical community; data from published research papers deposited alongside journal publication" ;
+    trsp:att.54317F78CB "Astronomical catalogues; stellar databases; photometric and spectroscopic data; positions and proper motions; observational astronomical datasets" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "IVOA standards (VOTable; TAP; ADQL; SCS; SSAP; UCD – Unified Content Descriptors)",
+        "astronomical object taxonomy (simbad.u-strasbg.fr/guide/chF.htx)" ;
+    trsp:att.6B7CED5897 "Open access; free for all users worldwide" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "SPARQL Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation by University of Strasbourg and CNRS; infrastructure in place since 1972" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – University of Strasbourg / CNRS joint structure (UMR 7550)" .
+
+<https://cer.ihtm.bg.ac.rs/> trsp:att.01D16EFB9B "IHTM; University of Belgrade; Ministry of Education, Science and Technological Development of Serbia" ;
+    trsp:att.035ACCB10D "Institutional open-access digital repository of the Institute of Chemistry, Technology and Metallurgy (IHTM), University of Belgrade. Provides access to scientific publications, research outputs and other scholarly materials from IHTM staff." ;
+    trsp:att.1BF23E39F5 "PDF, various document formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Serbia" ;
+    trsp:att.48BF7E1522 "2016" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "IHTM staff, researchers and doctoral students" ;
+    trsp:att.54317F78CB "Scientific articles, conference papers, theses, technical reports in chemistry, materials science, technology and metallurgy" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term archiving as part of institutional mandate; DSpace platform" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by IHTM Library and IT services; overseen by IHTM management" .
+
+<https://cris.uns.ac.rs/en> trsp:att.01D16EFB9B "University of Novi Sad; Ministry of Education, Science and Technological Development of Serbia; Provincial Secretariat of Vojvodina for Science and Technological Development; UNS faculties and institutes" ;
+    trsp:att.035ACCB10D "Current Research Information System (CRIS) of the University of Novi Sad. A comprehensive institutional research information system that stores, manages and provides access to bibliographic records of scientific and research outputs from all UNS faculties and institutes. Based on the CERIF data model." ;
+    trsp:att.1BF23E39F5 "PDF, XML, CERIF-format metadata" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "OpenAIRE",
+        "Serbian Open Science network",
+        "euroCRIS (uses CERIF standard)" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Serbia" ;
+    trsp:att.48BF7E1522 "2010" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "UNS researchers, doctoral students and staff from all faculties; all scientific and research outputs from UNS projects" ;
+    trsp:att.54317F78CB "Scientific articles, conference papers, monographs, theses, patents, technical reports from UNS researchers" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "CERIF (Common European Research Information Format)",
+        "Dublin Core",
+        "MARC 21" ;
+    trsp:att.6B7CED5897 "Open access for metadata; some full texts available; access to sensitive data restricted" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving as institutional mandate; DSpace/CRIS platform ensures ongoing archiving" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by University of Novi Sad Computer Centre; governed by UNS rector and library/IT administration" .
+
+<https://dais.sanu.ac.rs/> trsp:att.01D16EFB9B "Serbian Academy of Sciences and Arts; SANU institutes; Serbian scientific and cultural community" ;
+    trsp:att.035ACCB10D "Institutional digital repository of the Serbian Academy of Sciences and Arts. Preserves and provides open access to the scientific and scholarly publications, books, journals, proceedings and research outputs produced by SANU members and affiliated institutes." ;
+    trsp:att.1BF23E39F5 "PDF, JPEG, TIFF; various document formats" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "DRIVER",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Serbia" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "SANU members, associates and affiliated institute researchers; publications resulting from SANU-funded or SANU-affiliated work" ;
+    trsp:att.54317F78CB "Scientific monographs, journal articles, conference proceedings, books, journals, encyclopaedias; cultural heritage materials" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "Dublin Core",
+        "MARC21 metadata" ;
+    trsp:att.6B7CED5897 "Open access for most materials; some materials under copyright restrictions" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation as part of SANU institutional mandate; DSpace platform with institutional backup" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by SANU Library and IT department; overseen by SANU presidency" .
+
+<https://dans.knaw.nl/nl/life-sciences/> trsp:att.01D16EFB9B "DANS; KNAW; NWO; Dutch life sciences research community; ELIXIR Netherlands" ;
+    trsp:att.035ACCB10D "Domain-specific repository for life sciences research data (health sciences, medical sciences, green life sciences). Services primarily aimed at Dutch researchers. Part of DANS Data Stations infrastructure built on Harvard Dataverse. Integrates with ODISSEI and national life sciences portals." ;
+    trsp:att.1BF23E39F5 "All common life sciences formats; recommended formats listed by DANS" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DANS ecosystem",
+        "ELIXIR NL",
+        "EOSC",
+        "ODISSEI",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Netherlands" ;
+    trsp:att.48BF7E1522 "2023" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Dutch life sciences researchers primarily; open to international depositors; selection policy: https://dans.knaw.nl/en/selection-policy-dans-data-stations/" ;
+    trsp:att.54317F78CB "Life sciences datasets: health, medical, biological, agricultural and green life sciences data" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI",
+        "DataCite Metadata Schema",
+        "Dublin Core",
+        "JSON-LD",
+        "OAI-ORE",
+        "life sciences domain vocabularies" ;
+    trsp:att.6B7CED5897 "Open, embargoed, restricted and closed access tiers; registration required for restricted data" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation per DANS policies; DANS Licence and Data Stations Terms of Use; OAIS-aligned" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – managed by DANS (joint institute of KNAW and NWO); governed under DANS institutional framework" .
+
+<https://dans.knaw.nl/nl/social-sciences-and-humanities/> trsp:att.01D16EFB9B "DANS; KNAW; NWO; CESSDA; Dutch SSH research community; ODISSEI" ;
+    trsp:att.035ACCB10D "Domain-specific repository for social sciences and humanities research data primarily serving Dutch researchers. Part of DANS Data Stations infrastructure. Successor to EASY archive. Integrates with CESSDA Data Catalogue and ODISSEI portal for social science data discovery." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, PDF/A, plain text, audio, video, images; various SSH formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA",
+        "CLARIN",
+        "EOSC",
+        "FIDELIS TDR Network",
+        "ODISSEI",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Netherlands" ;
+    trsp:att.48BF7E1522 "2022" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Dutch SSH researchers primarily; international deposits accepted; DANS selection policy applies" ;
+    trsp:att.54317F78CB "Social science surveys, qualitative interviews, longitudinal data, oral history, digital humanities, heritage data" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook and Lifecycle",
+        "DataCite Metadata Schema",
+        "Dublin Core",
+        "JSON-LD",
+        "OAI-ORE" ;
+    trsp:att.6B7CED5897 "Open, embargoed, restricted and closed access tiers; registration required for restricted data" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation per DANS policies; CoreTrustSeal certified; OAIS-aligned" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – managed by DANS (joint institute of KNAW and NWO); governed under DANS institutional framework" .
+
+<https://dass.credi.ba/> trsp:att.01D16EFB9B "University of Sarajevo; CREDI; BiH research community; CESSDA associate" ;
+    trsp:att.035ACCB10D "National data archive for social sciences in Bosnia and Herzegovina. Collects, preserves and provides access to social science research datasets to support secondary analysis and evidence-based policy in the Western Balkans region." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (associate/candidate member)",
+        "Western Balkans research infrastructure initiatives" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Bosnia and Herzegovina" ;
+    trsp:att.48BF7E1522 "2016" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "BiH social science researchers; Western Balkans academic community" ;
+    trsp:att.54317F78CB "Survey microdata; qualitative social science datasets; public opinion data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook" ;
+    trsp:att.6B7CED5897 "Free for academic use; registration required" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation per institutional capacity" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Faculty of Political Sciences, University of Sarajevo; hosted on CREDI infrastructure" .
+
+<https://data.4tu.nl/> trsp:att.01D16EFB9B "TU Delft; TU Eindhoven; University of Twente; Wageningen University & Research; international science and engineering research community" ;
+    trsp:att.035ACCB10D "International trusted digital repository for science, engineering and design research data. Provides curation, sharing, long-term access and preservation for researchers worldwide. Free up to specified storage limits for consortium members. Minimum 15-year preservation guarantee for all datasets." ;
+    trsp:att.1BF23E39F5 "All common formats; preferred formats listed on repository website; format sustainability review at ingest" ;
+    trsp:att.1D00720769 "Minimum 15 years" ;
+    trsp:att.241E6C58DF "4TU.Federation",
+        "DataCite",
+        "EOSC",
+        "OpenAIRE",
+        "Research Data Netherlands" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Netherlands" ;
+    trsp:att.48BF7E1522 "2008" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers worldwide; consortium members deposit free up to 100 GB/year; additional storage at cost" ;
+    trsp:att.54317F78CB "Science, engineering and design research datasets across all formats" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access by default; restricted and embargoed access options available" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Minimum 15 years for all datasets; active preservation by TU Delft Library; OAIS-compliant" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Governed by the 4TU.ResearchData Consortium Executive Board; members include TU Delft, TU Eindhoven, University of Twente; open to new members; hosted and managed by TU Delft Library" .
+
+<https://data.crossda.hr> trsp:att.01D16EFB9B "Institute for Social Research in Zagreb; Croatian Ministry of Science and Education; CESSDA; Croatian social science research community" ;
+    trsp:att.035ACCB10D "National Croatian data archive for social sciences. Collects, preserves and provides access to quantitative and qualitative social science datasets from Croatian research. Supports secondary analysis and promotes data sharing in Croatian social science." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, PDF" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (Service Provider)" ;
+    trsp:att.27C898E8A0 "None formally",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Croatia" ;
+    trsp:att.48BF7E1522 "2005" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Croatian and international social science researchers; datasets from Croatian research projects" ;
+    trsp:att.54317F78CB "Survey microdata; qualitative interview datasets; social science datasets" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook" ;
+    trsp:att.6B7CED5897 "Free for registered academic users" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term archiving; CESSDA-aligned data curation practices" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – managed by the Institute for Social Research in Zagreb" .
+
+<https://data.dtu.dk/> trsp:att.01D16EFB9B "Technical University of Denmark; Danish research community; DTU researchers; Danish and European research funders" ;
+    trsp:att.035ACCB10D "Institutional open-access research data repository of DTU. Provides DOI-linked data publication and long-term archiving for research data across all DTU disciplines. Supports FAIR principles and Danish and European open data policies." ;
+    trsp:att.1BF23E39F5 "All common formats; preferred formats recommended for long-term preservation" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "Danish e-Infrastructure Cooperation (DeiC)",
+        "DataCite Denmark",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Denmark" ;
+    trsp:att.48BF7E1522 "2015" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "DTU researchers and affiliated project partners; open for reuse internationally" ;
+    trsp:att.54317F78CB "Multidisciplinary engineering, natural science and technical research data" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access; some restricted access options" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal-certified processes" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – managed by DTU Library; governed by DTU Research Data Management policy" .
+
+<https://data.esrf.fr/> trsp:att.01D16EFB9B "ESRF (intergovernmental organisation of 22 countries); national member/associate country governments; ~6,500 visiting scientists annually; PaNOSC and LEAPS partner facilities" ;
+    trsp:att.035ACCB10D "Data repository for photon science experiments conducted at the ESRF synchrotron. Stores and archives raw experimental data, processed data, and associated metadata from X-ray science experiments at the ESRF beamlines. Implements the ESRF Open Data Policy (2016). Data released publicly after embargo (maximum 3 years). First synchrotron repository to receive CoreTrustSeal certification." ;
+    trsp:att.1BF23E39F5 "HDF5 (NeXus format), EDF (ESRF Data Format), TIFF/CBFLIB for crystallography, CBF, HDF5/Nexus files; format depends on beamline technique" ;
+    trsp:att.1D00720769 "Metadata: forever; raw data: minimum 10 years" ;
+    trsp:att.241E6C58DF "Calipsoplus",
+        "EOSC",
+        "ExPaNDS",
+        "FAIRsFAIR",
+        "LEAPS (League of European Accelerator-based Photon Sources)",
+        "OpenAIRE",
+        "PaNOSC (Photon and Neutron Open Science Cloud)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "ESRF data portal accessible through EOSC marketplace",
+        "Yes – ESRF is active participant in EOSC via PaNOSC and ExPaNDS projects",
+        "coordinated PaNOSC project implementing open science cloud for photon and neutron facilities" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "European",
+        "France" ;
+    trsp:att.48BF7E1522 "2016" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "ESRF users (scientists who conducted experiments at ESRF beamlines); data embargo system; open access after embargo; DOIs assigned to all datasets" ;
+    trsp:att.54317F78CB "Raw and processed X-ray experimental data; photon science data; macromolecular crystallography data; tomography data; spectroscopy data; scattering data; metadata from ICAT system" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "ICAT metadata catalogue schema",
+        "NeXus/HDF5 standard",
+        "PaN ontologies",
+        "Phenix/CCP4 crystallographic standards" ;
+    trsp:att.6B7CED5897 "Data embargoed for up to 3 years after experiment; released publicly after embargo expires; proposers access their own data immediately; metadata always open" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Metadata preserved forever; raw data preserved minimum 10 years; high-value datasets preserved longer; CoreTrustSeal certified for data management standards" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – operated by ESRF staff; governed by ESRF Council of 22 member countries; ESRF is an intergovernmental organisation" .
+
+<https://data.ru.nl/> trsp:att.01D16EFB9B "Radboud University; NWO; Netherlands Organisation for Scientific Research; Dutch research community" ;
+    trsp:att.035ACCB10D "Institutional research data repository of Radboud University providing long-term archiving and access for multidisciplinary research data. Supports FAIR principles and Dutch and European funder data sharing requirements. Particular strength in humanities, social sciences, and cognitive neuroscience." ;
+    trsp:att.1BF23E39F5 "All common formats; format recommendations provided" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DANS",
+        "Dutch National Data Management network",
+        "EOSC",
+        "OpenAIRE",
+        "SURF" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Netherlands" ;
+    trsp:att.48BF7E1522 "2016" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Radboud University researchers and affiliated project partners; open for reuse internationally" ;
+    trsp:att.54317F78CB "Multidisciplinary research data; notable collections in humanities, social sciences and neuroscience" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open and restricted access; sensitive data with controlled access through Data Access Committees" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; institutional commitment by Radboud University" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Radboud University Library; governed by Radboud University RDM policy" .
+
+<https://data.sciencespo.fr/dataverse/cdsp> trsp:att.01D16EFB9B "Sciences Po Paris; CNRS; French Ministry of Higher Education; CESSDA; Progedo; French SSH research community" ;
+    trsp:att.035ACCB10D "French national centre for socio-political research data hosted at Sciences Po. Archives, curates and provides access to surveys, election studies, political science datasets and humanities data. Manages the data.sciencespo Dataverse instance encompassing both CDSP and self-deposit collections." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, PDF, NVivo" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (French Service Provider)",
+        "EOSC",
+        "OpenAIRE",
+        "Progedo (French SSH data infrastructure)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "France" ;
+    trsp:att.48BF7E1522 "1998" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "French and international social science researchers; primary focus on political science, electoral studies, sociology" ;
+    trsp:att.54317F78CB "Survey microdata; electoral and voting data; qualitative datasets; political science and sociology datasets; French and comparative data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook",
+        "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Free for academic use; registration required; some sensitive microdata under controlled access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; Sciences Po institutional guarantee; CESSDA-aligned curation" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Sciences Po Paris; CDSP is a joint research centre of Sciences Po and CNRS" .
+
+<https://data.utm.csic.es/portal> trsp:att.01D16EFB9B "CSIC; UTM Barcelona; Spanish marine science and oceanography community; EU marine research infrastructure projects" ;
+    trsp:att.035ACCB10D "Marine technology and oceanographic data centre of CSIC's UTM (Marine Technology Unit). Provides data management, archiving and open access to oceanographic expedition data, bathymetric data and marine research datasets from CSIC research vessels and affiliated projects." ;
+    trsp:att.1BF23E39F5 "NetCDF, ODV (Ocean Data View), SEG-Y, CSV; various marine domain formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CSIC open science infrastructure",
+        "EMODnet",
+        "EOSC",
+        "PANGAEA",
+        "SeaDataNet" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Spain" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Marine scientists and oceanographers in Spain and internationally; data from CSIC research vessel expeditions" ;
+    trsp:att.54317F78CB "Oceanographic expedition data; bathymetric data; marine geophysics; geological and biological marine data; sediment data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "BODC Parameter Usage Vocabulary",
+        "CF Conventions",
+        "OGC standards",
+        "SeaDataNet CDI (Common Data Index)" ;
+    trsp:att.6B7CED5897 "Open and restricted access per dataset sensitivity" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving of marine expedition data; linked to CSIC institutional preservation infrastructure" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – CSIC / UTM Barcelona; governed by CSIC research data policies" .
+
+<https://datarepositorium.uminho.pt/> trsp:att.01D16EFB9B "University of Minho; FCT (Fundação para a Ciência e a Tecnologia); Portuguese research community; European open science stakeholders" ;
+    trsp:att.035ACCB10D "Multidisciplinary institutional research data repository of the University of Minho. Provides DOI assignment, metadata documentation, sharing and long-term archiving for research data from UMinho researchers across all disciplines. Supports FAIR principles and open science." ;
+    trsp:att.1BF23E39F5 "All common formats; preferred formats recommended for long-term preservation" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "EOSC",
+        "FCT Open Science guidelines",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Portugal" ;
+    trsp:att.48BF7E1522 "2019" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "University of Minho researchers and affiliated research units; all disciplines; free to deposit" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all domains" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "domain-specific vocabularies as required" ;
+    trsp:att.6B7CED5897 "Open access by default; restricted access options available" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation as per CoreTrustSeal requirements; institutional guarantee by UMinho" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by UMinho University Libraries and Documentation Services (USDB); governed by Open Science policies of UMinho" .
+
+<https://datashare.ed.ac.uk/> trsp:att.01D16EFB9B "University of Edinburgh; UKRI; UK research funders; Jisc; Scottish research community" ;
+    trsp:att.035ACCB10D "Institutional open-access research data repository of the University of Edinburgh. One of the oldest UK institutional data repositories. Provides long-term preservation and sharing of multidisciplinary research data. Supports UKRI and funder open data mandates." ;
+    trsp:att.1BF23E39F5 "All common formats; preservation format guidance provided" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DataCite UK",
+        "EOSC",
+        "Jisc",
+        "OpenAIRE",
+        "Research Data Scotland" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "United Kingdom" ;
+    trsp:att.48BF7E1522 "2009" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "University of Edinburgh researchers; open for international reuse; all disciplines" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access; some restricted access options; data request workflow available" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified; University of Edinburgh infrastructure" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – University of Edinburgh Library; governed by UoE Research Data Management policy" .
+
+<https://dataverse.csuc.cat/> trsp:att.01D16EFB9B "CSUC; Catalan universities (UAB, UB, UdG, UdL, UPC, UPF, URV, URL); AGAUR; Spanish research funders" ;
+    trsp:att.035ACCB10D "Catalan consortium research data repository for universities and research centres in Catalonia. Provides multidisciplinary data archiving, DOI assignment and open access. Part of the CORA (Consorci de Repositoris Acadèmics) open science infrastructure for Catalan institutions." ;
+    trsp:att.1BF23E39F5 "All common formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DataCite Spain",
+        "EOSC",
+        "OpenAIRE",
+        "RECOLECTA (Spanish national harvester)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Spain" ;
+    trsp:att.48BF7E1522 "2017" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers at CSUC member institutions; open for international reuse" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified; CSUC institutional guarantee" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Consortium – CSUC consortium of Catalan universities and research centres; governed by CSUC board" .
+
+<https://dataverse.no/dataverse/trolling> trsp:att.01D16EFB9B "UiT The Arctic University of Norway; CLARIN ERIC; CLARINO; international linguistics community" ;
+    trsp:att.035ACCB10D "FAIR-aligned open-access repository for linguistic datasets and statistical code used in linguistics research. All data accompanied by searchable metadata. Linguists worldwide invited to deposit data and code. Special collection within DataverseNO; CLARIN C-Centre." ;
+    trsp:att.1BF23E39F5 "CSV, R scripts, Python scripts, ELAN, Praat TextGrid, plain text, audio, video" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CLARIN ERIC (C Centre)",
+        "CLARINO",
+        "DataverseNO",
+        "SSHOC" ;
+    trsp:att.27C898E8A0 "CLARIN C-Centre certification",
+        "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Norway" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Linguists worldwide; no institutional affiliation required to deposit; free of charge" ;
+    trsp:att.54317F78CB "Linguistic datasets; statistical code (R, Python, etc.); survey data; experimental data; text corpora; encoded data" ;
+    trsp:att.543A727F84 "CC0" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CLARIN VLO metadata (CMDI)",
+        "DDI",
+        "DataCite",
+        "Dublin Core",
+        "ISO 639 language codes" ;
+    trsp:att.6B7CED5897 "Open access; free for all users to browse, download and deposit" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation through DataverseNO infrastructure; UiT institutional guarantee" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – owned and operated by UiT University Library; Steering Committee with international Scientific Advisory Board" .
+
+<https://disprot.org/> trsp:att.01D16EFB9B "University of Padua (BioComputing UP lab); ELIXIR Italy; European Commission (Horizon 2020 IDPcentral); Indiana University (historical co-developer); iDP research community" ;
+    trsp:att.035ACCB10D "Manually curated database of intrinsically disordered proteins (IDPs) and regions (IDRs). Provides structural, functional and experimental annotation for proteins lacking fixed 3D structure. Community resource for IDP bioinformatics research; annotates disorder using experimental evidence and three ontologies." ;
+    trsp:att.1BF23E39F5 "JSON, XML, TSV, FASTA; programmatic REST API access" ;
+    trsp:att.1D00720769 "Version-based; regular releases" ;
+    trsp:att.241E6C58DF "DOME ML recommendations",
+        "ELIXIR (European node – University of Padua / ELIXIR Italy)",
+        "IDPcentral",
+        "InterPro",
+        "MobiDB",
+        "UniProt",
+        "iDP-community" ;
+    trsp:att.27C898E8A0 "None formally",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "ELIXIR Italy is an EOSC participant",
+        "Yes – DisProt is available via EOSC marketplace as an ELIXIR service" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "International",
+        "Italy" ;
+    trsp:att.48BF7E1522 "2003" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Life scientists and bioinformaticians studying protein disorder; IDP community; open to all; accepts community annotations via curation interface" ;
+    trsp:att.54317F78CB "Intrinsically disordered protein/region annotations; experimental evidence records; functional annotations; protein sequences with disorder characterisation" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "Gene Ontology (GO) for functional annotation",
+        "Intrinsic Disorder Ontology (IDO)",
+        "MobiDB ontology",
+        "PDB cross-references",
+        "UniProt identifiers" ;
+    trsp:att.6B7CED5897 "Open access; all data freely available; API access unrestricted" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Versioned releases; data preserved per release; hosted on ELIXIR Italy infrastructure; continuity through ELIXIR membership" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven – led by BioComputing UP Lab, University of Padua (Prof. Silvio Tosatto); international Scientific Advisory Board; collaborative with iDP community members" .
+
+<https://dv.dataverse.lv/dataverse/root> trsp:att.01D16EFB9B "Rīga Stradiņš University; Latvian Council of Science; Latvian research community" ;
+    trsp:att.035ACCB10D "Research data repository for Latvian research institutions. Provides data archiving, sharing and DOI assignment for multidisciplinary research data. Supports Latvian open science policy and funder data sharing requirements." ;
+    trsp:att.1BF23E39F5 "All common formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "Baltic research data network",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Latvia" ;
+    trsp:att.48BF7E1522 "2020" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Latvian researchers and research institutions; open for international reuse" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access; some restricted access for sensitive data" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation per institutional policy" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – Rīga Stradiņš University" .
+
+<https://edatos.consorciomadrono.es/> trsp:att.01D16EFB9B "Consorcio Madroño universities (UCM, UAM, UC3M, UAH, URJC, UNED, UAL, UPM, UPM-ETSIAAB); Comunidad de Madrid; Spanish research funders (AEI)" ;
+    trsp:att.035ACCB10D "Multidisciplinary research data repository for universities in the Consorcio Madroño (Community of Madrid). Provides open access data archiving, DOI assignment and FAIR data compliance for researchers across Madroño member universities." ;
+    trsp:att.1BF23E39F5 "All common formats; preferred formats listed on repository website" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DataCite Spain",
+        "EOSC",
+        "OpenAIRE",
+        "RECOLECTA",
+        "Spanish Open Science thematic network" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Spain" ;
+    trsp:att.48BF7E1522 "2019" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers at Consorcio Madroño member universities; open for international reuse" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all scientific and humanities disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified; Madroño consortium infrastructure" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Consortium – Consorcio Madroño member universities; governed by Madroño board; hosted on Madroño technical infrastructure" .
+
+<https://fiver.ifvcns.rs/> trsp:att.01D16EFB9B "IFVCNS researchers and staff; Ministry of Education, Science and Technological Development of Serbia" ;
+    trsp:att.035ACCB10D "Institutional open-access digital repository of the Institute of Field and Vegetable Crops. Provides access to publications and research outputs from IFVCNS projects including articles, conference papers, patents, theses and books. Compatible with international infrastructure via OAI-PMH harvesting." ;
+    trsp:att.1BF23E39F5 "PDF, XML" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Serbia" ;
+    trsp:att.48BF7E1522 "2008" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "IFVCNS staff and affiliated researchers; research outputs from IFVCNS projects" ;
+    trsp:att.54317F78CB "Articles, conference papers, patents, book chapters, doctoral theses, books, technical reports" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "Dublin Core",
+        "OpenAIRE metadata guidelines" ;
+    trsp:att.6B7CED5897 "Open access; freely available to all users" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation as part of institutional mandate; DSpace platform ensures ongoing archiving" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Managed by IFVCNS; overseen by the Ministry of Education, Science and Technological Development of the Republic of Serbia" .
+
+<https://glittr.org> trsp:att.01D16EFB9B "ELIXIR; DTL; bioinformatics training community; life sciences researchers globally" ;
+    trsp:att.035ACCB10D "Registry and catalogue of open training materials for bioinformatics and life sciences. Aggregates and makes findable training resources (tutorials, courses, notebooks) that support FAIR bioinformatics education. Not a primary data repository but a catalogue/registry of external training resources." ;
+    trsp:att.1BF23E39F5 "Markdown, Jupyter Notebooks (.ipynb), PDF, HTML; links to external resources on GitHub and other platforms" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DTL",
+        "ELIXIR Training Platform",
+        "EOSC",
+        "TeSS (ELIXIR Training e-Support System)" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "International",
+        "Netherlands" ;
+    trsp:att.48BF7E1522 "2021" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Bioinformaticians, life scientists, educators; open globally; community contributors via GitHub" ;
+    trsp:att.54317F78CB "Training materials: tutorials, courses, presentations, Jupyter notebooks, bioinformatics workflows" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "Bioschemas Training Course markup",
+        "Dublin Core",
+        "EDAM (bioinformatics operations/data/format ontology)" ;
+    trsp:att.6B7CED5897 "Open access; all materials free" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Materials stored in external repositories (GitHub etc.); catalogue maintained long-term by ELIXIR-NL" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven – maintained by ELIXIR-NL and DTL; open-source; community contributions via GitHub" .
+
+<https://granthub.cz/> trsp:att.01D16EFB9B "Startups, scaleups and SMEs; research institutions; investors and funds; innovation hubs and consortia; EU funding applicants; pan-European innovation ecosystem" ;
+    trsp:att.035ACCB10D "Strategic investment advisory and funding intelligence platform connecting research, innovation and investment ecosystems. Supports organisations in navigating EU and international funding programmes (Horizon Europe, Erasmus+, COST, EIC, Eurostars, LIFE, NATO SPS, Interreg) and structuring innovation funding applications. Not a traditional research data repository but a knowledge repository for funding and innovation opportunities." ;
+    trsp:att.1BF23E39F5 "Web-based content; PDF documents; structured web data" ;
+    trsp:att.1D00720769 "As per service agreements" ;
+    trsp:att.241E6C58DF "COST Association contacts",
+        "EIC community",
+        "EIT",
+        "EU funding ecosystem partners",
+        "Horizon Europe network" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "GrantHub operates in Czech Republic and European context but is not formally part of EOSC infrastructure",
+        "Limited – Czech Republic has an EOSC node (EOSC-CZ)" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Czechia",
+        "European" ;
+    trsp:att.48BF7E1522 "2015" ;
+    trsp:att.494B22C440 "Commercial" ;
+    trsp:att.521A4A9E17 "Research institutions, SMEs and startups seeking EU funding; innovation hubs; investors; pan-European clients" ;
+    trsp:att.54317F78CB "Funding opportunity information; grant guidance and best practice documentation; partnership and consortium data; innovation strategy knowledge" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "EU funding classification vocabularies",
+        "innovation taxonomy" ;
+    trsp:att.6B7CED5897 "Service-based access; subscription/fee model for premium advisory services; some public content" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Business continuity as per commercial operations" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Commercial company – GrantHub s.r.o.; private commercial entity; CEO-led management" .
+
+<https://gude.uni-frankfurt.de/home> trsp:att.01D16EFB9B "Goethe University Frankfurt; DFG; Hessian research community; European research funders" ;
+    trsp:att.035ACCB10D "Institutional research data repository of Goethe University Frankfurt providing open access to multidisciplinary research data from all university disciplines. Supports FAIR principles, DFG open data requirements and German NFDI integration." ;
+    trsp:att.1BF23E39F5 "All common formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DataCite Germany",
+        "EOSC",
+        "NFDI (Nationale Forschungsdateninfrastruktur)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Germany" ;
+    trsp:att.48BF7E1522 "2020" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Goethe University Frankfurt researchers and affiliated project partners" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all scientific and humanities disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access; some restricted access options" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation per institutional RDM policy" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – Goethe University Frankfurt Library; governed by GU Frankfurt RDM policy" .
+
+<https://infraart.inoe.ro/> trsp:att.01D16EFB9B "INOE 2000; European heritage science community; E-RIHS partner institutions; conservators and conservation scientists" ;
+    trsp:att.035ACCB10D "Spectral reference library of infrared and near-infrared spectroscopy data for art and cultural heritage materials. Provides open access to reference spectra enabling non-invasive identification of pigments, binders, varnishes and other heritage materials for conservation science." ;
+    trsp:att.1BF23E39F5 "JCAMP-DX, CSV, PDF; spectroscopic data formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "E-RIHS (European Research Infrastructure for Heritage Science)",
+        "EOSC",
+        "IPERION-HS" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Romania" ;
+    trsp:att.48BF7E1522 "2016" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Heritage scientists, conservators, museum professionals and researchers worldwide" ;
+    trsp:att.54317F78CB "Infrared (FTIR) spectra; near-infrared spectra; Raman spectra; spectroscopic reference datasets of heritage materials" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "AAT (Art and Architecture Thesaurus; Getty)",
+        "controlled vocabularies for materials",
+        "techniques and heritage objects" ;
+    trsp:att.6B7CED5897 "Open access; freely downloadable" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term hosting as part of E-RIHS and IPERION-HS European cultural heritage research infrastructure" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – INOE 2000; project-based funding via EU cultural heritage research programmes (IPERION-HS, E-RIHS)" .
+
+<https://library.camtree.org/home> trsp:att.01D16EFB9B "University of Cambridge Faculty of Education; teacher practitioners; educational researchers; schools and educational institutions" ;
+    trsp:att.035ACCB10D "Repository and exchange platform dedicated to teacher-practitioner research and inquiry. Enables classroom-based teachers to share evidence from their own research to improve educational practice. Unique focus on practitioner-led educational knowledge creation and dissemination." ;
+    trsp:att.1BF23E39F5 "PDF, Word (.docx), HTML; various document formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "EOSC (observer)",
+        "University of Cambridge digital library ecosystem" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "United Kingdom" ;
+    trsp:att.48BF7E1522 "2018" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Teachers and school-based educational practitioners; researchers in education; open to international contributors" ;
+    trsp:att.54317F78CB "Teacher research reports; practitioner inquiry datasets; educational research narratives; lesson study materials" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "Dublin Core",
+        "Educational taxonomies",
+        "curriculum-related controlled vocabularies" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "No APIs available" ;
+    trsp:att.768DAFA0DB "Long-term archiving via University of Cambridge infrastructure" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – Faculty of Education, University of Cambridge" .
+
+<https://lida.dataverse.lt/> trsp:att.01D16EFB9B "Kaunas University of Technology; Lithuanian Research Council; Ministry of Education, Science and Sport; CESSDA" ;
+    trsp:att.035ACCB10D "Lithuanian national data archive for social sciences and humanities. Archives, documents and provides access to Lithuanian SSH research datasets for secondary analysis, teaching and research. CESSDA Service Provider for Lithuania." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, PDF, audio" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (Lithuanian Service Provider)",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Lithuania" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Lithuanian and international social science and humanities researchers" ;
+    trsp:att.54317F78CB "Survey microdata; qualitative interview datasets; social science and humanities research data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Free for registered users; some sensitive datasets under controlled access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CESSDA-aligned curation standards" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Kaunas University of Technology; supported by Lithuanian Research Council and Ministry of Education" .
+
+<https://lindat.mff.cuni.cz/> trsp:att.01D16EFB9B "Charles University (ÚFAL); 14 Czech partner institutions; Czech Ministry of Education, Youth and Sports; CLARIN ERIC; DARIAH ERIC" ;
+    trsp:att.035ACCB10D "Czech national hub for CLARIN ERIC and DARIAH ERIC research infrastructures. Provides certified long-term storage, publication and NLP tool access for language data, digital humanities resources, text corpora and related research outputs. Promotes FAIR and open science principles." ;
+    trsp:att.1BF23E39F5 "XML, TEI, plain text, PDF, audio, video; NLP-specific formats (CONLL, UIMA)" ;
+    trsp:att.1D00720769 "Minimum 10 years post-infrastructure" ;
+    trsp:att.241E6C58DF "CLARIN ERIC (B Centre)",
+        "DARIAH ERIC",
+        "EHRI ERIC (from 2024)",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "CLARIN B-Centre certificate",
+        "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Czechia" ;
+    trsp:att.48BF7E1522 "2011" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers in linguistics, humanities and social sciences; industrial NLP users; free to deposit for all; special provisions for commercial use" ;
+    trsp:att.54317F78CB "Language data (text and speech corpora); NLP tools; digital humanities resources; lexicons; annotations; cultural heritage data" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CLARIN CMDI metadata",
+        "DataCite",
+        "Dublin Core",
+        "ISO linguistic annotation standards",
+        "TEI (Text Encoding Initiative)" ;
+    trsp:att.6B7CED5897 "Metadata CC0; data under depositor-specified licence (open licences encouraged); commercial use possible if allowed by attached licence" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Minimum 10 years after end of infrastructure; OAIS-compliant; hosted at ÚFAL with institutional guarantee" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "National research infrastructure; consortium of 15 Czech institutions led by Charles University (ÚFAL); funded by Czech Ministry of Education, Youth and Sports via MŠMT/OP VaVpI structural funds" .
+
+<https://morpheus.gitlab.io/model> trsp:att.01D16EFB9B "Morpheus development team (TU Dresden ZIH); international computational and systems biology research community" ;
+    trsp:att.035ACCB10D "Public repository for sharing and citing computational biology models created with the Morpheus multicellular simulation environment. Models are assigned persistent identifiers via identifiers.org and linked to publications for citation and reproducibility." ;
+    trsp:att.1BF23E39F5 "MorpheusML (XML-based), SBML" ;
+    trsp:att.1D00720769 "Ongoing (maintained by TU Dresden team)" ;
+    trsp:att.241E6C58DF "EOSC (via Morpheus tool registration)",
+        "identifiers.org" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Germany" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Morpheus software users worldwide; computational biology and systems biology researchers" ;
+    trsp:att.54317F78CB "Computational biology models (multicellular, multiscale); simulation parameters and outputs" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "MorpheusML schema",
+        "SBML (Systems Biology Markup Language)",
+        "identifiers.org persistent identifiers" ;
+    trsp:att.6B7CED5897 "Open access; all models freely downloadable" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Models preserved on GitLab infrastructure; persistent identifiers via identifiers.org" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Community-driven; managed by Morpheus development team at TU Dresden (ZIH)" .
+
+<https://opendata.nas.gov.ua/> trsp:att.01D16EFB9B "National Academy of Sciences of Ukraine; Ukrainian research community; Ukrainian research institutions" ;
+    trsp:att.035ACCB10D "Ukrainian national open research data repository hosted by the National Academy of Sciences of Ukraine. Provides open access to research data from Ukrainian scientific institutions across all disciplines. Supports Ukrainian open science development." ;
+    trsp:att.1BF23E39F5 "All common formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "EOSC",
+        "Global Dataverse Community Consortium (GDCC)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Ukraine" ;
+    trsp:att.48BF7E1522 "2021" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Ukrainian researchers and research institutions; open for international reuse" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; NAS Ukraine institutional commitment" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – National Academy of Sciences of Ukraine" .
+
+<https://pangaea.de/> trsp:att.01D16EFB9B "Alfred Wegener Institute (AWI); MARUM / University of Bremen; international Earth and environmental science community; WMO; national and international science projects" ;
+    trsp:att.035ACCB10D "Open-access library for archiving, publishing and distributing georeferenced data from Earth, environmental and biodiversity sciences. Focuses on observational and experimental data. Editorial curation ensures completeness, correctness and interoperability of all archived datasets." ;
+    trsp:att.1BF23E39F5 "Tab-delimited text, NetCDF, CSV, binary formats; ISO 19115-compliant metadata" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "DataCite",
+        "EOSC",
+        "ICSU World Data System (WDS; regular member since 2001)",
+        "OpenAIRE",
+        "WMO (World Radiation Monitoring Center – WRMC)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification",
+        "WDS accreditation (since 2001)" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Germany" ;
+    trsp:att.48BF7E1522 "1994" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Open to any scientist, project or institution worldwide; international community; editorial team works closely with submitters" ;
+    trsp:att.54317F78CB "Georeferenced observational and experimental data; Earth system, oceanographic, atmospheric, biological, geochemical data; images, videos; model outputs" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "BODC Parameter Usage Vocabulary",
+        "CF Conventions",
+        "Darwin Core",
+        "GCMD Keywords",
+        "ISO 19115 (geographic metadata)" ;
+    trsp:att.6B7CED5897 "Open access; free download after registration for large datasets; metadata always openly accessible" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving by AWI and MARUM; OAIS-compliant ingest; hosting institutions guarantee continuity; mirrors maintained" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Joint facility of AWI and MARUM; governed by steering committee (established 2011) representing both host institutions; coordination unit manages operations" .
+
+<https://phaidra.unipd.it/> trsp:att.01D16EFB9B "University of Padua; Italian research community; GARR; European cultural heritage community" ;
+    trsp:att.035ACCB10D "Institutional digital asset management and repository system of the University of Padua. Preserves and provides access to digital scholarly objects, research datasets, cultural heritage materials, and educational resources. PHAIDRA is open-source software adopted by multiple institutions." ;
+    trsp:att.1BF23E39F5 "PDF/A, TIFF, JP2 (JPEG2000), MP3, WAV, MP4, various document and dataset formats" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "EOSC",
+        "EduTech Austria consortium",
+        "GARR Italian academic network",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Italy" ;
+    trsp:att.48BF7E1522 "2008" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "University of Padua researchers, students and community; open for public access to open items" ;
+    trsp:att.54317F78CB "Research publications, datasets, cultural heritage objects, educational resources, images, audiovisual materials" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "METS",
+        "PREMIS (preservation metadata)" ;
+    trsp:att.6B7CED5897 "Open and restricted access; access controlled per object" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term digital preservation; OAIS-aligned; University of Padua institutional commitment; PHAIDRA software enables multi-institutional replication" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – University of Padua Library (CAB/CIRCE); governed by UPD open access policy" .
+
+<https://qdr.syr.edu/> trsp:att.01D16EFB9B "Syracuse University; Alfred P. Sloan Foundation; social science journals and publishers; qualitative research community" ;
+    trsp:att.035ACCB10D "Repository dedicated to storing, publishing and sharing qualitative and multi-method research data from social science. Pioneered the Active Citation framework linking publications to supporting data. Supports transparency and methodological rigour in qualitative research." ;
+    trsp:att.1BF23E39F5 "PDF, Word (.docx), audio (MP3, WAV), video (MP4), images (JPEG, TIFF), QDPX, NVivo (.nvp), ATLAS.ti (.atlproj), plain text" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (associate member)",
+        "IQSS Harvard",
+        "OpenAIRE",
+        "Qualitative and Multi-Method Research community" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "United States" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Social scientists internationally; data from qualitative and multi-method research; open to all disciplines requiring qualitative data management" ;
+    trsp:att.54317F78CB "Qualitative data (interviews, fieldnotes, documents); multi-method datasets; image, audio, video data; ATLAS.ti and NVivo project files" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative)",
+        "Dublin Core",
+        "Qualitative Data Repository metadata schema" ;
+    trsp:att.6B7CED5897 "Open and mediated access; some datasets under Data Use Agreements; embargoed access available" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation at Syracuse University; CoreTrustSeal certified" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Syracuse University Maxwell School; governed by advisory board with international membership; Sloan Foundation funded launch" .
+
+<https://radar.brookes.ac.uk/radar/hierarchy.do?topic=86e2c9d7-ef43-4b54-a387-3223d30acd3b> trsp:att.01D16EFB9B "Oxford Brookes University; UKRI; UK research funders; Jisc" ;
+    trsp:att.035ACCB10D "Institutional research data repository of Oxford Brookes University (Research Archive and Digital Asset Repository – RADAR). Supports data sharing and open access compliance for Oxford Brookes researchers across all faculties." ;
+    trsp:att.1BF23E39F5 "All common formats" ;
+    trsp:att.1D00720769 "Minimum 10 years" ;
+    trsp:att.241E6C58DF "EOSC",
+        "Jisc",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "United Kingdom" ;
+    trsp:att.48BF7E1522 "2018" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Oxford Brookes University researchers; open for reuse internationally" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access and restricted access per dataset settings" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; minimum 10 years per UK funder requirements; RADAR platform" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – Oxford Brookes University Library" .
+
+<https://radar.ibiss.bg.ac.rs/> trsp:att.01D16EFB9B "IBISS; University of Belgrade; Ministry of Education, Science and Technological Development of Serbia" ;
+    trsp:att.035ACCB10D "Institutional open-access digital repository of the Institute for Biological Research 'Siniša Stanković'. Provides access to scientific publications, research articles and research outputs from IBISS staff across all biological sciences." ;
+    trsp:att.1BF23E39F5 "PDF, various document formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Serbia" ;
+    trsp:att.48BF7E1522 "2017" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "IBISS staff, researchers and doctoral students" ;
+    trsp:att.54317F78CB "Scientific articles, conference papers, doctoral theses, book chapters in biological sciences" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term archiving; DSpace platform with institutional backup" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by IBISS Library and IT services" .
+
+<https://rdr.kuleuven.be/> trsp:att.01D16EFB9B "KU Leuven; FWO (Research Foundation Flanders); Belgian research community; European research funders" ;
+    trsp:att.035ACCB10D "Institutional research data repository of KU Leuven providing open access to multidisciplinary research data from all KU Leuven faculties and research groups. Supports KU Leuven open science policy and funder data sharing mandates." ;
+    trsp:att.1BF23E39F5 "All common formats; format recommendations provided" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "EOSC",
+        "LIRIAS (KU Leuven research information system)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Belgium" ;
+    trsp:att.48BF7E1522 "2019" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "KU Leuven researchers and affiliated research groups; all faculties and disciplines" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all scientific and humanities disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access by default; restricted access options available for sensitive data" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint",
+        "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation per KU Leuven RDM policy" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – KU Leuven Libraries; governed by KU Leuven Research Data Management policy" .
+
+<https://recherche.data.gouv.fr/en/page/about-recherche-data-gouv> trsp:att.01D16EFB9B "French Ministry of Higher Education and Research; INRAE; consortium of French universities and research institutions; National Fund for Open Science (FNSO); French researchers" ;
+    trsp:att.035ACCB10D "French national multidisciplinary open research data ecosystem and repository. Provides a trusted, open-access repository for French researchers who lack a domain-specific repository. Part of France's Second National Plan for Open Science. Facilitates data sharing, discovery and reuse across all disciplines." ;
+    trsp:att.1BF23E39F5 "All common research data formats accepted" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (associated)",
+        "DataCite France",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "CoreTrustSeal Certification",
+        "In progress" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "France" ;
+    trsp:att.48BF7E1522 "2022" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "French researchers in all disciplines; depositors must agree to DANS-style selection criteria" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all scientific fields" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "discipline-specific metadata schemas as applicable" ;
+    trsp:att.6B7CED5897 "Open access by default; restricted access for legally justified exceptions (personal data, IP, confidentiality)" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation aligned with French national open science policy; built on Dataverse infrastructure" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "National platform coordinated by INRAE; governed by a consortium of French HEIs and research organisations; funded by the National Fund for Open Science (FNSO)" .
+
+<https://registry.dome-ml.org/intro> trsp:att.01D16EFB9B "University of Padua (BioComputing UP); CERTH/INAB; ELIXIR Italy; ELIXIR Greece; ML biology research community; GigaScience Press (journal integration)" ;
+    trsp:att.035ACCB10D "Registry curating machine learning methods applied in biology from scientific publications. Implements the DOME (Data, Optimization, Model, Evaluation) recommendations for reporting supervised ML in biology. Assigns unique DOME identifiers and DOME scores to publications; supports community curation. Aims to improve reproducibility and transparency of ML in life sciences." ;
+    trsp:att.1BF23E39F5 "JSON (MongoDB); REST API; DSW (Data Stewardship Wizard) annotations" ;
+    trsp:att.1D00720769 "Long-term / ongoing" ;
+    trsp:att.241E6C58DF "APICURON",
+        "Data Stewardship Wizard (DSW)",
+        "ELIXIR Greece",
+        "ELIXIR Italy",
+        "ELIXIR Machine Learning Focus Group",
+        "EOSC",
+        "GigaScience Press",
+        "ORCID" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "ELIXIR Italy and ELIXIR Greece are EOSC participants",
+        "Yes – accessible via EOSC marketplace as an ELIXIR service" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "International",
+        "Italy" ;
+    trsp:att.48BF7E1522 "2023" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Life sciences and bioinformatics researchers publishing ML studies; journal reviewers and editors; open to all for community curation via DOME-DSW" ;
+    trsp:att.54317F78CB "Annotations of supervised machine learning studies in biology: dataset metadata, optimisation details, model descriptions, evaluation criteria; DOME scores" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "APICURON",
+        "DOME recommendations schema",
+        "Data Stewardship Wizard (DSW) metadata template",
+        "ORCID" ;
+    trsp:att.6B7CED5897 "Open access; public annotations freely accessible; private annotations for pre-publication manuscripts" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term hosting on ELIXIR Italy infrastructure; MongoDB-based; versioned records" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven – led by BioComputing UP Lab (University of Padua) and INAB-CERTH (Greece); ELIXIR Machine Learning Focus Group provides community governance" .
+
+<https://repo.researchdata.hu/> trsp:att.01D16EFB9B "KIFÜ; NKFIH; Hungarian Academy of Sciences; Hungarian universities and research institutions; European open science stakeholders" ;
+    trsp:att.035ACCB10D "Hungarian national research data repository providing archiving, DOI assignment and open access to research data from Hungarian institutions across all disciplines. Developed as part of the DART project (Developing Appropriate Research data management Techniques for Hungarian research)." ;
+    trsp:att.1BF23E39F5 "All common formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DART project",
+        "EOSC",
+        "Hungarian Open Science community",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Hungary" ;
+    trsp:att.48BF7E1522 "2021" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Hungarian researchers; open for international reuse; all disciplines" ;
+    trsp:att.54317F78CB "Multidisciplinary research data across all disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access; some restricted access options" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – operated by KIFÜ; governed by NKFIH open science strategy" .
+
+<https://riunet.upv.es/home> trsp:att.01D16EFB9B "Universitat Politècnica de València; Spanish research funder (AEI); European research funders; UPV research community" ;
+    trsp:att.035ACCB10D "Institutional open-access repository of the Universitat Politècnica de València providing access to research publications, datasets, theses, conference papers and educational materials from UPV. Complies with Spanish and European open access mandates." ;
+    trsp:att.1BF23E39F5 "PDF, various dataset formats, video, audio; IEEE LOM for educational objects" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "DataCite Spain",
+        "EOSC",
+        "OpenAIRE",
+        "RECOLECTA (Spanish national open access harvester)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Spain" ;
+    trsp:att.48BF7E1522 "2009" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "UPV researchers, doctoral students and teaching staff; all faculties; open for reuse" ;
+    trsp:att.54317F78CB "Research publications; datasets; doctoral theses; conference papers; educational learning objects" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "IEEE LOM (Learning Object Metadata)",
+        "OpenAIRE metadata guidelines" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – UPV Library; governed by UPV open access and research data policy" .
+
+<https://rivec.institut-palanka.rs/> trsp:att.01D16EFB9B "Institut Palanka; Ministry of Education, Science and Technological Development of Serbia; Serbian wine and viticulture community" ;
+    trsp:att.035ACCB10D "Institutional digital repository of the Institute for Viticulture and Enology (Institut Palanka, Negotin). Provides open access to scientific publications, research outputs and documentation in viticulture, enology and related agricultural sciences." ;
+    trsp:att.1BF23E39F5 "PDF, various document formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "OpenAIRE" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Serbia" ;
+    trsp:att.48BF7E1522 "2019" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Institut Palanka staff and researchers; all published outputs from institute activities" ;
+    trsp:att.54317F78CB "Scientific articles, research reports, documentation in viticulture, enology, pomology and related agricultural sciences" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Institutional Repository" ;
+    trsp:att.6AF56A372D "Dublin Core" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term archiving as part of institutional mandate" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Institutional – managed by Institut Palanka" .
+
+<https://sasd.sav.sk/en/> trsp:att.01D16EFB9B "Institute for Sociology SAS; Comenius University Bratislava; Slovak Ministry of Education; CESSDA" ;
+    trsp:att.035ACCB10D "National Slovak archive collecting, preserving and disseminating data and metadata from sociological research for non-commercial research and teaching purposes. Actively gathers data from international programmes (ISSP, EVS, ESS). Supports secondary analysis of social survey data." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, PDF documentation" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (Consortium of European Social Science Data Archives) – member since 2013" ;
+    trsp:att.27C898E8A0 "None formally listed",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Slovakia" ;
+    trsp:att.48BF7E1522 "2004" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Social science researchers; data from sociological research projects; open to all for non-commercial use" ;
+    trsp:att.54317F78CB "Quantitative sociological survey datasets; international comparative surveys (ISSP, EVS, ESS)" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) 1/2",
+        "migrating to DDI 3.0" ;
+    trsp:att.6B7CED5897 "Free for non-commercial research and teaching; registration required" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term digital preservation; standards-based archiving" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Jointly operated by Institute for Sociology SAS and Dept of Sociology, Comenius University; supported by Slovak Ministry of Education, Science, Research and Sport" .
+
+<https://sikt.no/en/archiving-research-data> trsp:att.01D16EFB9B "Norwegian Ministry of Education and Research; Norwegian research community; Research Council of Norway; CESSDA; Nordic research institutions" ;
+    trsp:att.035ACCB10D "Norwegian national archive for social science and humanities research data. Acquires, curates and disseminates social science datasets for secondary analysis. Also responsible for data protection officer function for Norwegian research institutions and CESSDA Service Provider for Norway." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, NVivo, PDF/A, audio, video" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (Norwegian Service Provider)",
+        "EOSC",
+        "Nordic e-Infrastructure Collaboration (NeIC)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Norway" ;
+    trsp:att.48BF7E1522 "1971" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Norwegian and international social science researchers; data from Norwegian register authorities; CESSDA harvested" ;
+    trsp:att.54317F78CB "Survey microdata; register-based data; qualitative data; election data; social science and humanities datasets" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CESSDA-CV controlled vocabularies",
+        "DDI (Data Documentation Initiative)",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Free for registered users; sensitive and register data under controlled access agreements" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation as part of national infrastructure mandate; OAIS-aligned" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Sikt is a Norwegian state enterprise (statsforetak) under the Ministry of Education and Research of Norway" .
+
+<https://site.uit.no/dataverseno/> trsp:att.01D16EFB9B "UiT The Arctic University of Norway; 16 Norwegian partner institutions including NMBU, NTNU, OsloMet, Nord University; Norwegian Research Council" ;
+    trsp:att.035ACCB10D "Curated, FAIR-aligned national generic repository for open research data from all academic disciplines in Norway. Owned and operated by UiT. Accepts submissions primarily from Norwegian research institutions. Includes institutional collections and special collections (e.g., TROLLing)." ;
+    trsp:att.1BF23E39F5 "All common formats; format sustainability guidance provided" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (via Norwegian node)",
+        "EOSC",
+        "FIDELIS TDR Network",
+        "Global Dataverse Community Consortium (GDCC)",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Norway" ;
+    trsp:att.48BF7E1522 "2017" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers from Norwegian research institutions primarily; some international collections accepted; no-cost deposit for institutional members" ;
+    trsp:att.54317F78CB "All types of open research data across all disciplines" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DDI",
+        "DataCite Metadata Schema",
+        "Dublin Core",
+        "discipline-specific schemas",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access; all published datasets open by default; embargoed access available" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation committed; DataverseNO Policy Framework governs preservation; OAIS-aligned" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Consortium – owned and operated by UiT The Arctic University of Norway; governed by board of 17 Norwegian partner institutions" .
+
+<https://string-db.org/> trsp:att.01D16EFB9B "Swiss Institute of Bioinformatics; EMBL; University of Copenhagen; biomedical and life sciences research community globally" ;
+    trsp:att.035ACCB10D "Database of known and predicted protein-protein interactions (direct physical and indirect functional associations). Integrates data from genomic context, high-throughput experiments, co-expression, and text mining. Covers >5,000 organisms. Widely used for functional enrichment analysis." ;
+    trsp:att.1BF23E39F5 "TSV, JSON, XML; PSICQUIC-compatible formats" ;
+    trsp:att.1D00720769 "Version-based; each version archived; updated periodically" ;
+    trsp:att.241E6C58DF "ELIXIR",
+        "EMBL-EBI",
+        "ExPASy (SIB)",
+        "OpenAIRE",
+        "UniProt consortium" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Life Sciences" ;
+    trsp:att.4570870110 "Denmark",
+        "Germany",
+        "Switzerland" ;
+    trsp:att.48BF7E1522 "2000" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Life scientists, bioinformaticians, biomedical researchers worldwide; academic and commercial users" ;
+    trsp:att.54317F78CB "Protein-protein interaction data; functional annotation; genomic context data; co-expression data; text-mining derived associations" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "COG functional categories",
+        "Ensembl gene identifiers",
+        "Gene Ontology (GO)",
+        "KEGG",
+        "NCBI taxonomy",
+        "UniProt" ;
+    trsp:att.6B7CED5897 "Open access; free for academic use; commercial licence required for commercial applications" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Data updated with each versioned release (v10, v11, v11.5, v12); maintained by consortium; not OAIS-certified" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven – collaborative international bioinformatics infrastructure operated by consortium of SIB, EMBL and University of Copenhagen; grant funded by Swiss National Science Foundation, EU and others" .
+
+<https://ukdataservice.ac.uk/about/> trsp:att.01D16EFB9B "ESRC / UKRI; University of Essex; University of Manchester; Jisc; academic, government, charity and commercial data users" ;
+    trsp:att.035ACCB10D "UK's largest national data service for social, economic and population data. Provides research access to government-sponsored surveys, longitudinal studies, census data, international comparative datasets and qualitative data. Serves researchers, students, teachers, government, charities and business." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), SAS, CSV, NVivo, plain text, PDF/A, audio, video" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "CESSDA",
+        "EOSC",
+        "FIDELIS TDR Network",
+        "Jisc",
+        "OpenAIRE",
+        "UK Statistics Authority" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification",
+        "ISO 27001",
+        "UK Statistics Authority Data Accreditation" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "United Kingdom" ;
+    trsp:att.48BF7E1522 "2012" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "ESRC-funded researchers must deposit data; open to academia, government, charities, commercial sector; international users welcome" ;
+    trsp:att.54317F78CB "Survey microdata; longitudinal study data; UK census data; international aggregate data; business microdata; qualitative data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook and Lifecycle",
+        "Dublin Core",
+        "SDMX" ;
+    trsp:att.6B7CED5897 "Free to registered users; some safeguarded data under secure access (Special Licence); controlled access for sensitive data" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; ISO 27001 certified; OAIS-aligned; ISO 16363 informed; UK Data Archive has preserved data since 1967" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Service managed by UK Data Archive (University of Essex) as lead; ESRC/UKRI-funded national service; governance through ESRC advisory structures" .
+
+<https://www.adp.fdv.uni-lj.si/> trsp:att.01D16EFB9B "University of Ljubljana (FDV); Slovenian Research Agency (ARRS); CESSDA; Slovenian research community" ;
+    trsp:att.035ACCB10D "National Slovenian archive for social science data (ADP – Arhiv družboslovnih podatkov). Acquires, preserves and disseminates quantitative and qualitative social science datasets for secondary analysis, research and teaching." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, PDF" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (Slovenian Service Provider)",
+        "EOSC" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Slovenia" ;
+    trsp:att.48BF7E1522 "1997" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Slovenian and international social science researchers; Slovenian research projects encouraged to deposit" ;
+    trsp:att.54317F78CB "Survey microdata; qualitative datasets; public opinion data; social science datasets from Slovenian research" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook",
+        "Dublin Core" ;
+    trsp:att.6B7CED5897 "Free for academic use; registration required" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CESSDA-aligned curation and archiving practices" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – Faculty of Social Sciences (FDV), University of Ljubljana; supported by Slovenian Research Agency (ARRS)" .
+
+<https://www.cessda.eu/> trsp:att.01D16EFB9B "15+ European member countries (national governments or delegated institutions); national social science data archives as Service Providers; European social science research community; ESFRI; European Commission" ;
+    trsp:att.035ACCB10D "European research infrastructure consortium for social science data. CESSDA does not itself operate a data repository but sets standards for, coordinates and provides access to the distributed holdings of its national Service Provider archives. The Trust and Standards page describes CESSDA's CoreTrustSeal requirements for all Service Providers. CESSDA Data Catalogue provides a single discovery point for 40,000+ datasets across 15 national archives." ;
+    trsp:att.1BF23E39F5 "Metadata records in CESSDA Data Catalogue; national archives hold data in their own formats (SPSS, Stata, CSV, DDI)" ;
+    trsp:att.1D00720769 "Long-term (coordinated by national Service Providers)" ;
+    trsp:att.241E6C58DF "CLARIN ERIC",
+        "DARIAH ERIC",
+        "EOSC",
+        "ESFRI Roadmap (since 2006)",
+        "OpenAIRE",
+        "RDA (Research Data Alliance)",
+        "SSHOC (Social Sciences and Humanities Open Cloud)" ;
+    trsp:att.27C898E8A0 "CESSDA ERIC itself supports and coordinates certification",
+        "CoreTrustSeal Certification",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "CESSDA Data Catalogue is part of EOSC",
+        "CESSDA is an EOSC Association member",
+        "Yes – CESSDA ERIC is a major EOSC provider" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "European",
+        "Norway" ;
+    trsp:att.48BF7E1522 "2017" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Social science researchers in CESSDA member countries and internationally; data deposited at national archives" ;
+    trsp:att.54317F78CB "Social science data (surveys, microdata, qualitative data, longitudinal studies) – held by national Service Providers, not CESSDA centrally; CESSDA Data Catalogue holds metadata only" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CESSDA Controlled Vocabulary (CV) Service",
+        "DDI (Data Documentation Initiative) Codebook and Lifecycle",
+        "Dublin Core",
+        "SDMX" ;
+    trsp:att.6B7CED5897 "Metadata open access via CESSDA Data Catalogue; actual data access governed by individual national Service Providers" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation responsibility lies with individual CoreTrustSeal-certified national Service Providers; CESSDA coordinates standards and best practice" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "European Research Infrastructure Consortium (ERIC); General Assembly of national member institutions; Board of Directors; Science and Infrastructure Board; national Service Providers in each member country; Trust Group for certification coordination" .
+
+<https://www.clarin.eu/content/national-consortia> trsp:att.01D16EFB9B "23+ European member countries (national governments/intergovernmental organisations); CLARIN national consortia; humanities and social sciences research community; ESFRI; European Commission" ;
+    trsp:att.035ACCB10D "Pan-European distributed research infrastructure providing unified access to language data, NLP tools, and expertise for humanities and social sciences researchers. Operates the Virtual Language Observatory (VLO) metadata catalogue, Federated Content Search, Language Resource Switchboard and other central services. National CLARIN centres hold the actual data." ;
+    trsp:att.1BF23E39F5 "XML, TEI, CMDI (Component Metadata Infrastructure), ELAN, Praat TextGrid, plain text, audio, video; all common NLP formats" ;
+    trsp:att.1D00720769 "Long-term / indefinite" ;
+    trsp:att.241E6C58DF "DARIAH ERIC",
+        "EOSC",
+        "ESFRI Roadmap",
+        "ICSU World Data System (network member)",
+        "OpenAIRE",
+        "SSHOC",
+        "UNESCO" ;
+    trsp:att.27C898E8A0 "CLARIN ERIC itself operates the distributed infrastructure",
+        "CoreTrustSeal Certification",
+        "Not certified" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "Yes – CLARIN ERIC is a major EOSC provider and contributor",
+        "central services available through EOSC marketplace",
+        "member of EOSC Association" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "European",
+        "Netherlands" ;
+    trsp:att.48BF7E1522 "2012" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Researchers in humanities, social sciences and language technology worldwide; data deposited at national CLARIN centres, not centrally at CLARIN ERIC" ;
+    trsp:att.54317F78CB "Language resources: text corpora, speech corpora, lexicons, annotations; NLP tools; metadata records (via VLO – ~850,000 records); user-generated linguistic analyses" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CLARIN CMDI (Component Metadata Infrastructure)",
+        "DataCite",
+        "Dublin Core",
+        "ISO linguistic annotation standards",
+        "ISOcat concept registry",
+        "TEI" ;
+    trsp:att.6B7CED5897 "Open access for most resources; some restricted access (copyright, sensitivity); single sign-on via CLARIN Virtual Language Switchboard and federated identity management" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term preservation is guaranteed by individual CLARIN national centres (each must hold CoreTrustSeal); CLARIN ERIC coordinates standards and policies centrally" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "European Research Infrastructure Consortium (ERIC) governed by General Assembly of national members; Board of Directors for management; Executive Director; Scientific Advisory Board; National Coordinators Forum for cross-country coordination" .
+
+<https://www.fairdata.fi/> trsp:att.01D16EFB9B "Finnish Ministry of Education and Culture; CSC – IT Center for Science; Finnish universities and research institutions; Academy of Finland; EOSC" ;
+    trsp:att.035ACCB10D "Finnish national research data services ecosystem supporting FAIR data management. Components include IDA (storage and preservation), Qvain (metadata description tool) and Etsin (research data finder/catalogue). Provides national infrastructure for open and fair research data across all disciplines." ;
+    trsp:att.1BF23E39F5 "All common formats; IDA supports all file types; Fairdata PAS (Preservation Service) migrates to sustainable formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (via FSD)",
+        "CSC national HPC and data services",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Finland" ;
+    trsp:att.48BF7E1522 "2017" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Finnish researchers; open to international use; free for Finnish research organisations" ;
+    trsp:att.54317F78CB "All types of research data across all disciplines; sensitive data with controlled access" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "KOKO ontology service integration",
+        "domain-specific vocabularies" ;
+    trsp:att.6B7CED5897 "Open and restricted access; metadata always open; data access per depositor settings; sensitive data via controlled access" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation via Fairdata PAS (Preservation Service); CSC infrastructure guarantees; national mandate" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – operated by CSC under mandate from Finnish Ministry of Education and Culture; national research data infrastructure" .
+
+<https://www.fsd.tuni.fi/en/> trsp:att.01D16EFB9B "Tampere University; Finnish Ministry of Education and Culture; Finnish research funders (Academy of Finland); CESSDA; Finnish research community" ;
+    trsp:att.035ACCB10D "Finnish national resource centre for research and education in social sciences. Archives, promotes and disseminates digital research data for research, teaching and learning. Specialises in Finnish society, people and cultural phenomena. Provides data management services and training." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, PDF/A, audio (MP3, WAV), video" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA (member)",
+        "EOSC",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Finland" ;
+    trsp:att.48BF7E1522 "1999" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Finnish and international social science researchers; data from funded Finnish research projects encouraged; open to all for non-commercial use" ;
+    trsp:att.54317F78CB "Quantitative survey datasets; qualitative datasets (interviews, fieldwork materials, open-ended responses); register data" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative) Codebook",
+        "THESOZ",
+        "YSO (General Finnish Ontology / Yleinen suomalainen ontologia)" ;
+    trsp:att.6B7CED5897 "Free for registered users; research, teaching and study purposes; some sensitive data under controlled access" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "OAI-PMH Harvesting Endpoint" ;
+    trsp:att.768DAFA0DB "Long-term archiving and preservation; migration to new formats as needed; OAIS-aligned practices" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional unit of Tampere University; funded by Finnish Ministry of Education and Culture" .
+
+<https://www.gesis.org/en/data-services> trsp:att.01D16EFB9B "German Federal Government; German State Governments (Länder); 60 German universities (members of GESIS e.V.); researchers and institutions using GESIS data services" ;
+    trsp:att.035ACCB10D "Germany's largest infrastructure institute for the social sciences. Archives, curates and disseminates quantitative social science research data (surveys, longitudinal studies, election studies, digital behavioural data) for secondary use. Operates DOI registration agency da|ra for social science data." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), SAS, CSV, Excel; documentation in PDF and DDI formats" ;
+    trsp:att.1D00720769 "Indefinite (in perpetuity)" ;
+    trsp:att.241E6C58DF "CESSDA",
+        "EOSC",
+        "Leibniz Association",
+        "da|ra (DOI registration agency)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Germany" ;
+    trsp:att.48BF7E1522 "1986" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Social science researchers internationally; all sectors including academia, government, NGOs; self-deposit and acquisition from major survey programs" ;
+    trsp:att.54317F78CB "Quantitative survey data; longitudinal study data; election and party data; digital behavioural data; microdata" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DDI (Data Documentation Initiative)",
+        "DataCite Metadata Schema",
+        "SDMX",
+        "controlled vocabularies for social science concepts" ;
+    trsp:att.6B7CED5897 "Free for registered users; public use files open; some sensitive microdata require access agreements" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation in perpetuity; OAIS-compliant; GESIS is funded under stable Leibniz Association framework" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Non-profit association (GESIS e.V.); jointly funded by German federal government and 16 state governments (Article 91b of German Basic Law); member of Leibniz Association; seven-year funding cycles" .
+
+<https://www.kielipankki.fi/language-bank/> trsp:att.01D16EFB9B "CSC – IT Center for Science; FIN-CLARIN consortium universities; Academy of Finland; Finnish Ministry of Education and Culture; CLARIN ERIC" ;
+    trsp:att.035ACCB10D "Finnish national infrastructure for language research providing access to text and speech corpora, lexical resources and language technology tools. Serves linguists and language technology researchers in Finland and internationally. Finnish node of CLARIN ERIC." ;
+    trsp:att.1BF23E39F5 "XML, TEI, CSV, plain text, audio (WAV, MP3), video; NLP formats (CONLL, UIMA CAS)" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CLARIN ERIC (Finnish national node; B-centre)",
+        "EOSC",
+        "FIN-CLARIN",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "CLARIN B-Centre certification",
+        "Certified" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "Finland" ;
+    trsp:att.48BF7E1522 "2001" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Finnish linguistics researchers primarily; open to international academic use; corpus management tools (Korp, Kielipankki Download) provided" ;
+    trsp:att.54317F78CB "Text corpora; speech corpora; lexicons and terminologies; linguistic annotations; language technology tools; parallel corpora" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CLARIN CMDI metadata",
+        "Dublin Core",
+        "ISO linguistic annotation standards (ISO 24612; ISO 24611)",
+        "TEI (Text Encoding Initiative)" ;
+    trsp:att.6B7CED5897 "Open access for openly licensed resources; restricted access (registration + licence agreement) for copyright-controlled corpora; tool access via CLARIN single sign-on" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation via CSC infrastructure (national IT infrastructure); CLARIN B-centre standards" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Consortium – FIN-CLARIN consortium of Finnish universities; CSC provides technical infrastructure; governance by FIN-CLARIN management group; funded by Academy of Finland and Ministry of Education and Culture" .
+
+<https://www.mylaminin.net/> trsp:att.01D16EFB9B "Principal Investigators; research-intensive institutions; Research Ethics Boards; Legal Services; EOSC Association; ARDC" ;
+    trsp:att.035ACCB10D "Commercial research data management and archiving platform using blockchain and Web3 technology. Supports secure sensitive data archiving, multi-jurisdictional team collaboration, agreement management and regulatory compliance (HIPAA, PIPEDA, 21 CFR Part 11). SOC2 Type II certified." ;
+    trsp:att.1BF23E39F5 "All major research file formats; supports medical imaging and PHI-sensitive data types" ;
+    trsp:att.1D00720769 "Per institutional agreement / SLA" ;
+    trsp:att.241E6C58DF "ARDC (RAiD integration)",
+        "CANARIE",
+        "FIDELIS TDR Network",
+        "Internet2" ;
+    trsp:att.27C898E8A0 "Not certified",
+        "SOC2 Type II" ;
+    trsp:att.2F993B25AD "Other" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Canada" ;
+    trsp:att.48BF7E1522 "2020" ;
+    trsp:att.494B22C440 "Commercial" ;
+    trsp:att.521A4A9E17 "Research institutions and Principal Investigators globally; subscription-based access; sensitive data focus" ;
+    trsp:att.54317F78CB "Sensitive and regulated research data; clinical trial data; PHI (Protected Health Information); survey data with participant consent" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "FAIR principles",
+        "OCAP principles (Indigenous data sovereignty)",
+        "medical ontologies as applicable" ;
+    trsp:att.6B7CED5897 "Role-based access control; data sovereignty maintained per jurisdiction; legal agreement management built in" ;
+    trsp:att.6EF77F35F8 "Membership" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Blockchain-immutable audit trail; long-term archiving with institutional SLAs; SOC2 Type II compliance" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Commercial company incorporated in Ottawa, Ontario; CEO/COO-led management structure" .
+
+<https://www.ortolang.fr/en/home/> trsp:att.01D16EFB9B "ATILF/CNRS; Université de Lorraine; French CLARIN consortium (CLARIN-FR); HUMA-NUM; French linguistics research community" ;
+    trsp:att.035ACCB10D "French national infrastructure for language and speech resources (CLARIN French B-Centre). Archives and provides open access to language corpora, lexicons, NLP tools and terminological resources for French language research and language technology development." ;
+    trsp:att.1BF23E39F5 "XML, TEI, PRAAT TextGrid, ELAN (.eaf), CSV, plain text, audio (WAV, MP3), video" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CLARIN ERIC (French B-Centre)",
+        "DARIAH-FR",
+        "EOSC",
+        "HUMA-NUM",
+        "OpenAIRE" ;
+    trsp:att.27C898E8A0 "CLARIN B-Centre certification",
+        "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "Handle" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "France" ;
+    trsp:att.48BF7E1522 "2012" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Linguistics and language technology researchers in France and internationally; free for academic use" ;
+    trsp:att.54317F78CB "Text and speech corpora; lexicons and terminological resources; NLP and language analysis tools; oral heritage collections" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "CLARIN CMDI metadata",
+        "ISO linguistic annotation standards",
+        "SKOS",
+        "TEI (Text Encoding Initiative)" ;
+    trsp:att.6B7CED5897 "Open access for openly licensed resources; restricted access (registration required) for some copyright-controlled corpora" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation via HUMA-NUM infrastructure; CLARIN B-Centre standards" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Consortium – ATILF/CNRS leads; national infrastructure under CLARIN-FR umbrella; funded by Agence Nationale de la Recherche (ANR) and CNRS; hosted on HUMA-NUM infrastructure" .
+
+<https://www.rohub.org/> trsp:att.01D16EFB9B "PSNC; EGI Foundation; University of Manchester; EOSC; European open science community" ;
+    trsp:att.035ACCB10D "Repository and management hub for Research Objects (ROs) – aggregations of data, methods, workflows, code, publications and documentation. Supports FAIR-compliant sharing of executable, reproducible research. Implements the RO-Crate standard for packaging research outputs." ;
+    trsp:att.1BF23E39F5 "RO-Crate (.zip, JSON-LD), CWL, Nextflow, Galaxy workflow formats; various component formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "EGI",
+        "EOSC",
+        "NEANIAS Horizon projects",
+        "OpenAIRE",
+        "RELIANCE",
+        "RO-Crate community" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "International",
+        "Spain" ;
+    trsp:att.48BF7E1522 "2014" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Researchers in data-intensive and computational fields; life sciences, earth sciences, social sciences workflows" ;
+    trsp:att.54317F78CB "Research Objects (aggregated data, code, workflows, publications, documentation, provenance); workflow descriptions" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "PROV-O (provenance ontology)",
+        "RO-Crate",
+        "schema.org" ;
+    trsp:att.6B7CED5897 "Open access; free to create and share Research Objects" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving of Research Objects; persistent identifiers assigned" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven – international consortium of PSNC, EGI, University of Manchester; funded through EU Horizon projects" .
+
+<https://www.socib.es/en> trsp:att.01D16EFB9B "CSIC; Government of the Balearic Islands; Spanish Ministry of Science, Innovation and Universities; EU Copernicus programme; international oceanographic community" ;
+    trsp:att.035ACCB10D "Repository for oceanographic, coastal and metocean observation data from the Balearic Sea and western Mediterranean. Provides open access to glider data, sea level observations, wave data, SST and other marine environmental datasets. Integrates with EMODnet and Copernicus Marine Service." ;
+    trsp:att.1BF23E39F5 "NetCDF (OGC WMS/WFS compliant), CSV, JSON; CF Conventions compliant" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "Copernicus Marine Service (CMEMS)",
+        "EMODnet (European Marine Observation and Data Network)",
+        "EOSC",
+        "JERICO-S3",
+        "SeaDataNet" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Spain" ;
+    trsp:att.48BF7E1522 "2011" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "Oceanographers, marine scientists, coastal engineers and environmental researchers internationally; open to all" ;
+    trsp:att.54317F78CB "Oceanographic and coastal observation data: sea level, glider profiles, wave data, SST, current data, CTD profiles; model outputs" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "BODC Parameter Discovery Vocabulary",
+        "CF Conventions (Climate and Forecast)",
+        "OGC WMS/WFS standards",
+        "SeaDataNet CDI" ;
+    trsp:att.6B7CED5897 "Open access; all data freely downloadable" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation; CoreTrustSeal certified; SOCIB institutional mandate" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – SOCIB co-funded by CSIC and Government of the Balearic Islands; governed by SOCIB Steering Committee" .
+
+<https://www.storedb.org/store_v3/> trsp:att.01D16EFB9B "SCK CEN; MELODI consortium; European radiation biology community; EURADOS; EC Horizon-funded radiation research projects" ;
+    trsp:att.035ACCB10D "International platform for archiving and sharing primary research data on the effects of radiation, including epidemiological, experimental and tissue biobank data. Provides a directory of bioresources and databases. Supports the radiation research commons and data reuse in radiobiology." ;
+    trsp:att.1BF23E39F5 "CSV, Excel, various biological data formats; Standard Operating Procedures (SOPs) for tissue evaluation" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CONCERT (European Joint Programme for the Integration of Radiation Protection Research)",
+        "DoReMi",
+        "EURADOS (European Radiation Dosimetry Group)",
+        "MELODI" ;
+    trsp:att.27C898E8A0 "None",
+        "Not certified" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Belgium",
+        "International" ;
+    trsp:att.48BF7E1522 "2013" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "Radiation biology, radiobiology and radiation protection researchers internationally; open to all disciplines intersecting with radiation effects" ;
+    trsp:att.54317F78CB "Epidemiological data; experimental radiation biology data; dosimetric data; tissue/biobank sample information" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "MeSH (Medical Subject Headings)",
+        "radiobiology-specific controlled vocabularies" ;
+    trsp:att.6B7CED5897 "Open access for most data; some data under controlled access agreements" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving per project mandate and MELODI infrastructure commitment" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Community-driven; operated by SCK CEN; governed by MELODI consortium with European radiation biology community" .
+
+<https://www.swissubase.ch/en/> trsp:att.01D16EFB9B "FORS (lead); University of Lausanne; University of Zurich; University of Neuchâtel; DaSCH (collaborating partner for humanities from 2024); swissuniversities; SNSF; SWITCH (infrastructure hosting)" ;
+    trsp:att.035ACCB10D "Swiss national cross-disciplinary platform for the curation, preservation and dissemination of research data and metadata. Launched 2021 to succeed FORSbase. Covers social sciences (via FORS DSU), linguistics (via LaRS/CLARIN-CH) and other disciplines (via institutional DSUs). Metadata harvested by CESSDA, CLARIN and DARIAH." ;
+    trsp:att.1BF23E39F5 "SPSS (.sav), Stata (.dta), CSV, plain text, XML, audio, video, images; all common formats" ;
+    trsp:att.1D00720769 "Long-term" ;
+    trsp:att.241E6C58DF "CESSDA",
+        "CLARIN ERIC (LaRS is CLARIN B-Centre via LiRI/LaRS partnership)",
+        "DARIAH (humanities integration)",
+        "EOSC" ;
+    trsp:att.27C898E8A0 "CLARIN B-Centre (LaRS+LiRI)",
+        "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Multiple/General" ;
+    trsp:att.4570870110 "Switzerland" ;
+    trsp:att.48BF7E1522 "2021" ;
+    trsp:att.494B22C440 "Consortium" ;
+    trsp:att.521A4A9E17 "Swiss higher education researchers primarily; DSUs curate for their communities (social sciences, linguistics, humanities, institutional); free to deposit for Swiss researchers" ;
+    trsp:att.54317F78CB "Quantitative and qualitative social science data; linguistics and language data; humanities data; research project metadata; sensitive/restricted datasets" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Multi-disciplinary Repository" ;
+    trsp:att.6AF56A372D "CESSDA Controlled Vocabulary",
+        "CLARIN CMDI (for linguistics)",
+        "DDI (Data Documentation Initiative)",
+        "DataCite Metadata Schema",
+        "Dublin Core",
+        "DublinCore for interoperability" ;
+    trsp:att.6B7CED5897 "Open access and restricted access; closed access possible for sensitive data; requires SWITCH edu-ID login for restricted data; access requests managed by DSUs" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation on Swiss SWITCH servers; CoreTrustSeal certified; FAIR-aligned; data preserved in Switzerland; continuity guaranteed by consortium agreement" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Consortium – operated by FORS under a 'Simple Society' agreement with Universities of Lausanne, Neuchâtel and Zurich; each institution provides a Data Service Unit (DSU); launched 2021, consortium formalised January 2022" .
+
+<https://www.wdc-climate.de/ui/> trsp:att.01D16EFB9B "DKRZ; AWI; Helmholtz Climate Initiative; German and international climate research community; WMO; WDS/ISC" ;
+    trsp:att.035ACCB10D "Repository for Earth system model output and climate research data products. Provides long-term archiving, publication and dissemination of climate model data, observational datasets and reanalysis products in compliance with FAIR principles. Operated by DKRZ as part of German climate research infrastructure." ;
+    trsp:att.1BF23E39F5 "NetCDF (CF Conventions), HDF5, GRIB, GRIB2; ATMODAT standard-compliant formats" ;
+    trsp:att.1D00720769 "Minimum 10 years; typically indefinite" ;
+    trsp:att.241E6C58DF "CMIP infrastructure",
+        "EOSC",
+        "ICSU World Data System (WDS; regular member since 2003)",
+        "IS-ENES",
+        "WMO (Data Collection and Processing Centre – DCPC)" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification",
+        "WDS accreditation" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "Yes" ;
+    trsp:att.3B633179C5 "Physical Sciences" ;
+    trsp:att.4570870110 "Germany" ;
+    trsp:att.48BF7E1522 "1999" ;
+    trsp:att.494B22C440 "Institutional" ;
+    trsp:att.521A4A9E17 "International climate and Earth system science researchers; primarily output from DKRZ HPC projects and CMIP model contributions" ;
+    trsp:att.54317F78CB "Climate model output (CMIP, PMIP, C4MIP); reanalysis data; observational climate records; atmospheric data; ocean data" ;
+    trsp:att.543A727F84 "Other" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "ATMODAT Standard",
+        "CF Conventions (Climate and Forecast)",
+        "DataCite Metadata Schema",
+        "GCMD Science Keywords",
+        "ISO 19115" ;
+    trsp:att.6B7CED5897 "Free to registered users; metadata openly accessible; some datasets require institutional affiliation" ;
+    trsp:att.6EF77F35F8 "Structural Income or Budget Allocation" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term archiving guaranteed by DKRZ; minimum 10 years; active preservation including format migration; OAIS-aligned" ;
+    trsp:att.78CC017229 "Yes" ;
+    trsp:att.7C68DBB456 "Institutional – hosted and maintained by DKRZ; governed by DKRZ board and in cooperation with AWI, HZG and other German climate research centres" .
+
+<https://zenodo.org/communities/homeros/records?q=&l=list&p=1&s=10&sort=newest> trsp:att.01D16EFB9B "OSCARS project consortium; Greek research institutions; European humanities research community; CERN/Zenodo infrastructure" ;
+    trsp:att.035ACCB10D "Community collection within Zenodo for the HOMEROS initiative under the OSCARS (Open Science Cluster Action for Research and Society) Horizon Europe project. Focuses on humanities and social science research outputs and datasets from OSCARS-affiliated communities in Greece and Europe." ;
+    trsp:att.1BF23E39F5 "PDF, CSV, various document and dataset formats" ;
+    trsp:att.1D00720769 "Long-term (via Zenodo CERN)" ;
+    trsp:att.241E6C58DF "EOSC",
+        "OSCARS (Open Science Cluster Action for Research and Society)",
+        "OpenAIRE",
+        "Zenodo/CERN" ;
+    trsp:att.27C898E8A0 "Certified",
+        "CoreTrustSeal Certification" ;
+    trsp:att.2F993B25AD "DOI" ;
+    trsp:att.394BC515E7 "No" ;
+    trsp:att.3B633179C5 "Social Sciences & Humanities" ;
+    trsp:att.4570870110 "European",
+        "Greece" ;
+    trsp:att.48BF7E1522 "2023" ;
+    trsp:att.494B22C440 "Community-driven" ;
+    trsp:att.521A4A9E17 "HOMEROS/OSCARS project participants; humanities researchers in Greece and Europe" ;
+    trsp:att.54317F78CB "Humanities and social science research data; publications; cultural heritage materials; open science outputs" ;
+    trsp:att.543A727F84 "CC-BY" ;
+    trsp:att.6A715E3A22 "Discipline-specific Repository" ;
+    trsp:att.6AF56A372D "DataCite Metadata Schema",
+        "Dublin Core",
+        "Zenodo metadata standards" ;
+    trsp:att.6B7CED5897 "Open access" ;
+    trsp:att.6EF77F35F8 "Grants" ;
+    trsp:att.7298144E24 "REST API" ;
+    trsp:att.768DAFA0DB "Long-term preservation via Zenodo/CERN infrastructure (10+ year guarantee)" ;
+    trsp:att.78CC017229 "No" ;
+    trsp:att.7C68DBB456 "Community-driven – OSCARS project consortium; hosted on Zenodo as a community collection" .
+
