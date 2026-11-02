@@ -1,0 +1,27 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+<https://eden-fidelis.eu/network-member>
+    a foaf:Group, foaf:Organization, org:Organization ;
+    rdfs:label "FIDELIS Network"@en ;
+    foaf:name "FIDELIS Network of Trusted Repositories" ;
+    dct:title "FIDELIS Network" ;
+    dct:description "The European network of trusted repositories and service providers collaborating under FIDELIS."@en ;
+    foaf:homepage <https://eden-fidelis.eu/network-member> ;
+    dct:publisher [
+        a foaf:Organization ;
+        foaf:name "FIDELIS-EDEN Consortium" ;
+        foaf:homepage <https://eden-fidelis.eu>
+    ] ;
+    dcat:contactPoint [
+        a vcard:Kind ;
+        vcard:fn "FIDELIS Coordination Office" ;
+        vcard:hasEmail <mailto:contact@eden-fidelis.eu> ;
+        vcard:url <https://eden-fidelis.eu/contact>
+    ] .
